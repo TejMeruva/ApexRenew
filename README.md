@@ -3,4 +3,4 @@
 ## Description
 
 ## Solution Architecture
-![Solution_Architecture](Architecture.jpg)
+![Solution_Architecture|200](Architecture.jpg)
