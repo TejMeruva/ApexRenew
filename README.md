@@ -3,4 +3,4 @@
 ## Description
 
 ## Solution Architecture
-[!Architecture.jpg]
+![Solution_Architecture](Architecture.jpg)
