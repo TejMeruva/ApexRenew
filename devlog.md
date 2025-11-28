@@ -11,7 +11,10 @@
    - all insurance assumerd ot be of a term of 20 years. 
 
 2. [CRM_API_Script](FastAPI_Scripts/CRMAPI.py)
-   - uses OAuth2.0 tokens using the fastapi.security module
+   - uses `fastapi`
+   - uses OAuth2.0 tokens using the `fastapi.security` module
+   - implements post requests for token retrieval
+   - implements get requests for clients, policies tables retrieval
 
 3. [CRMRetrieval_Script](Retrieval_Scripts/CRMRetrieval.py)
    - uses a post request to get the OAuth2.0 token
