@@ -1,2 +1,6 @@
 venv/
 .DS_Store/
+__pycache__/
+/_rough/__pycache__
+/fake_CRM_data/__pycache__
+*.pyc
