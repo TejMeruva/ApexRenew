@@ -10,7 +10,7 @@ app = FastAPI()
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/token")
 
 users = pd.read_json('users.json')
-print(users)
+# print(users)
 
 def User(BaseModel):
     username: str

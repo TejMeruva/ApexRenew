@@ -1,5 +1,7 @@
 import requests
 import pandas as pd
+import json
+from io import StringIO
 
 def get_crm_headers(uname: str, passwd: str):
     url = "http://localhost:8000/token"
@@ -35,29 +37,24 @@ def get_colab_headers(uname: str, passwd: str):
 def get_client_data(crm_headers):
     url = "http://localhost:8000/clients"
     resp = requests.get(url, headers=crm_headers)
-    clients = pd.read_json(resp.json())
-    return clients
+    return pd.read_json(StringIO(resp.json()))
 
 def get_policies_data(crm_headers):
     url = "http://localhost:8000/policies"
     resp = requests.get(url, headers=crm_headers)
-    policies = pd.read_json(resp.json())
-    return policies
+    return pd.read_json(StringIO(resp.json()))
 
 def get_ms_emails_data(colab_headers):
     url = "http://localhost:8001/me/emails"
     resp = requests.get(url, headers=colab_headers)
-    emails = pd.read_json(resp.json())
-    return emails
+    return pd.read_json(StringIO(resp.json()))
 
 def get_ms_teams_users_data(colab_headers):
     url = "http://localhost:8001/teams/users"
     resp = requests.get(url, headers=colab_headers)
-    users = pd.read_json(resp.json())
-    return users
+    return pd.read_json(StringIO(resp.json()))
 
 def get_calendar_events_data(colab_headers):
     url = "http://localhost:8001/me/events"
     resp = requests.get(url, headers=colab_headers)
-    events = pd.read_json(resp.json())
-    return events
+    return pd.read_json(StringIO(resp.json()))
