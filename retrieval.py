@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-import json
 from io import StringIO
 
 def get_crm_headers(uname: str, passwd: str):
