@@ -11,4 +11,4 @@ def divPrint():
 def centerPrint(s):
     lines = s.split('\n')
     for line in lines:
-        print(f'{' '*((width()//2)-len(line)//2)}{line}')
+        print(f"{' ' * ((width() // 2) - (len(line) // 2))}{line}")
