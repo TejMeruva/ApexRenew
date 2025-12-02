@@ -47,3 +47,7 @@
    - obtains useranme and password from the user and then retrieves the tokens from the 2 APIs.
    - obtains the data only on user request.
    - uses `figlet` for CLI art.
+
+**02 December 2025** by Teja 
+1. [prioritization.py](prioritization.py)
+   - pulls data from `clients` table and `policies` table.
