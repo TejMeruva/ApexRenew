@@ -14,3 +14,20 @@ def premium_at_risk_score(premium_col: pd.Series) -> pd.Series:
                     score=x
                 ))/10
     return premium_col.apply(get_score)
+
+def sentiment_score(nps_score_col: pd.Series) -> pd.Series:
+    get_score = lambda x: (percentileofscore(
+                    a=nps_score_col,
+                    score=x
+                ))/10
+    return nps_score_col.apply(get_score)
+
+def reliability_score(time_per_col: pd.Series) -> pd.Series:
+    get_score = lambda x: (100 - percentileofscore(
+                    a=time_per_col,
+                    score=x
+                ))/10
+    return time_per_col.apply(get_score)
+
+def churn_prob_score():
+    pass

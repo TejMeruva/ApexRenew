@@ -54,5 +54,15 @@
    - all scoring guidelines specified in [PrioritizationPlayground](_prioritization_playground.ipynb)
    - finalized guidelines implemented in [prioritization.py](prioritization.py)
    - scoring similar to calcualtion GPA.
-2. [RandomDataGenerator.ipynb](RandomDataGenerator.ipynb)
+   - factors affecting GPA:
+     - time to expiry score (out of 10)
+     - premium at risk score (out of 10)
+     - user sentiment score (based on avg rating form Net Prmotor Surveys)
+     - user reliability (based on frequesncy of user logins)
+2. [churn_model](models\churn_rate_predictor.ipynb)
+   - made more fake data using [RandomDataGenerator](RandomDataGenerator.ipynb)
+   - generated assumed churn state
+   - trained `XGB Model` for classification.
+   - saved the model and wrote `churn_score` in [prioritization](prioritization.py) module
+3. [RandomDataGenerator.ipynb](RandomDataGenerator.ipynb)
    - prevented the duplication of ids.

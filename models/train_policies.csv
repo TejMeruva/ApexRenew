@@ -1,0 +1,1001 @@
+policy_id,client_id,line_of_business,issuing_carrier,issued_on,expiry_date,premium_amount,premium_bill_to,renewal_status,last_updated,broker_commision_pct
+P007860,C001611,Exercise physiologist,Wagner Inc Insurance Inc.,2005-05-31,2025-05-31,1070.7979600652027,Premium Finance Company,New,2025-11-28,10.779305410532094
+P005156,C002570,"Nurse, mental health","Perkins, Hicks and Mendoza Insurance Inc.",2005-09-19,2025-09-19,450.3716761755951,Payroll Vendor,Renewal Quoted,2025-11-28,7.931847170733915
+P009640,C003734,Press sub,Rivera-Delacruz Insurance Inc.,2005-09-24,2025-09-24,661.9828774448616,Subsidiary,Renewal Quoted,2025-11-28,7.88846593547275
+P009660,C002092,Police officer,Russell Group Insurance Inc.,2005-10-02,2025-10-02,216.98883238858198,Insured,Canceled,2025-11-28,8.701980186916025
+P007267,C006646,Press sub,"Young, Good and Scott Insurance Inc.",2005-06-14,2025-06-14,344.0571554489981,Third-Party Billing,Renewal Quoted,2025-11-28,7.532531630944685
+P007071,C006374,Paediatric nurse,"Neal, Zamora and Gonzalez Insurance Inc.",2005-03-19,2025-03-19,7865.1002014832075,Insured,Marketing,2025-11-28,12.812623255272609
+P007517,C009998,Market researcher,"Jackson, Jones and Henson Insurance Inc.",2004-12-10,2024-12-10,4490.981659855426,Parent Company,New,2025-11-28,11.866785731420054
+P002829,C007791,Medical illustrator,"Hernandez, Oneill and Mckenzie Insurance Inc.",2005-04-02,2025-04-02,365.13909349233415,Subsidiary,Canceled,2025-11-28,3.444436614969474
+P008280,C008615,Hospital doctor,Garner Group Insurance Inc.,2004-12-14,2024-12-14,263.57650644695076,Premium Finance Company,Marketing,2025-11-28,18.51525460479998
+P002449,C008018,Clothing/textile technologist,"Herrera, Flores and Murphy Insurance Inc.",2005-08-02,2025-08-02,3150.7849033218477,Subsidiary,Marketing,2025-11-28,12.423551655836308
+P008502,C008170,Air cabin crew,Young Inc Insurance Inc.,2005-03-11,2025-03-11,1318.6421930380957,Subsidiary,New,2025-11-28,13.221105543496222
+P005628,C009510,"Surveyor, commercial/residential","Mendez, Holmes and Martinez Insurance Inc.",2005-08-08,2025-08-08,461.35923891539557,Parent Company,Marketing,2025-11-28,13.410485296189117
+P003129,C006262,Dance movement psychotherapist,Jones-Elliott Insurance Inc.,2005-09-02,2025-09-02,1358.5178985969853,Mortgagee,Renewal Quoted,2025-11-28,8.464925954369079
+P009896,C009981,"Engineer, communications",Pratt-Robinson Insurance Inc.,2005-09-04,2025-09-04,267.59623730901313,Payroll Vendor,New,2025-11-28,11.610928587785097
+P009808,C008213,Fitness centre manager,"Hobbs, Rivera and Warner Insurance Inc.",2005-07-21,2025-07-21,205.22181939616314,Third-Party Billing,Renewal Quoted,2025-11-28,16.51922154622167
+P003407,C003325,Intelligence analyst,Holmes-Reed Insurance Inc.,2005-04-20,2025-04-20,1794.8726801099597,Mortgagee,Marketing,2025-11-28,15.390803905566132
+P005062,C007753,Financial trader,Martinez LLC Insurance Inc.,2005-04-21,2025-04-21,1135.0110390461296,Payroll Vendor,Marketing,2025-11-28,11.192639246354652
+P003650,C007424,Building control surveyor,Ryan-Potts Insurance Inc.,2005-02-23,2025-02-23,2181.251806713623,Payroll Vendor,Renewal Quoted,2025-11-28,18.038744499255674
+P004859,C002054,Diplomatic Services operational officer,"Williams, Burgess and Jackson Insurance Inc.",2005-11-05,2025-11-05,279.550227832182,Parent Company,New,2025-11-28,14.387336561972502
+P004575,C007788,"Education officer, museum",Weber-Clark Insurance Inc.,2005-02-20,2025-02-20,3831.198900435701,Agency Bill,Canceled,2025-11-28,3.692471275511253
+P003254,C005688,Medical laboratory scientific officer,Larsen-Miller Insurance Inc.,2005-10-15,2025-10-15,471.9307646612452,Mortgagee,Canceled,2025-11-28,17.80639242759849
+P001612,C003411,Arboriculturist,"Fleming, Hayden and Miller Insurance Inc.",2005-11-02,2025-11-02,241.6197571048684,Subsidiary,Marketing,2025-11-28,10.500713783343462
+P005227,C004211,Television/film/video producer,"Weaver, Davis and Reese Insurance Inc.",2005-08-08,2025-08-08,1652.6473868826529,Payroll Vendor,Marketing,2025-11-28,13.295752449403787
+P003263,C003333,Quality manager,Martinez Inc Insurance Inc.,2005-11-07,2025-11-07,1502.2482351579645,Third-Party Billing,Renewal Quoted,2025-11-28,11.397384200080602
+P009457,C006080,Communications engineer,Lopez-Lewis Insurance Inc.,2004-12-24,2024-12-24,330.8671533005151,Insured,Renewal Quoted,2025-11-28,11.061544733625057
+P004023,C004457,"Merchandiser, retail",Thompson PLC Insurance Inc.,2005-09-23,2025-09-23,1030.7418577792164,Mortgagee,New,2025-11-28,12.269446371338072
+P009533,C009246,Animal technologist,"Gallegos, Rojas and Reynolds Insurance Inc.",2005-07-16,2025-07-16,5480.694260575393,Parent Company,Marketing,2025-11-28,6.678736199579925
+P001703,C004402,Press photographer,Davis LLC Insurance Inc.,2005-01-03,2025-01-03,1072.6678056561188,Agency Bill,Marketing,2025-11-28,8.217888685153996
+P006048,C002691,Cytogeneticist,Perez Ltd Insurance Inc.,2005-01-27,2025-01-27,534.3110910418959,Parent Company,Marketing,2025-11-28,12.664785697049403
+P007483,C002628,Illustrator,"Best, Smith and Hernandez Insurance Inc.",2005-05-01,2025-05-01,1658.0687147034926,Insured,New,2025-11-28,13.756059564674437
+P002738,C007345,Diplomatic Services operational officer,Wong Group Insurance Inc.,2005-02-11,2025-02-11,163.87562094960722,Agency Bill,New,2025-11-28,10.412110848355994
+P006455,C002070,Occupational psychologist,"Walker, Sanchez and Dixon Insurance Inc.",2005-02-17,2025-02-17,4304.747852352583,Subsidiary,Marketing,2025-11-28,9.997502040611026
+P003202,C005295,Armed forces logistics/support/administrative officer,"Shepard, Wilson and Cook Insurance Inc.",2005-02-20,2025-02-20,204.59179024438825,Insured,New,2025-11-28,5.615289401152802
+P008930,C007096,Financial controller,"Dennis, Bowman and Carter Insurance Inc.",2005-01-27,2025-01-27,819.0224204763572,Parent Company,Marketing,2025-11-28,13.544318023094988
+P007715,C001666,Building services engineer,"Evans, Barber and White Insurance Inc.",2005-08-10,2025-08-10,340.98628702487724,Mortgagee,New,2025-11-28,11.280557247494627
+P003659,C002030,"Psychologist, occupational","Daniel, Garcia and Miller Insurance Inc.",2005-03-31,2025-03-31,445.4039759032837,Insured,Canceled,2025-11-28,20.511318968583566
+P006101,C002536,Town planner,"Rogers, Herrera and Christian Insurance Inc.",2005-05-15,2025-05-15,516.2344482475258,Mortgagee,New,2025-11-28,5.070142683853471
+P003180,C004579,Ecologist,Mitchell and Sons Insurance Inc.,2005-07-25,2025-07-25,374.51970070320306,Payroll Vendor,New,2025-11-28,13.890966657709722
+P001586,C001499,Biomedical engineer,Bentley-Smith Insurance Inc.,2005-07-07,2025-07-07,3717.4296478881706,Subsidiary,Canceled,2025-11-28,17.350748622514516
+P006527,C003377,"Doctor, general practice","Nash, Wood and Nash Insurance Inc.",2005-01-14,2025-01-14,2813.649660201157,Direct Bill,New,2025-11-28,16.130775770448537
+P005549,C005083,Geographical information systems officer,"Hardin, Smith and Harris Insurance Inc.",2005-06-15,2025-06-15,185.7101660461459,Agency Bill,Canceled,2025-11-28,16.666545512623898
+P004670,C005003,Patent examiner,Gibson-Hernandez Insurance Inc.,2005-02-20,2025-02-20,263.2759308970445,Insured,Canceled,2025-11-28,8.59666523141107
+P008943,C005480,Meteorologist,Gould-Watts Insurance Inc.,2005-08-11,2025-08-11,465.4662209124709,Third-Party Billing,Renewal Quoted,2025-11-28,12.211425591482989
+P009852,C003465,Haematologist,"Lang, Larsen and Jordan Insurance Inc.",2005-07-08,2025-07-08,4922.718645471154,Parent Company,Canceled,2025-11-28,9.691456836735204
+P005983,C008846,Air broker,Wilson-Johnson Insurance Inc.,2005-03-23,2025-03-23,1115.3955522394099,Mortgagee,New,2025-11-28,18.79163817693651
+P001610,C002319,Osteopath,Arias-Gilbert Insurance Inc.,2005-11-23,2025-11-23,339.24441347279696,Premium Finance Company,Canceled,2025-11-28,3.657686657622654
+P003837,C006380,Building services engineer,"Strong, Adams and Collier Insurance Inc.",2005-09-12,2025-09-12,372.24996215130005,Payroll Vendor,Canceled,2025-11-28,18.185772719865994
+P004444,C005317,Social researcher,"Douglas, Jones and Davis Insurance Inc.",2005-02-28,2025-02-28,179.66336167086675,Payroll Vendor,Renewal Quoted,2025-11-28,6.6700831634245565
+P003718,C009764,"Engineer, communications",Garner LLC Insurance Inc.,2005-04-12,2025-04-12,1480.1010087525103,Agency Bill,New,2025-11-28,10.047120788866962
+P001145,C009492,"Engineer, biomedical","Baker, Malone and Rodriguez Insurance Inc.",2004-11-29,2024-11-29,486.8812726671451,Payroll Vendor,New,2025-11-28,12.422769641167102
+P005955,C007828,Tourism officer,Moran-Warren Insurance Inc.,2004-12-08,2024-12-08,452.63664689742166,Mortgagee,Canceled,2025-11-28,14.113164869647946
+P001184,C001548,"Designer, television/film set",Jones Group Insurance Inc.,2005-05-02,2025-05-02,7522.678312221801,Agency Bill,Renewal Quoted,2025-11-28,8.20609828247533
+P005776,C005179,Sports coach,Murillo-Miller Insurance Inc.,2004-12-23,2024-12-23,2111.4694916803724,Insured,Marketing,2025-11-28,7.997712676744783
+P007576,C002396,"Therapist, music","Gutierrez, Ford and Griffin Insurance Inc.",2005-07-03,2025-07-03,3261.7391986303774,Parent Company,Renewal Quoted,2025-11-28,18.53994112235582
+P007770,C003018,Holiday representative,"Gardner, Hodges and Joseph Insurance Inc.",2005-08-04,2025-08-04,6871.891179688241,Agency Bill,Marketing,2025-11-28,13.132308160764294
+P003975,C006026,Clinical embryologist,Jones PLC Insurance Inc.,2005-04-07,2025-04-07,384.86044114223637,Agency Bill,Marketing,2025-11-28,9.71656470721698
+P001083,C007495,"Editor, film/video",Welch Ltd Insurance Inc.,2005-10-18,2025-10-18,1375.118392421444,Parent Company,Renewal Quoted,2025-11-28,12.227367976254643
+P002439,C005463,Metallurgist,Stanley and Sons Insurance Inc.,2005-07-23,2025-07-23,299.4774438116027,Payroll Vendor,New,2025-11-28,7.135647611455403
+P007563,C003525,Theme park manager,Brown Group Insurance Inc.,2005-11-09,2025-11-09,4563.802971731252,Direct Bill,Marketing,2025-11-28,10.107092839213536
+P008738,C009003,"Programmer, systems",Lozano Ltd Insurance Inc.,2005-01-02,2025-01-02,628.8900132901722,Mortgagee,Marketing,2025-11-28,7.42382413177316
+P003560,C008699,Contracting civil engineer,"Garcia, Dyer and Choi Insurance Inc.",2005-05-05,2025-05-05,280.13497486362934,Insured,Renewal Quoted,2025-11-28,6.632197696464872
+P007343,C004139,Information systems manager,Castillo-Garcia Insurance Inc.,2005-04-26,2025-04-26,340.60695975979263,Parent Company,Canceled,2025-11-28,7.012486499981983
+P004831,C005546,Lawyer,Thompson-Smith Insurance Inc.,2005-01-19,2025-01-19,684.3259110542887,Mortgagee,Canceled,2025-11-28,12.348960220367882
+P009520,C009734,Statistician,Ward LLC Insurance Inc.,2004-12-16,2024-12-16,761.4910055999119,Agency Bill,Canceled,2025-11-28,13.71810117684511
+P003776,C004043,Probation officer,Brown Inc Insurance Inc.,2005-07-08,2025-07-08,382.7910503333239,Payroll Vendor,Renewal Quoted,2025-11-28,11.004190940218756
+P004758,C007582,Clothing/textile technologist,Daniels-Allen Insurance Inc.,2005-11-05,2025-11-05,178.38263207649058,Premium Finance Company,Canceled,2025-11-28,15.639710197578161
+P003810,C004547,Make,"Montgomery, Mcdaniel and Scott Insurance Inc.",2005-07-23,2025-07-23,1487.4291298061173,Parent Company,Canceled,2025-11-28,5.545771311093483
+P008370,C005478,Clinical cytogeneticist,Smith-Henderson Insurance Inc.,2005-01-03,2025-01-03,4131.613250026565,Direct Bill,Renewal Quoted,2025-11-28,11.148169515454558
+P007927,C007776,Soil scientist,"Kennedy, Grant and Garrett Insurance Inc.",2005-02-25,2025-02-25,110.00950408969913,Direct Bill,Renewal Quoted,2025-11-28,-0.5649216783473019
+P003914,C008944,Clinical cytogeneticist,Ross LLC Insurance Inc.,2005-01-12,2025-01-12,1554.003462621488,Payroll Vendor,New,2025-11-28,10.327559425341734
+P006614,C007900,Prison officer,Diaz Group Insurance Inc.,2005-02-24,2025-02-24,1097.1259374175502,Parent Company,New,2025-11-28,7.753825669130999
+P003003,C005236,Neurosurgeon,"Conner, Dodson and Anderson Insurance Inc.",2005-07-19,2025-07-19,432.4292224791232,Insured,Renewal Quoted,2025-11-28,15.299648742544978
+P006518,C002059,"Therapist, drama","Davis, Lewis and Walker Insurance Inc.",2005-03-18,2025-03-18,4422.7098718079205,Third-Party Billing,New,2025-11-28,14.573224053939178
+P004373,C009725,Television camera operator,"Cooper, Cervantes and Hayden Insurance Inc.",2004-12-17,2024-12-17,448.52443410330045,Third-Party Billing,Marketing,2025-11-28,11.52602620555
+P006514,C006788,Astronomer,"Martinez, Velez and Deleon Insurance Inc.",2005-05-31,2025-05-31,3400.275041718665,Agency Bill,Renewal Quoted,2025-11-28,9.564925135174285
+P003348,C009309,Haematologist,Richards Ltd Insurance Inc.,2005-05-24,2025-05-24,991.0411031298086,Subsidiary,New,2025-11-28,8.777297431222255
+P003440,C007239,Furniture conservator/restorer,Johnson-Wood Insurance Inc.,2005-11-01,2025-11-01,3053.717347184423,Subsidiary,Renewal Quoted,2025-11-28,11.90959187546733
+P004372,C001916,Jewellery designer,Wilson PLC Insurance Inc.,2005-08-02,2025-08-02,733.3416591367899,Parent Company,Marketing,2025-11-28,11.226135360052567
+P001906,C002304,Commercial/residential surveyor,"Johnston, Stephens and Skinner Insurance Inc.",2005-07-24,2025-07-24,1550.67443935343,Agency Bill,New,2025-11-28,13.358763048432621
+P001729,C008232,Race relations officer,Bryan PLC Insurance Inc.,2005-04-08,2025-04-08,536.8448820245017,Direct Bill,New,2025-11-28,9.351214607192103
+P002703,C008123,Financial manager,Mason-Hubbard Insurance Inc.,2005-05-13,2025-05-13,2517.3679219326455,Payroll Vendor,Renewal Quoted,2025-11-28,14.464597646108961
+P005988,C003077,Advertising account planner,Hoover-Drake Insurance Inc.,2004-12-01,2024-12-01,313.75908744280014,Parent Company,Marketing,2025-11-28,9.114871165324788
+P005269,C003009,"Engineer, civil (contracting)","Gonzalez, Dunn and Smith Insurance Inc.",2005-01-17,2025-01-17,276.21073870963033,Parent Company,Renewal Quoted,2025-11-28,11.829296313428642
+P007754,C006963,"Therapist, speech and language",Rodriguez and Sons Insurance Inc.,2005-11-26,2025-11-26,241.537336933528,Payroll Vendor,Canceled,2025-11-28,10.568368519116639
+P003689,C009085,Publishing rights manager,Meadows LLC Insurance Inc.,2005-02-12,2025-02-12,1415.9283137040372,Third-Party Billing,Renewal Quoted,2025-11-28,10.999986568889257
+P002266,C004409,Associate Professor,"Sullivan, Stone and Olson Insurance Inc.",2005-10-12,2025-10-12,299.45598714715237,Insured,New,2025-11-28,6.3056066611875305
+P003660,C001444,"Merchandiser, retail","Cooper, Warren and Blair Insurance Inc.",2005-06-16,2025-06-16,4170.95925516719,Subsidiary,Renewal Quoted,2025-11-28,8.290295495923463
+P008057,C007406,Geoscientist,"Long, Martinez and Hurst Insurance Inc.",2005-04-03,2025-04-03,3712.398111703874,Direct Bill,Canceled,2025-11-28,14.183324861728956
+P002557,C007234,Warehouse manager,Hill Inc Insurance Inc.,2005-04-21,2025-04-21,205.5095329155134,Third-Party Billing,Renewal Quoted,2025-11-28,9.119677374298215
+P003041,C005023,English as a second language teacher,Payne Group Insurance Inc.,2005-01-04,2025-01-04,834.8757534337677,Payroll Vendor,Canceled,2025-11-28,16.23399882882247
+P001101,C005237,"Scientist, water quality",Oconnor-Solomon Insurance Inc.,2005-04-29,2025-04-29,151.90039733882784,Mortgagee,Marketing,2025-11-28,11.208819369771398
+P003629,C008294,Trade mark attorney,Cunningham-Marsh Insurance Inc.,2005-04-23,2025-04-23,1688.0052425728213,Third-Party Billing,Marketing,2025-11-28,14.942537009856842
+P004863,C003486,Clinical embryologist,"Bolton, Romero and Simon Insurance Inc.",2005-10-20,2025-10-20,989.6079322765555,Direct Bill,Canceled,2025-11-28,15.020567800888804
+P005715,C001962,"Doctor, general practice",Jacobson-Gordon Insurance Inc.,2005-01-21,2025-01-21,1602.6430236996775,Parent Company,New,2025-11-28,9.717877092949704
+P009084,C005664,"Engineer, site",Barnes LLC Insurance Inc.,2005-02-01,2025-02-01,1557.9168504400257,Agency Bill,Marketing,2025-11-28,8.154406652710929
+P006472,C002885,Secretary/administrator,"Santiago, Glenn and Carpenter Insurance Inc.",2005-06-17,2025-06-17,334.6739366258812,Direct Bill,Renewal Quoted,2025-11-28,9.930034023654223
+P006729,C009965,Clinical embryologist,Ward-Fischer Insurance Inc.,2005-03-16,2025-03-16,703.727573603955,Agency Bill,Canceled,2025-11-28,11.40444256026526
+P001376,C009235,Geographical information systems officer,Fischer Inc Insurance Inc.,2005-07-19,2025-07-19,2116.908629926445,Direct Bill,Marketing,2025-11-28,0.14421793218804702
+P006124,C001947,Careers adviser,Smith Group Insurance Inc.,2005-10-07,2025-10-07,481.619770395749,Third-Party Billing,Renewal Quoted,2025-11-28,11.942936038868122
+P005231,C009179,Hydrologist,Sanchez-Calhoun Insurance Inc.,2005-06-04,2025-06-04,650.3336985657943,Payroll Vendor,New,2025-11-28,9.257899326403198
+P006797,C008356,Facilities manager,Hanson PLC Insurance Inc.,2005-08-23,2025-08-23,561.7477713501173,Mortgagee,Marketing,2025-11-28,11.662067418076687
+P008985,C004230,"Horticulturist, amenity",Freeman Inc Insurance Inc.,2005-06-16,2025-06-16,155.93563021932752,Insured,Marketing,2025-11-28,12.991522395547765
+P005708,C006629,Camera operator,Rodriguez-Cruz Insurance Inc.,2005-03-14,2025-03-14,279.17676515246086,Mortgagee,New,2025-11-28,13.428712066963087
+P007776,C002356,Careers adviser,"Weber, Jones and Wright Insurance Inc.",2005-07-04,2025-07-04,539.2223672261717,Direct Bill,New,2025-11-28,10.361889104241545
+P005623,C003041,Contractor,"Reed, Sanchez and Fox Insurance Inc.",2005-11-15,2025-11-15,2607.005771578644,Mortgagee,Canceled,2025-11-28,6.489005477324615
+P005301,C007429,"Surveyor, commercial/residential",Austin and Sons Insurance Inc.,2005-10-27,2025-10-27,386.7580601456404,Third-Party Billing,New,2025-11-28,13.19866459493515
+P006678,C003719,Control and instrumentation engineer,Murray-Harrell Insurance Inc.,2005-04-05,2025-04-05,572.2168223188327,Agency Bill,New,2025-11-28,8.266494460645834
+P008294,C002043,Physiotherapist,Bradshaw-Norman Insurance Inc.,2005-04-03,2025-04-03,804.169402016534,Agency Bill,Marketing,2025-11-28,19.40391933350567
+P004231,C002199,Regulatory affairs officer,"Mitchell, Love and Santana Insurance Inc.",2005-11-08,2025-11-08,245.71804761743746,Mortgagee,New,2025-11-28,9.012234386781095
+P003092,C008646,Industrial/product designer,Washington LLC Insurance Inc.,2005-02-19,2025-02-19,2572.009355088264,Third-Party Billing,Canceled,2025-11-28,12.31335082295344
+P009262,C003242,"Producer, radio","Rogers, Warner and Pearson Insurance Inc.",2005-06-09,2025-06-09,168.5716050030525,Payroll Vendor,Renewal Quoted,2025-11-28,6.681330675017702
+P002008,C009830,"Buyer, industrial","Nelson, Vargas and Gibbs Insurance Inc.",2005-04-14,2025-04-14,4103.750482090518,Direct Bill,Canceled,2025-11-28,6.697378602903426
+P009170,C008959,Armed forces logistics/support/administrative officer,"Braun, Ramirez and Perry Insurance Inc.",2004-12-31,2024-12-31,5621.761865882762,Parent Company,New,2025-11-28,14.313758969683953
+P002840,C009767,"Therapist, nutritional",Murphy Inc Insurance Inc.,2005-09-09,2025-09-09,230.67074783040158,Third-Party Billing,Renewal Quoted,2025-11-28,8.882544091692669
+P008875,C006560,Product designer,Taylor LLC Insurance Inc.,2005-06-18,2025-06-18,196.63023146790965,Payroll Vendor,New,2025-11-28,12.477118921291092
+P002103,C002987,Armed forces operational officer,"Johnson, Baldwin and Leach Insurance Inc.",2005-09-26,2025-09-26,2012.484463383486,Parent Company,Canceled,2025-11-28,7.273197256228277
+P002166,C007322,Freight forwarder,"Solis, Rivers and Gardner Insurance Inc.",2005-03-28,2025-03-28,237.5863117473562,Payroll Vendor,Renewal Quoted,2025-11-28,12.01680118301992
+P004187,C009202,Water quality scientist,"Perez, Rosario and Gray Insurance Inc.",2005-03-12,2025-03-12,265.1695046413741,Payroll Vendor,Canceled,2025-11-28,12.742205001857322
+P003570,C005158,Oceanographer,Good and Sons Insurance Inc.,2005-11-25,2025-11-25,153.3084666787985,Mortgagee,Marketing,2025-11-28,12.180532092009786
+P003051,C008949,"Surveyor, quantity",Olson-Pace Insurance Inc.,2005-05-08,2025-05-08,265.0257362001982,Premium Finance Company,New,2025-11-28,11.538878260467273
+P001224,C004927,Quantity surveyor,"Avila, Townsend and Jackson Insurance Inc.",2005-07-14,2025-07-14,1345.7085734345844,Payroll Vendor,Marketing,2025-11-28,14.041840614841416
+P005905,C001838,Retail buyer,Dalton-Lawrence Insurance Inc.,2005-08-21,2025-08-21,2696.5049844795917,Agency Bill,Marketing,2025-11-28,14.383262463956417
+P002541,C003561,Product manager,Wolfe Ltd Insurance Inc.,2005-02-12,2025-02-12,2867.8361361868597,Insured,New,2025-11-28,9.28141050316348
+P001329,C002512,Structural engineer,Taylor-Weaver Insurance Inc.,2005-03-01,2025-03-01,1227.5679988784534,Mortgagee,New,2025-11-28,9.325549064738683
+P003521,C005725,Higher education careers adviser,Allen-Newman Insurance Inc.,2005-10-24,2025-10-24,702.1702381031612,Premium Finance Company,New,2025-11-28,13.711718161479265
+P001900,C001112,Diplomatic Services operational officer,Burns PLC Insurance Inc.,2005-11-04,2025-11-04,545.5031210761653,Parent Company,New,2025-11-28,9.247574432454112
+P003280,C002211,"Investment banker, operational","Knapp, Kelly and Bell Insurance Inc.",2005-11-04,2025-11-04,286.04135197859,Direct Bill,Canceled,2025-11-28,13.766187735668147
+P002183,C003217,Occupational hygienist,"Sanchez, Sanchez and Miranda Insurance Inc.",2005-06-03,2025-06-03,565.6211716968635,Parent Company,Marketing,2025-11-28,8.241339849989433
+P009418,C005535,"Designer, multimedia","Thomas, Davis and Lawrence Insurance Inc.",2005-05-26,2025-05-26,272.94480151272444,Mortgagee,Canceled,2025-11-28,1.1713910904025724
+P003990,C004088,Building control surveyor,"Romero, White and Hernandez Insurance Inc.",2004-12-16,2024-12-16,2193.348166686166,Direct Bill,Marketing,2025-11-28,4.755685847241086
+P009066,C002813,"Journalist, newspaper","Gillespie, Porter and Robinson Insurance Inc.",2005-01-10,2025-01-10,1657.3983732793806,Third-Party Billing,Canceled,2025-11-28,12.2677178869947
+P005612,C005784,Ergonomist,"Oneill, Glover and Farrell Insurance Inc.",2005-08-29,2025-08-29,425.3904300794952,Third-Party Billing,New,2025-11-28,10.074643341478811
+P002540,C004388,Web designer,May-Chandler Insurance Inc.,2005-04-23,2025-04-23,391.5948490514067,Direct Bill,New,2025-11-28,5.7727427587348705
+P005984,C007000,Further education lecturer,"Fischer, Singleton and Manning Insurance Inc.",2005-07-16,2025-07-16,7017.995160062664,Parent Company,Renewal Quoted,2025-11-28,11.98579291558941
+P006261,C001087,Broadcast presenter,Barnes PLC Insurance Inc.,2005-03-21,2025-03-21,2475.2489193613146,Premium Finance Company,Renewal Quoted,2025-11-28,13.799209552744582
+P009042,C008942,Computer games developer,Michael PLC Insurance Inc.,2005-05-30,2025-05-30,639.5827264863851,Mortgagee,Renewal Quoted,2025-11-28,7.584038195431963
+P004320,C002778,Clinical molecular geneticist,Harris LLC Insurance Inc.,2004-12-07,2024-12-07,691.2196054356559,Subsidiary,Renewal Quoted,2025-11-28,12.280484897612059
+P005659,C009962,Dentist,Shelton-Day Insurance Inc.,2005-10-16,2025-10-16,261.0398070516941,Parent Company,Renewal Quoted,2025-11-28,6.7224263104043915
+P005469,C006082,Bookseller,Price Inc Insurance Inc.,2004-12-03,2024-12-03,470.82917967639014,Third-Party Billing,Renewal Quoted,2025-11-28,9.134634720438763
+P007257,C007039,Risk manager,"Nelson, Garza and Brown Insurance Inc.",2005-07-10,2025-07-10,372.5438025700214,Premium Finance Company,Marketing,2025-11-28,9.749323390002491
+P003330,C001202,Purchasing manager,Johnson-Tyler Insurance Inc.,2004-12-26,2024-12-26,252.3491124022528,Insured,Renewal Quoted,2025-11-28,14.696220629972506
+P007548,C002961,"Scientist, clinical (histocompatibility and immunogenetics)","Brown, Campbell and Wells Insurance Inc.",2005-10-13,2025-10-13,373.4056034595881,Direct Bill,Renewal Quoted,2025-11-28,15.262435619636422
+P006090,C009907,"Teacher, adult education",Lindsey Group Insurance Inc.,2005-01-21,2025-01-21,88.49084495008303,Third-Party Billing,Marketing,2025-11-28,14.482976486721666
+P006936,C007606,"Restaurant manager, fast food",Thomas-White Insurance Inc.,2005-05-31,2025-05-31,8855.335780763467,Direct Bill,New,2025-11-28,9.909206648350597
+P001231,C005794,"Accountant, chartered management",Roman-Rivera Insurance Inc.,2005-03-07,2025-03-07,301.43068835926226,Agency Bill,Canceled,2025-11-28,8.150666646945211
+P009582,C009986,Conference centre manager,"Day, Cervantes and Cruz Insurance Inc.",2005-09-14,2025-09-14,430.6066914005511,Agency Bill,New,2025-11-28,12.786069035089339
+P001148,C006115,Product manager,Chapman-Mendoza Insurance Inc.,2005-01-13,2025-01-13,264.12030151864724,Insured,New,2025-11-28,5.9575754585619265
+P007291,C007353,"Buyer, retail",Patterson-Terrell Insurance Inc.,2005-05-05,2025-05-05,1083.5197891935711,Third-Party Billing,New,2025-11-28,12.299205728513726
+P007475,C005338,Lobbyist,"Brown, Bishop and Cantrell Insurance Inc.",2005-01-11,2025-01-11,477.50766828356626,Premium Finance Company,Renewal Quoted,2025-11-28,7.565905543371009
+P009947,C008838,Public affairs consultant,Newman-Rodriguez Insurance Inc.,2005-02-01,2025-02-01,1818.0916387416228,Subsidiary,Canceled,2025-11-28,13.675293572268195
+P009541,C007419,Tax inspector,Kelly Group Insurance Inc.,2005-04-27,2025-04-27,223.44116513809632,Direct Bill,Canceled,2025-11-28,6.836002807299966
+P009251,C001176,"Loss adjuster, chartered",Ellis and Sons Insurance Inc.,2005-04-23,2025-04-23,2218.44414795384,Premium Finance Company,Renewal Quoted,2025-11-28,10.058221437614398
+P007153,C009594,Forensic scientist,Carter PLC Insurance Inc.,2005-07-07,2025-07-07,294.3306841706769,Third-Party Billing,Canceled,2025-11-28,8.089025254133464
+P008957,C009087,Seismic interpreter,"Haynes, Khan and Jacobson Insurance Inc.",2005-03-03,2025-03-03,176.9840814542325,Agency Bill,New,2025-11-28,20.93143137893049
+P007713,C003660,Public relations account executive,Lopez Group Insurance Inc.,2005-03-18,2025-03-18,2932.7886023127285,Mortgagee,Renewal Quoted,2025-11-28,13.392351593495572
+P009638,C001678,Equality and diversity officer,"Brown, Odonnell and Wright Insurance Inc.",2005-01-09,2025-01-09,5480.485432725157,Agency Bill,Canceled,2025-11-28,10.633499146376913
+P009921,C003470,"Surveyor, mining",Stuart and Sons Insurance Inc.,2005-03-30,2025-03-30,325.66755895825696,Mortgagee,New,2025-11-28,16.0428451929545
+P002831,C006395,"Administrator, education",Mitchell-Pineda Insurance Inc.,2005-07-08,2025-07-08,192.5977119489991,Parent Company,Marketing,2025-11-28,10.351087167504126
+P007771,C004450,Homeopath,"Singleton, Berry and Mathis Insurance Inc.",2005-01-24,2025-01-24,467.47640326123144,Payroll Vendor,Canceled,2025-11-28,3.941550787877296
+P002476,C008519,Wellsite geologist,Luna Inc Insurance Inc.,2005-11-14,2025-11-14,5932.444568310574,Agency Bill,Canceled,2025-11-28,11.635032527744068
+P003705,C006715,Operational investment banker,Jacobs LLC Insurance Inc.,2005-09-14,2025-09-14,2524.7700744772737,Premium Finance Company,Canceled,2025-11-28,20.49150488071932
+P008571,C007351,Production engineer,"Garcia, Smith and Holt Insurance Inc.",2004-12-07,2024-12-07,217.5362338393755,Third-Party Billing,New,2025-11-28,13.31214066295952
+P004272,C006367,Training and development officer,"Willis, Garcia and Rice Insurance Inc.",2005-11-16,2025-11-16,267.9001270193636,Agency Bill,New,2025-11-28,15.525045629923785
+P002742,C006014,Freight forwarder,Mendoza-Costa Insurance Inc.,2005-06-11,2025-06-11,2594.6342762116465,Insured,Renewal Quoted,2025-11-28,17.500977568867505
+P007862,C002154,Chiropodist,"Christensen, Bentley and Patel Insurance Inc.",2005-01-04,2025-01-04,2380.0289333897417,Agency Bill,Marketing,2025-11-28,12.291928946381814
+P007498,C007562,Fast food restaurant manager,Schmidt LLC Insurance Inc.,2005-11-09,2025-11-09,482.9956352570166,Payroll Vendor,Canceled,2025-11-28,7.927913878306308
+P001483,C001885,Building control surveyor,"Kent, Long and Jefferson Insurance Inc.",2005-03-20,2025-03-20,2134.758487096129,Parent Company,Canceled,2025-11-28,9.554900185116594
+P006631,C003279,"Surveyor, minerals",Henderson PLC Insurance Inc.,2005-10-17,2025-10-17,954.7423882957808,Payroll Vendor,Marketing,2025-11-28,8.604504786449574
+P007975,C006383,Dealer,Wheeler-Richardson Insurance Inc.,2005-01-01,2025-01-01,482.34571059764454,Premium Finance Company,Renewal Quoted,2025-11-28,1.8462592008307137
+P008615,C004201,Counselling psychologist,"Reed, Figueroa and Aguilar Insurance Inc.",2005-01-30,2025-01-30,466.92724968185314,Subsidiary,Canceled,2025-11-28,5.764854918984044
+P009570,C006731,Herpetologist,Berry Inc Insurance Inc.,2005-05-17,2025-05-17,7832.554674823111,Parent Company,Marketing,2025-11-28,8.331332180318892
+P007893,C006938,Video editor,Brown-Barnes Insurance Inc.,2005-10-09,2025-10-09,403.84491779833775,Third-Party Billing,Renewal Quoted,2025-11-28,8.628347086201526
+P001492,C003749,Land/geomatics surveyor,"Velasquez, Montgomery and Melendez Insurance Inc.",2005-01-08,2025-01-08,398.3852790080567,Direct Bill,Marketing,2025-11-28,11.653967268909975
+P003817,C009053,Film/video editor,Wagner-Price Insurance Inc.,2005-01-06,2025-01-06,332.0048255958133,Payroll Vendor,Marketing,2025-11-28,5.2173528975187216
+P003699,C008203,Pensions consultant,Gilbert Ltd Insurance Inc.,2005-02-25,2025-02-25,192.99410877030166,Direct Bill,New,2025-11-28,14.45009250880526
+P009508,C005858,"Lecturer, higher education","Bell, Petty and Perez Insurance Inc.",2005-01-14,2025-01-14,302.71751746908734,Direct Bill,Canceled,2025-11-28,12.961114011126327
+P008110,C006534,Educational psychologist,Carpenter-Hernandez Insurance Inc.,2004-11-28,2024-11-28,1702.5461373576097,Parent Company,Canceled,2025-11-28,7.224547517453278
+P008326,C003398,Landscape architect,"Hernandez, Barrett and Baker Insurance Inc.",2005-08-05,2025-08-05,4375.3588348139465,Parent Company,New,2025-11-28,14.702044991111466
+P002807,C007794,Maintenance engineer,Lopez-Smith Insurance Inc.,2005-09-19,2025-09-19,2466.5612187655893,Payroll Vendor,Marketing,2025-11-28,14.130491354824478
+P004110,C005454,Operational investment banker,Rodriguez and Sons Insurance Inc.,2005-07-03,2025-07-03,346.19723261762397,Mortgagee,Marketing,2025-11-28,6.6112443499900255
+P001972,C004835,Field seismologist,Edwards Inc Insurance Inc.,2005-07-13,2025-07-13,301.7305192626117,Mortgagee,Marketing,2025-11-28,11.48905274312867
+P007510,C006518,Housing manager/officer,Ramos LLC Insurance Inc.,2005-02-21,2025-02-21,374.0999443003702,Direct Bill,Canceled,2025-11-28,18.582867456238528
+P009104,C003352,Press photographer,Bates and Sons Insurance Inc.,2004-12-15,2024-12-15,1010.9184930687857,Direct Bill,Canceled,2025-11-28,13.877779301076409
+P004834,C002606,Energy engineer,"Wilkinson, Olson and Rodriguez Insurance Inc.",2005-11-19,2025-11-19,257.31077665106375,Parent Company,Canceled,2025-11-28,12.692071174617173
+P006732,C008579,Product/process development scientist,Daugherty Inc Insurance Inc.,2005-11-21,2025-11-21,236.43209115958413,Third-Party Billing,Renewal Quoted,2025-11-28,9.505218228928014
+P009646,C007097,"Administrator, charities/voluntary organisations","Roy, Silva and Chavez Insurance Inc.",2005-06-27,2025-06-27,228.99599697296202,Third-Party Billing,Renewal Quoted,2025-11-28,13.808380620106433
+P001094,C009029,Games developer,Williams and Sons Insurance Inc.,2005-10-22,2025-10-22,4802.477220518906,Insured,Renewal Quoted,2025-11-28,14.953939907184086
+P005819,C001286,Estate agent,"Daniels, Olson and Ford Insurance Inc.",2005-08-30,2025-08-30,3006.9648880399354,Direct Bill,Renewal Quoted,2025-11-28,12.136793868514442
+P005779,C003812,"Research officer, government",Cross-Arnold Insurance Inc.,2005-08-11,2025-08-11,160.7803737441139,Premium Finance Company,Renewal Quoted,2025-11-28,12.011630040782336
+P005711,C005164,Physiotherapist,"Sims, Robinson and Mckee Insurance Inc.",2005-02-07,2025-02-07,797.7499304242331,Parent Company,New,2025-11-28,5.684458605609061
+P004267,C001396,"Engineer, chemical","Lopez, Lane and Brown Insurance Inc.",2005-08-18,2025-08-18,1766.7999914470156,Premium Finance Company,Canceled,2025-11-28,18.021534955726707
+P005239,C002630,Publishing rights manager,Vega Inc Insurance Inc.,2005-04-19,2025-04-19,945.8145033986117,Subsidiary,Canceled,2025-11-28,2.5782935063500165
+P004465,C002416,Field trials officer,Miller and Sons Insurance Inc.,2005-02-15,2025-02-15,304.476303640444,Premium Finance Company,New,2025-11-28,11.649352748281718
+P005846,C004169,"Producer, television/film/video",Woods-Gray Insurance Inc.,2005-05-12,2025-05-12,281.0675622790994,Third-Party Billing,Renewal Quoted,2025-11-28,10.93800664827536
+P009253,C003910,TEFL teacher,Wheeler PLC Insurance Inc.,2005-09-16,2025-09-16,408.232558030026,Mortgagee,Canceled,2025-11-28,14.369572213584165
+P002776,C008991,Communications engineer,Lopez-Smith Insurance Inc.,2005-04-23,2025-04-23,1113.4297571720285,Subsidiary,Marketing,2025-11-28,18.092664487492883
+P006067,C005849,Museum education officer,Walter PLC Insurance Inc.,2005-01-29,2025-01-29,281.67452613666677,Payroll Vendor,Canceled,2025-11-28,13.821277262462138
+P009611,C002839,Outdoor activities/education manager,Porter-Levy Insurance Inc.,2005-06-15,2025-06-15,394.9365179974243,Direct Bill,New,2025-11-28,8.22095577723041
+P006313,C003331,Public affairs consultant,"Lewis, Anderson and Taylor Insurance Inc.",2004-12-03,2024-12-03,2335.8881230337647,Subsidiary,Renewal Quoted,2025-11-28,11.540157346116596
+P005253,C008162,Actor,Brown PLC Insurance Inc.,2005-05-13,2025-05-13,252.7886034960424,Subsidiary,Renewal Quoted,2025-11-28,16.62329183197074
+P005294,C002585,Insurance account manager,Washington-Watkins Insurance Inc.,2005-03-20,2025-03-20,290.80898921747246,Mortgagee,Canceled,2025-11-28,10.445199380119528
+P001151,C002643,"Engineer, electrical",Rogers-Owens Insurance Inc.,2005-04-28,2025-04-28,2601.238559449214,Parent Company,Canceled,2025-11-28,8.135474702141117
+P007686,C008498,"Geologist, wellsite",Walker-Moore Insurance Inc.,2005-09-13,2025-09-13,188.9144772582324,Mortgagee,Marketing,2025-11-28,8.444250883335064
+P007569,C006830,Financial trader,Murray-King Insurance Inc.,2005-04-11,2025-04-11,707.2700475214809,Insured,New,2025-11-28,9.458787892989616
+P005243,C009552,"Scientist, physiological",Shaw Ltd Insurance Inc.,2005-02-16,2025-02-16,351.42568891383684,Direct Bill,Marketing,2025-11-28,8.140282092667459
+P002064,C004618,Psychiatric nurse,Johnson Group Insurance Inc.,2005-07-17,2025-07-17,233.3602021358542,Insured,Renewal Quoted,2025-11-28,14.971935123038062
+P004872,C004781,Land/geomatics surveyor,"Sanders, Branch and Hodges Insurance Inc.",2005-09-09,2025-09-09,586.9020180350154,Third-Party Billing,Canceled,2025-11-28,8.703898953231752
+P007358,C009273,"Designer, jewellery",Everett Group Insurance Inc.,2005-03-19,2025-03-19,2410.3765202934055,Parent Company,Canceled,2025-11-28,10.921175603581391
+P003373,C005838,Paramedic,Black-Crawford Insurance Inc.,2005-11-15,2025-11-15,247.81081652645526,Third-Party Billing,Renewal Quoted,2025-11-28,12.964037709595614
+P008891,C006096,"Social research officer, government","Turner, Green and Chen Insurance Inc.",2005-07-03,2025-07-03,243.44185523875484,Direct Bill,Canceled,2025-11-28,11.736074582115245
+P001501,C003729,"Teacher, early years/pre",Reed and Sons Insurance Inc.,2005-07-06,2025-07-06,214.3140734345007,Insured,Marketing,2025-11-28,11.224462986246413
+P003262,C006942,"Social research officer, government",Hoover-Garner Insurance Inc.,2005-02-07,2025-02-07,531.3716180552309,Insured,Marketing,2025-11-28,10.363822719120709
+P004612,C009587,Medical physicist,Faulkner PLC Insurance Inc.,2004-12-12,2024-12-12,1461.8711834919454,Mortgagee,New,2025-11-28,14.132992031912694
+P002730,C001908,Food technologist,Miller and Sons Insurance Inc.,2005-04-10,2025-04-10,363.58129579677956,Parent Company,Canceled,2025-11-28,10.108335155526252
+P008798,C008250,"Radiographer, diagnostic",Bishop and Sons Insurance Inc.,2005-11-15,2025-11-15,363.070075324956,Agency Bill,New,2025-11-28,9.874925704083267
+P009425,C003637,Public affairs consultant,"Ferguson, Buchanan and Ortiz Insurance Inc.",2004-12-15,2024-12-15,254.11344678975308,Premium Finance Company,New,2025-11-28,11.493327408863205
+P004234,C005036,"Embryologist, clinical",Buck-Holmes Insurance Inc.,2005-08-16,2025-08-16,282.52474097843026,Agency Bill,Marketing,2025-11-28,9.46099219744077
+P008925,C005874,Special educational needs teacher,"Adams, Gonzalez and Potter Insurance Inc.",2005-09-28,2025-09-28,1993.950391340777,Insured,Canceled,2025-11-28,5.562043613242911
+P009531,C008281,Forest/woodland manager,"Freeman, Gonzalez and Shaw Insurance Inc.",2005-03-17,2025-03-17,437.4914880777042,Premium Finance Company,Renewal Quoted,2025-11-28,11.757762931017012
+P007575,C009148,Therapeutic radiographer,Lee-Ayala Insurance Inc.,2005-09-17,2025-09-17,198.8619770804673,Mortgagee,Canceled,2025-11-28,14.492184146720081
+P004435,C005278,Rural practice surveyor,Lewis-Baker Insurance Inc.,2005-09-12,2025-09-12,4499.91816190606,Insured,Renewal Quoted,2025-11-28,10.457512983301092
+P002823,C009295,"Lighting technician, broadcasting/film/video",Mccarthy-Torres Insurance Inc.,2005-08-19,2025-08-19,313.31005129334443,Third-Party Billing,New,2025-11-28,12.330248455107519
+P008232,C002644,Financial risk analyst,"Patel, Peterson and Adams Insurance Inc.",2005-09-03,2025-09-03,6339.725048320296,Direct Bill,New,2025-11-28,5.68060114085686
+P008513,C006500,Information systems manager,Aguirre Ltd Insurance Inc.,2005-05-24,2025-05-24,3899.3491553898934,Agency Bill,New,2025-11-28,14.101973984000608
+P004305,C004787,Learning mentor,"Trujillo, Brown and Cox Insurance Inc.",2005-02-22,2025-02-22,288.6515982194486,Mortgagee,Renewal Quoted,2025-11-28,13.661464042363054
+P002098,C008303,Counsellor,"Brewer, Castro and Wilson Insurance Inc.",2005-09-25,2025-09-25,275.51496343659755,Parent Company,New,2025-11-28,6.1603703845948035
+P001800,C004483,Legal executive,"Barton, Johnson and Benson Insurance Inc.",2005-09-28,2025-09-28,1297.1941590393897,Parent Company,Renewal Quoted,2025-11-28,3.9112423629683004
+P008191,C002788,"Investment banker, operational","Baird, Mcfarland and Sharp Insurance Inc.",2004-12-30,2024-12-30,4467.233731903842,Insured,Renewal Quoted,2025-11-28,13.18233287939228
+P001535,C005378,Records manager,"Schultz, Bird and Walker Insurance Inc.",2005-11-26,2025-11-26,320.9618449124543,Subsidiary,Canceled,2025-11-28,5.806560867840822
+P007728,C003175,Museum education officer,Moore LLC Insurance Inc.,2005-09-17,2025-09-17,368.4882756283298,Third-Party Billing,Renewal Quoted,2025-11-28,18.443555169094935
+P009783,C008093,Graphic designer,"Patrick, Lara and Jones Insurance Inc.",2005-06-08,2025-06-08,1341.8612788106516,Third-Party Billing,Renewal Quoted,2025-11-28,6.932361693931988
+P003830,C002639,Associate Professor,"Mitchell, Johnson and Smith Insurance Inc.",2005-07-08,2025-07-08,631.5755687931809,Premium Finance Company,Canceled,2025-11-28,14.968302489550716
+P008612,C005409,"Engineer, biomedical",Rodriguez Inc Insurance Inc.,2005-02-01,2025-02-01,3747.3543491870882,Subsidiary,Canceled,2025-11-28,12.627682653435443
+P004163,C003025,Fitness centre manager,"Nixon, Roberts and Thompson Insurance Inc.",2005-08-12,2025-08-12,1084.844802220998,Mortgagee,Marketing,2025-11-28,17.914994789657037
+P005096,C007040,Immunologist,"Mora, Chambers and George Insurance Inc.",2005-11-17,2025-11-17,310.24567643732996,Direct Bill,Canceled,2025-11-28,5.0883200837371305
+P004170,C005888,"Engineer, electrical","Morgan, Mata and Smith Insurance Inc.",2005-09-14,2025-09-14,262.6846517232382,Insured,Marketing,2025-11-28,16.813605902681992
+P003886,C008661,Camera operator,Barron and Sons Insurance Inc.,2005-04-04,2025-04-04,2018.5163667581749,Agency Bill,New,2025-11-28,20.21097284438683
+P002273,C001547,Forensic scientist,Ward-Barnes Insurance Inc.,2005-11-24,2025-11-24,1320.244386919783,Parent Company,Marketing,2025-11-28,7.7377929282144144
+P006061,C006935,Public affairs consultant,Moore-Booth Insurance Inc.,2005-05-15,2025-05-15,547.5092903970664,Insured,Canceled,2025-11-28,15.750900944893466
+P005298,C001636,Aeronautical engineer,Hancock-Mcdonald Insurance Inc.,2005-05-03,2025-05-03,120.88139198796142,Payroll Vendor,New,2025-11-28,15.44440383813817
+P003001,C005188,Logistics and distribution manager,Tate-Wright Insurance Inc.,2005-10-13,2025-10-13,574.3854570191206,Premium Finance Company,Renewal Quoted,2025-11-28,7.4191867667573375
+P002696,C008902,"Scientist, research (maths)",Hogan-Elliott Insurance Inc.,2005-03-05,2025-03-05,257.2448418579956,Subsidiary,Canceled,2025-11-28,10.509401799785909
+P003267,C002697,"Scientist, marine",Robinson-Bell Insurance Inc.,2005-04-10,2025-04-10,516.4005572473341,Third-Party Billing,Renewal Quoted,2025-11-28,13.267358920480742
+P003019,C005118,"Programmer, applications",Kennedy LLC Insurance Inc.,2005-08-22,2025-08-22,525.6653962476555,Parent Company,Renewal Quoted,2025-11-28,8.539936274271746
+P007502,C005724,"Psychologist, forensic",White Group Insurance Inc.,2005-09-22,2025-09-22,483.31875232875785,Insured,Renewal Quoted,2025-11-28,11.093894283301285
+P003646,C006609,Music therapist,Cordova-Wall Insurance Inc.,2005-10-26,2025-10-26,1315.030057702277,Payroll Vendor,Canceled,2025-11-28,14.290365471211555
+P003138,C009801,"Engineer, communications",Garrison-Brown Insurance Inc.,2005-06-26,2025-06-26,364.74905203810437,Agency Bill,Renewal Quoted,2025-11-28,16.968526316409225
+P005258,C002586,Investment analyst,"Wilson, Chavez and Diaz Insurance Inc.",2005-09-17,2025-09-17,5001.519107324301,Subsidiary,Canceled,2025-11-28,11.227123075642908
+P004747,C004364,Artist,"Yang, Wilson and Bennett Insurance Inc.",2005-03-24,2025-03-24,295.9966155673361,Parent Company,Canceled,2025-11-28,17.760625522486688
+P002925,C007158,Museum/gallery curator,Williams and Sons Insurance Inc.,2005-08-07,2025-08-07,352.35621749997057,Mortgagee,Marketing,2025-11-28,5.344898174625084
+P009333,C005327,Facilities manager,Barber-Rodriguez Insurance Inc.,2004-11-27,2024-11-27,442.5081117590824,Agency Bill,Renewal Quoted,2025-11-28,7.586016243461726
+P005064,C001216,Transport planner,"Young, Vasquez and Everett Insurance Inc.",2004-12-25,2024-12-25,5966.461531968834,Agency Bill,Renewal Quoted,2025-11-28,17.444686119555076
+P007327,C001132,Printmaker,"Lowe, Francis and Mcclain Insurance Inc.",2005-11-03,2025-11-03,4998.126432953994,Insured,Marketing,2025-11-28,9.785158478235662
+P002688,C007921,Brewing technologist,"Shea, Smith and Wilkins Insurance Inc.",2005-01-14,2025-01-14,587.6411943598349,Insured,Marketing,2025-11-28,12.626174113658287
+P006676,C005333,"Accountant, chartered public finance","Zhang, Yoder and Pierce Insurance Inc.",2004-12-29,2024-12-29,535.549265614108,Payroll Vendor,Marketing,2025-11-28,11.080060020258083
+P006060,C008399,Set designer,Walter-Neal Insurance Inc.,2005-02-16,2025-02-16,500.46027672800466,Third-Party Billing,Marketing,2025-11-28,13.820792829906095
+P001745,C004541,Medical technical officer,Thomas Inc Insurance Inc.,2005-11-17,2025-11-17,2756.5576232468156,Parent Company,Marketing,2025-11-28,14.812618820721745
+P003561,C002183,Operations geologist,"Mccoy, Jones and Brown Insurance Inc.",2005-07-20,2025-07-20,1026.0058005838478,Mortgagee,Marketing,2025-11-28,8.41009898553186
+P003712,C004258,Diagnostic radiographer,Young-Johnson Insurance Inc.,2005-04-07,2025-04-07,251.98697548850555,Insured,Marketing,2025-11-28,6.813420792433605
+P006165,C002824,Chief Operating Officer,Rios and Sons Insurance Inc.,2005-07-21,2025-07-21,1400.6808837922613,Third-Party Billing,Renewal Quoted,2025-11-28,11.582178883644923
+P008595,C003560,Corporate treasurer,Gonzalez Inc Insurance Inc.,2005-04-17,2025-04-17,4125.37284830559,Payroll Vendor,New,2025-11-28,10.34891365323714
+P009729,C005495,Speech and language therapist,Hensley Ltd Insurance Inc.,2005-05-21,2025-05-21,4459.8383590933445,Parent Company,New,2025-11-28,17.914639107376104
+P007032,C002325,Armed forces technical officer,Lewis Inc Insurance Inc.,2005-10-12,2025-10-12,266.8622813063206,Third-Party Billing,Marketing,2025-11-28,12.860851884307898
+P005085,C009431,Commercial art gallery manager,Hunt-Hammond Insurance Inc.,2004-12-01,2024-12-01,996.6415868688408,Parent Company,Renewal Quoted,2025-11-28,9.481138272337123
+P009324,C007722,Holiday representative,Davila-Green Insurance Inc.,2005-06-12,2025-06-12,180.31726747882811,Subsidiary,Marketing,2025-11-28,12.194833996408054
+P001950,C007136,"Investment banker, operational",Valencia-Ruiz Insurance Inc.,2005-02-11,2025-02-11,2385.4169072582226,Direct Bill,Marketing,2025-11-28,11.941133156558257
+P008291,C007560,"Surveyor, minerals",Smith Inc Insurance Inc.,2004-12-15,2024-12-15,337.8050773837076,Direct Bill,Renewal Quoted,2025-11-28,6.991819050543954
+P008886,C002139,"Therapist, occupational","Nicholson, Taylor and Benton Insurance Inc.",2005-11-04,2025-11-04,185.894860417651,Agency Bill,Renewal Quoted,2025-11-28,17.824577060377152
+P002129,C003983,"Engineer, manufacturing systems",Jones Ltd Insurance Inc.,2005-06-27,2025-06-27,232.83372939384552,Premium Finance Company,Marketing,2025-11-28,12.890701191443144
+P004050,C005628,Contractor,Martinez-Stone Insurance Inc.,2005-04-19,2025-04-19,349.9278206251789,Payroll Vendor,Renewal Quoted,2025-11-28,8.83252569718851
+P005300,C002173,"Producer, radio",Freeman-Kennedy Insurance Inc.,2005-11-13,2025-11-13,162.783197332378,Insured,Renewal Quoted,2025-11-28,16.341949564054975
+P006360,C006803,Tour manager,Pope Group Insurance Inc.,2004-12-25,2024-12-25,576.0424123607886,Insured,Renewal Quoted,2025-11-28,12.115147125611312
+P004924,C002357,Chief of Staff,Jackson LLC Insurance Inc.,2004-12-22,2024-12-22,745.5762791407361,Subsidiary,Marketing,2025-11-28,16.944285876956624
+P008522,C001321,Technical brewer,"Baker, Perez and Payne Insurance Inc.",2005-07-18,2025-07-18,2055.3722664391676,Parent Company,Renewal Quoted,2025-11-28,8.626196213655401
+P005568,C009231,Art gallery manager,Gonzales LLC Insurance Inc.,2004-12-28,2024-12-28,329.64872894857155,Agency Bill,Marketing,2025-11-28,9.006659822957976
+P007877,C006505,Research scientist (medical),Terry-Hill Insurance Inc.,2005-01-27,2025-01-27,3201.0929007336194,Agency Bill,Canceled,2025-11-28,15.307865801123251
+P002854,C001139,Theatre director,"Jones, Moreno and Woods Insurance Inc.",2005-02-14,2025-02-14,310.8680204291507,Premium Finance Company,New,2025-11-28,4.354668135262132
+P005775,C002364,"Engineer, electronics",Williams LLC Insurance Inc.,2005-10-22,2025-10-22,291.7406151480522,Agency Bill,Renewal Quoted,2025-11-28,11.88266642255031
+P002270,C007853,Art gallery manager,"Calderon, Park and Davis Insurance Inc.",2005-11-11,2025-11-11,346.09946696269805,Payroll Vendor,Marketing,2025-11-28,9.683512809563329
+P006746,C004153,Occupational hygienist,Richardson Ltd Insurance Inc.,2004-12-18,2024-12-18,2093.642078761486,Mortgagee,New,2025-11-28,6.574628163674411
+P008641,C006687,Financial planner,"Lopez, Green and James Insurance Inc.",2005-07-16,2025-07-16,226.75048762569335,Parent Company,Renewal Quoted,2025-11-28,9.24918879025512
+P009855,C009712,Physiological scientist,"Wilson, Norris and Santos Insurance Inc.",2005-02-17,2025-02-17,332.0549043125593,Parent Company,New,2025-11-28,16.31246822209766
+P007012,C003651,Astronomer,"Murillo, Wolf and Powell Insurance Inc.",2005-05-22,2025-05-22,4091.455169895919,Subsidiary,New,2025-11-28,11.529923228114807
+P005965,C007547,Health promotion specialist,Collins-Gibson Insurance Inc.,2005-06-23,2025-06-23,214.47059166958456,Mortgagee,Renewal Quoted,2025-11-28,7.450537868941113
+P008441,C002931,Multimedia programmer,"Hayes, Larson and Rivera Insurance Inc.",2005-02-06,2025-02-06,234.06585735165245,Direct Bill,Renewal Quoted,2025-11-28,9.906359053759608
+P007413,C005096,Naval architect,Lewis-Lewis Insurance Inc.,2005-02-01,2025-02-01,477.4304414379308,Third-Party Billing,New,2025-11-28,17.880191922143702
+P003309,C005853,Retail merchandiser,"Morales, Moyer and Lopez Insurance Inc.",2005-11-23,2025-11-23,270.9166887657633,Premium Finance Company,Marketing,2025-11-28,12.28954667069226
+P009680,C006657,Materials engineer,Smith-Moore Insurance Inc.,2005-01-29,2025-01-29,480.1735062751719,Parent Company,Renewal Quoted,2025-11-28,7.4193910450625085
+P005423,C005203,"Journalist, newspaper","Yates, Weiss and Holden Insurance Inc.",2005-09-30,2025-09-30,1032.7777791589635,Mortgagee,Renewal Quoted,2025-11-28,14.79247967008633
+P006443,C002481,Conference centre manager,"Torres, Clark and Tran Insurance Inc.",2005-01-05,2025-01-05,455.7554330111546,Agency Bill,Marketing,2025-11-28,12.628541191795975
+P004535,C001963,Automotive engineer,Patterson-Byrd Insurance Inc.,2005-07-20,2025-07-20,209.18856104536965,Parent Company,Renewal Quoted,2025-11-28,10.71633599595336
+P007768,C004768,"Engineer, broadcasting (operations)",Beck-Peterson Insurance Inc.,2005-04-27,2025-04-27,799.3050726332652,Subsidiary,New,2025-11-28,12.440653882517907
+P006835,C005980,Heritage manager,Carter Group Insurance Inc.,2005-06-06,2025-06-06,238.8153816220908,Payroll Vendor,New,2025-11-28,12.08508676840259
+P003755,C007809,Barrister's clerk,"Rowe, Montgomery and Ruiz Insurance Inc.",2005-03-28,2025-03-28,2770.4949484169815,Subsidiary,Renewal Quoted,2025-11-28,14.704551926877665
+P002244,C004148,Fashion designer,"Martinez, Bush and Jones Insurance Inc.",2004-11-30,2024-11-30,555.2093539704592,Insured,New,2025-11-28,6.13634023818621
+P009257,C003664,"Secretary, company",Garcia Group Insurance Inc.,2005-03-21,2025-03-21,7917.3117182058695,Insured,Canceled,2025-11-28,12.328107656581425
+P006198,C001329,Advertising art director,James-Hobbs Insurance Inc.,2005-11-10,2025-11-10,676.1373330821827,Parent Company,Marketing,2025-11-28,8.123417474637233
+P007230,C005537,Statistician,Welch Group Insurance Inc.,2005-03-05,2025-03-05,296.8536113646588,Parent Company,New,2025-11-28,13.365863071013653
+P006074,C002850,"Engineer, building services",Richards and Sons Insurance Inc.,2005-07-13,2025-07-13,125.57894339217897,Subsidiary,Canceled,2025-11-28,8.211642246776169
+P002681,C008924,Haematologist,Perez-Perry Insurance Inc.,2005-02-17,2025-02-17,250.2636479909537,Parent Company,Marketing,2025-11-28,6.133626246073313
+P004613,C008422,Occupational hygienist,Lee and Sons Insurance Inc.,2005-03-06,2025-03-06,477.98203580096146,Subsidiary,Marketing,2025-11-28,8.895048307055426
+P008747,C005992,Occupational hygienist,"Johnson, Ross and Day Insurance Inc.",2005-10-16,2025-10-16,653.7347444923405,Parent Company,Renewal Quoted,2025-11-28,7.143275522194341
+P008970,C008080,Forensic scientist,Jennings Group Insurance Inc.,2005-02-03,2025-02-03,283.18497145099064,Direct Bill,Renewal Quoted,2025-11-28,6.365657114629097
+P009373,C009684,Gaffer,Adams Group Insurance Inc.,2005-07-25,2025-07-25,2208.3210416816414,Premium Finance Company,Renewal Quoted,2025-11-28,8.126263251021793
+P009968,C005792,Social worker,Richardson Ltd Insurance Inc.,2005-07-07,2025-07-07,454.73934148031054,Insured,Canceled,2025-11-28,10.646104355952783
+P008193,C004959,Garment/textile technologist,"Welch, Romero and Rodgers Insurance Inc.",2005-04-13,2025-04-13,118.9323694365325,Premium Finance Company,Canceled,2025-11-28,13.360866903347631
+P004635,C004832,"Civil engineer, consulting",Moreno-Taylor Insurance Inc.,2005-02-03,2025-02-03,1489.0513911845653,Parent Company,Canceled,2025-11-28,16.044146334710355
+P004075,C007427,Primary school teacher,"Contreras, Sandoval and Clayton Insurance Inc.",2005-02-07,2025-02-07,1992.4762265466106,Parent Company,New,2025-11-28,8.992266614447578
+P009165,C003549,Database administrator,Young-Jones Insurance Inc.,2005-06-18,2025-06-18,580.3572800280501,Mortgagee,Marketing,2025-11-28,5.278487473875445
+P007016,C007176,Systems analyst,Brown-Thomas Insurance Inc.,2005-05-07,2025-05-07,692.2155930780119,Payroll Vendor,Marketing,2025-11-28,8.16656820228025
+P004326,C006160,Mechanical engineer,"Richardson, Griffith and Morton Insurance Inc.",2005-01-14,2025-01-14,375.4821808622823,Subsidiary,Canceled,2025-11-28,10.527092254066886
+P001781,C008148,Advertising account planner,Walton-Crane Insurance Inc.,2004-11-28,2024-11-28,1091.3963267503248,Third-Party Billing,Renewal Quoted,2025-11-28,11.5869096984467
+P005077,C006994,Interpreter,Smith-Rivers Insurance Inc.,2005-06-24,2025-06-24,1794.6961336255279,Direct Bill,Marketing,2025-11-28,10.467517384517404
+P006998,C001280,Film/video editor,"Johnson, Elliott and Davis Insurance Inc.",2005-08-03,2025-08-03,377.6541994929218,Premium Finance Company,Canceled,2025-11-28,8.223144534720307
+P005001,C008538,Pension scheme manager,Knight and Sons Insurance Inc.,2005-11-03,2025-11-03,8776.705767290176,Agency Bill,Marketing,2025-11-28,11.041936332658572
+P001175,C007950,Quarry manager,"Richardson, Cordova and Rocha Insurance Inc.",2004-12-20,2024-12-20,384.7936756015632,Payroll Vendor,Marketing,2025-11-28,12.855408607191535
+P008470,C009914,Archaeologist,"Wilson, Hill and Meyer Insurance Inc.",2005-06-26,2025-06-26,1363.7881953985893,Direct Bill,New,2025-11-28,7.226428032175109
+P001391,C006300,Television camera operator,"Lee, Robinson and Richard Insurance Inc.",2005-07-29,2025-07-29,647.7554093251272,Direct Bill,Marketing,2025-11-28,10.378776184588446
+P004188,C002209,Curator,Zamora-Whitaker Insurance Inc.,2005-09-28,2025-09-28,2520.132960241154,Agency Bill,Renewal Quoted,2025-11-28,10.545702810731997
+P008389,C008738,Clinical biochemist,Howard-Gross Insurance Inc.,2005-07-12,2025-07-12,350.71856430276506,Direct Bill,Marketing,2025-11-28,7.792010123765858
+P007054,C001527,Translator,Wallace Group Insurance Inc.,2005-05-12,2025-05-12,122.90495626760774,Premium Finance Company,New,2025-11-28,5.897094486364846
+P007297,C005896,"Scientist, water quality",Alvarez PLC Insurance Inc.,2005-10-25,2025-10-25,2112.7358373081024,Agency Bill,Marketing,2025-11-28,9.51015535773058
+P005071,C006742,Materials engineer,Williams Ltd Insurance Inc.,2005-11-18,2025-11-18,329.1817106269139,Agency Bill,New,2025-11-28,14.796002845552257
+P002662,C002077,Early years teacher,Smith Inc Insurance Inc.,2005-10-05,2025-10-05,709.7426579221557,Payroll Vendor,New,2025-11-28,3.8978080472993835
+P006155,C004875,Advice worker,Powell PLC Insurance Inc.,2005-11-13,2025-11-13,557.5646765722635,Third-Party Billing,New,2025-11-28,13.810920968487107
+P007027,C009319,Exercise physiologist,"Vaughn, Rios and Hoover Insurance Inc.",2004-12-26,2024-12-26,233.17044747485895,Agency Bill,Marketing,2025-11-28,13.225403197215138
+P009188,C007737,Product/process development scientist,Owen-Flores Insurance Inc.,2005-08-28,2025-08-28,165.32333208582534,Direct Bill,Marketing,2025-11-28,11.94610255418335
+P006429,C006853,Agricultural consultant,White-Adkins Insurance Inc.,2005-02-08,2025-02-08,714.1291774139931,Subsidiary,Marketing,2025-11-28,12.151002235439542
+P009798,C004383,Hospital pharmacist,"Barnett, Cervantes and Woods Insurance Inc.",2005-05-05,2025-05-05,2482.6022686292263,Insured,Renewal Quoted,2025-11-28,6.619530487521784
+P005625,C002113,"Solicitor, Scotland",Welch Group Insurance Inc.,2005-08-10,2025-08-10,269.2197030618752,Subsidiary,Renewal Quoted,2025-11-28,13.658482186997265
+P007148,C002636,Statistician,Phillips Inc Insurance Inc.,2005-10-14,2025-10-14,358.530274523183,Parent Company,Renewal Quoted,2025-11-28,13.054272507588884
+P004337,C004141,Human resources officer,Miller Ltd Insurance Inc.,2004-12-24,2024-12-24,979.5153695107292,Insured,Canceled,2025-11-28,9.077151875453087
+P002155,C001010,Sport and exercise psychologist,"Mathews, Garcia and Rogers Insurance Inc.",2005-04-14,2025-04-14,434.5767743102325,Subsidiary,New,2025-11-28,11.175391470622463
+P001115,C003953,"Teacher, music",Sandoval and Sons Insurance Inc.,2005-11-22,2025-11-22,269.5178927896333,Insured,New,2025-11-28,7.017826335372763
+P006202,C006181,Industrial/product designer,"Scott, Shea and Munoz Insurance Inc.",2005-11-16,2025-11-16,3498.913889002003,Mortgagee,New,2025-11-28,7.227341557194251
+P005031,C005848,Building surveyor,Dunlap-Ballard Insurance Inc.,2005-09-26,2025-09-26,307.12153098201594,Subsidiary,Canceled,2025-11-28,9.823920025716738
+P007337,C001175,"Merchandiser, retail",Taylor-Dominguez Insurance Inc.,2004-12-29,2024-12-29,4899.003852689462,Direct Bill,Canceled,2025-11-28,16.089568415184146
+P007885,C004192,Homeopath,Shaw-Adkins Insurance Inc.,2004-12-21,2024-12-21,3697.3637699162578,Insured,New,2025-11-28,11.278327097230246
+P001728,C007603,"Education officer, community",Steele Ltd Insurance Inc.,2005-10-05,2025-10-05,662.9556698315591,Insured,Marketing,2025-11-28,11.78823388724467
+P007960,C004880,Herpetologist,Bolton-Fisher Insurance Inc.,2005-03-26,2025-03-26,413.00133318345684,Third-Party Billing,Marketing,2025-11-28,10.288633972454171
+P002341,C001174,"Scientist, biomedical",Morrison-Hernandez Insurance Inc.,2005-02-27,2025-02-27,188.91542507759715,Third-Party Billing,New,2025-11-28,10.182620846517704
+P003375,C002571,"Engineer, production","Barrett, Harmon and Hernandez Insurance Inc.",2005-08-07,2025-08-07,640.6129300101665,Parent Company,Renewal Quoted,2025-11-28,9.814648826496374
+P004754,C004355,Actuary,"Holt, Smith and Ramirez Insurance Inc.",2005-03-19,2025-03-19,2913.559171184621,Parent Company,Canceled,2025-11-28,12.789421367585431
+P006948,C002610,"Conservator, museum/gallery",Mcbride Ltd Insurance Inc.,2004-12-31,2024-12-31,5659.01507333037,Agency Bill,Renewal Quoted,2025-11-28,16.002675680222733
+P003645,C004002,Barrister,Hampton-Salas Insurance Inc.,2005-05-05,2025-05-05,3398.5716302425863,Subsidiary,New,2025-11-28,12.574242415223544
+P002736,C006598,IT sales professional,"Heath, Jones and Robinson Insurance Inc.",2004-12-04,2024-12-04,250.24866962459038,Subsidiary,Renewal Quoted,2025-11-28,20.40108086763899
+P003610,C003416,Educational psychologist,"Mccullough, Williams and Davis Insurance Inc.",2005-07-31,2025-07-31,654.8968845424328,Third-Party Billing,Canceled,2025-11-28,15.251669579918289
+P003350,C004869,Social researcher,Neal-Munoz Insurance Inc.,2005-03-10,2025-03-10,1637.7514952931406,Payroll Vendor,Marketing,2025-11-28,6.701036672959389
+P006427,C003407,Equities trader,Snyder and Sons Insurance Inc.,2005-08-10,2025-08-10,143.31593917100736,Agency Bill,Canceled,2025-11-28,13.737798449384508
+P004667,C009579,Transport planner,George and Sons Insurance Inc.,2005-06-02,2025-06-02,316.6294254192312,Payroll Vendor,Marketing,2025-11-28,16.094629516659154
+P005378,C007130,Sales promotion account executive,Griffin-Brown Insurance Inc.,2005-08-27,2025-08-27,1238.3113432135817,Payroll Vendor,Renewal Quoted,2025-11-28,13.458959451005764
+P006063,C007364,Field trials officer,Rice-Brown Insurance Inc.,2005-09-30,2025-09-30,257.2178958006312,Direct Bill,Canceled,2025-11-28,7.354443730401804
+P007088,C003022,Manufacturing systems engineer,Johnson-Henson Insurance Inc.,2005-07-16,2025-07-16,8108.727138650039,Mortgagee,New,2025-11-28,14.869590082251879
+P008992,C003597,Telecommunications researcher,"Edwards, Barron and Avila Insurance Inc.",2004-11-27,2024-11-27,2080.6817197323976,Payroll Vendor,Canceled,2025-11-28,12.37546599639081
+P007561,C005165,Patent examiner,Guerrero-Walters Insurance Inc.,2005-02-04,2025-02-04,306.9368078017751,Agency Bill,Renewal Quoted,2025-11-28,7.591162546555072
+P005192,C009299,Insurance account manager,"Brandt, Brewer and Bonilla Insurance Inc.",2005-10-24,2025-10-24,527.4134455300634,Direct Bill,Canceled,2025-11-28,14.509650149382772
+P006378,C005006,Print production planner,Johnson-Kelly Insurance Inc.,2005-04-04,2025-04-04,6434.020611352417,Third-Party Billing,Renewal Quoted,2025-11-28,10.652254003247121
+P001949,C003343,Broadcast presenter,Reynolds and Sons Insurance Inc.,2005-10-19,2025-10-19,319.8332849404602,Direct Bill,New,2025-11-28,7.649655223348027
+P004977,C006503,"Therapist, sports",Carter Ltd Insurance Inc.,2005-06-06,2025-06-06,448.2978189236799,Premium Finance Company,Canceled,2025-11-28,7.237564935740904
+P005753,C008777,Pension scheme manager,Davis-Warren Insurance Inc.,2005-06-19,2025-06-19,5347.860594685748,Payroll Vendor,Renewal Quoted,2025-11-28,4.833882780941037
+P006481,C009419,Museum education officer,Hammond LLC Insurance Inc.,2005-01-26,2025-01-26,1366.845845020165,Insured,Canceled,2025-11-28,18.082871701590403
+P006222,C004034,Dancer,Robinson Ltd Insurance Inc.,2005-11-24,2025-11-24,681.4563322267092,Agency Bill,Marketing,2025-11-28,6.775109811028261
+P001380,C008258,"Programmer, multimedia","Jones, Mcbride and Garcia Insurance Inc.",2005-02-20,2025-02-20,477.0616671627323,Agency Bill,Marketing,2025-11-28,8.770350344543253
+P005800,C005453,Product manager,James Inc Insurance Inc.,2005-07-09,2025-07-09,12152.081546157107,Subsidiary,Renewal Quoted,2025-11-28,14.400035002135025
+P005858,C004356,Electrical engineer,"English, Chavez and Obrien Insurance Inc.",2005-04-25,2025-04-25,302.1102453009409,Agency Bill,New,2025-11-28,13.094534051158686
+P006644,C009509,Herbalist,White-Powell Insurance Inc.,2005-08-24,2025-08-24,388.9610990534839,Mortgagee,Marketing,2025-11-28,9.444391995860247
+P003778,C005851,Market researcher,"Ortega, Perkins and Adams Insurance Inc.",2005-09-10,2025-09-10,5668.341699948745,Subsidiary,Renewal Quoted,2025-11-28,19.609832050222575
+P001823,C001845,Art gallery manager,Scott-Herrera Insurance Inc.,2005-06-07,2025-06-07,2976.9539060816933,Payroll Vendor,New,2025-11-28,3.0919094413138417
+P002108,C004267,Marine scientist,Clark and Sons Insurance Inc.,2005-03-02,2025-03-02,217.5135460119515,Parent Company,New,2025-11-28,17.435880093550946
+P008683,C006320,Bonds trader,Bowman-Rivera Insurance Inc.,2005-03-30,2025-03-30,5344.976094087651,Parent Company,Canceled,2025-11-28,5.544564449509784
+P001034,C006131,Primary school teacher,"Allen, Gill and Murphy Insurance Inc.",2005-02-15,2025-02-15,773.4898641268484,Mortgagee,Canceled,2025-11-28,11.927962173170414
+P006734,C008120,Pharmacologist,"Soto, Lawrence and Hooper Insurance Inc.",2005-07-03,2025-07-03,202.00766028212337,Premium Finance Company,New,2025-11-28,5.650014257035981
+P002601,C001411,"Journalist, newspaper",Diaz-Simmons Insurance Inc.,2005-02-26,2025-02-26,288.04369508701876,Agency Bill,Canceled,2025-11-28,10.787931266723637
+P007346,C007599,Network engineer,Hill Group Insurance Inc.,2005-11-02,2025-11-02,429.00761538041905,Mortgagee,New,2025-11-28,19.31500925488472
+P002419,C004225,Tour manager,Chaney-Rodriguez Insurance Inc.,2005-04-22,2025-04-22,612.4449642995597,Payroll Vendor,Marketing,2025-11-28,10.596653720381783
+P007357,C007422,Optometrist,Mosley-Gray Insurance Inc.,2005-08-20,2025-08-20,136.56039315884098,Direct Bill,New,2025-11-28,13.867591863975365
+P001108,C004123,Animal nutritionist,"Larson, Ramos and Harris Insurance Inc.",2004-12-21,2024-12-21,218.78007465645985,Agency Bill,Renewal Quoted,2025-11-28,6.100419326153065
+P005760,C008853,Media buyer,"Castro, Ward and Jones Insurance Inc.",2005-05-05,2025-05-05,408.30143591870706,Payroll Vendor,New,2025-11-28,11.247997161887145
+P009489,C009384,Press photographer,"Weaver, Stanley and Dalton Insurance Inc.",2005-05-31,2025-05-31,8066.827263628744,Direct Bill,New,2025-11-28,13.299472185237878
+P003469,C007975,Homeopath,Chavez LLC Insurance Inc.,2004-12-06,2024-12-06,441.9317115571866,Subsidiary,Canceled,2025-11-28,8.941089630629227
+P003260,C004207,Tree surgeon,Collins-Ramirez Insurance Inc.,2005-02-08,2025-02-08,195.66407648418343,Subsidiary,Renewal Quoted,2025-11-28,21.159678489470654
+P004550,C007732,"Engineer, civil (contracting)",Jones-Anderson Insurance Inc.,2005-05-29,2025-05-29,281.84569313439533,Parent Company,Renewal Quoted,2025-11-28,5.3117768599425315
+P002779,C007637,"Designer, ceramics/pottery",Jenkins and Sons Insurance Inc.,2005-05-29,2025-05-29,3820.1738757037106,Premium Finance Company,Renewal Quoted,2025-11-28,8.18987738995683
+P006051,C006631,Facilities manager,"Glover, Blake and Farrell Insurance Inc.",2005-06-07,2025-06-07,1507.8947835169256,Insured,Canceled,2025-11-28,11.050984269924177
+P003291,C004961,"Buyer, industrial",Cook-Solis Insurance Inc.,2005-09-21,2025-09-21,350.16528653323826,Premium Finance Company,Canceled,2025-11-28,11.194393710508493
+P004953,C007681,"Surveyor, commercial/residential",Green Inc Insurance Inc.,2005-01-24,2025-01-24,466.2460034522272,Subsidiary,Marketing,2025-11-28,14.578546230949339
+P005969,C006203,Mechanical engineer,Carpenter-Reed Insurance Inc.,2005-06-17,2025-06-17,115.15895538250471,Third-Party Billing,Canceled,2025-11-28,11.496666132288917
+P001857,C001866,"Designer, graphic",Wolfe-Anderson Insurance Inc.,2005-07-01,2025-07-01,1657.7103437294459,Direct Bill,New,2025-11-28,12.38703954117009
+P002414,C002494,"Runner, broadcasting/film/video",Perkins-Clark Insurance Inc.,2005-11-11,2025-11-11,2314.1370930350968,Third-Party Billing,Canceled,2025-11-28,6.949560503537985
+P006003,C007203,"Presenter, broadcasting",Vance and Sons Insurance Inc.,2005-07-16,2025-07-16,291.8630930987664,Agency Bill,Marketing,2025-11-28,7.567416410042053
+P007345,C008464,Trading standards officer,Giles-Barton Insurance Inc.,2005-08-21,2025-08-21,206.85037906075925,Insured,Marketing,2025-11-28,6.816188313197325
+P004350,C004154,Geographical information systems officer,"Brown, Horton and Ramos Insurance Inc.",2005-08-01,2025-08-01,215.5667035670161,Insured,New,2025-11-28,8.50778856671605
+P001696,C008591,IT sales professional,Pope-Cruz Insurance Inc.,2005-07-25,2025-07-25,4587.586881695849,Insured,Marketing,2025-11-28,8.867653092147693
+P007966,C003133,"Psychotherapist, dance movement","Miller, Rivera and Alexander Insurance Inc.",2005-06-19,2025-06-19,1642.2208840703445,Payroll Vendor,Marketing,2025-11-28,3.76685510110742
+P008723,C007058,"Scientist, audiological",Washington-Flores Insurance Inc.,2005-02-06,2025-02-06,8270.21467859703,Mortgagee,Renewal Quoted,2025-11-28,11.900164261293112
+P006581,C002756,Pharmacologist,Smith and Sons Insurance Inc.,2005-11-07,2025-11-07,141.44264209955497,Insured,New,2025-11-28,14.758096848716145
+P005640,C003161,Environmental consultant,Stewart-Rubio Insurance Inc.,2005-06-09,2025-06-09,163.8007429975252,Mortgagee,Canceled,2025-11-28,17.470884721499516
+P008745,C009559,Equities trader,Garcia-Peters Insurance Inc.,2005-10-14,2025-10-14,366.7088611427764,Direct Bill,Marketing,2025-11-28,14.948814249515955
+P005787,C003577,Comptroller,"Montgomery, Brooks and Ayala Insurance Inc.",2005-07-07,2025-07-07,209.61681153446625,Payroll Vendor,Renewal Quoted,2025-11-28,6.330978948198786
+P002139,C007902,Barista,"Davis, Campbell and Cannon Insurance Inc.",2005-08-08,2025-08-08,588.369794221221,Parent Company,Marketing,2025-11-28,20.82211042415591
+P005543,C002076,Data processing manager,Lambert-Thompson Insurance Inc.,2004-12-27,2024-12-27,147.8630695039552,Payroll Vendor,Canceled,2025-11-28,8.228150644853137
+P009998,C009949,"Horticulturist, amenity",Franklin Inc Insurance Inc.,2005-04-16,2025-04-16,3514.028574290856,Payroll Vendor,New,2025-11-28,14.259447490009638
+P006494,C007530,Transport planner,"Torres, Perez and Smith Insurance Inc.",2005-05-09,2025-05-09,279.9152297635278,Payroll Vendor,Renewal Quoted,2025-11-28,22.60468339496589
+P002353,C009597,Records manager,"Sims, Rodriguez and Romero Insurance Inc.",2005-10-05,2025-10-05,4599.212489408764,Agency Bill,Marketing,2025-11-28,12.924282623503744
+P004980,C005959,Sales promotion account executive,Herrera-Shah Insurance Inc.,2005-09-09,2025-09-09,525.2813358827623,Premium Finance Company,New,2025-11-28,6.102919880190295
+P002279,C009848,"Lighting technician, broadcasting/film/video","Cunningham, Gonzalez and Wyatt Insurance Inc.",2005-04-26,2025-04-26,169.22040420571852,Third-Party Billing,Renewal Quoted,2025-11-28,14.078633893338838
+P001485,C006189,Medical technical officer,Jones PLC Insurance Inc.,2004-11-30,2024-11-30,1058.7471549293812,Parent Company,Marketing,2025-11-28,9.605769701593255
+P008763,C005634,Solicitor,"Payne, Jones and Johnson Insurance Inc.",2005-08-12,2025-08-12,1266.7456636788825,Premium Finance Company,Renewal Quoted,2025-11-28,14.21905338997983
+P009889,C009917,Higher education lecturer,Barnett-White Insurance Inc.,2005-07-13,2025-07-13,6398.777037651457,Subsidiary,Renewal Quoted,2025-11-28,16.39442310975145
+P003141,C004860,Technical author,Wang Group Insurance Inc.,2005-09-11,2025-09-11,1772.389216966008,Subsidiary,Canceled,2025-11-28,3.6531771156613715
+P007355,C004381,"Surveyor, commercial/residential",Mendez and Sons Insurance Inc.,2005-10-22,2025-10-22,267.25707188804927,Insured,Canceled,2025-11-28,8.854945317277643
+P008305,C009784,"Pharmacist, hospital",Williams Group Insurance Inc.,2005-08-24,2025-08-24,169.37059363637889,Third-Party Billing,Canceled,2025-11-28,11.45404080267317
+P001738,C006859,"Presenter, broadcasting",Shepard PLC Insurance Inc.,2005-02-07,2025-02-07,951.6507155205841,Direct Bill,Canceled,2025-11-28,8.804694268987884
+P006499,C008977,"Surveyor, quantity",Perkins Group Insurance Inc.,2005-08-23,2025-08-23,332.6247815592812,Mortgagee,Marketing,2025-11-28,8.141305019231442
+P003741,C001150,"Research officer, political party",Fox Inc Insurance Inc.,2005-07-28,2025-07-28,456.9301808421867,Premium Finance Company,Canceled,2025-11-28,10.061628689926804
+P003064,C005410,IT sales professional,"Johnson, Pierce and Cobb Insurance Inc.",2005-05-23,2025-05-23,257.4931935453213,Agency Bill,Renewal Quoted,2025-11-28,12.309582238668854
+P001271,C001728,"Radiographer, diagnostic",Russell Ltd Insurance Inc.,2005-03-13,2025-03-13,239.52542662377016,Direct Bill,Renewal Quoted,2025-11-28,21.633788553246298
+P008074,C004080,Emergency planning/management officer,"Bird, Dawson and Wells Insurance Inc.",2005-02-20,2025-02-20,3424.015949354872,Third-Party Billing,Canceled,2025-11-28,5.932296334350106
+P005674,C005695,Transport planner,Robinson and Sons Insurance Inc.,2005-06-19,2025-06-19,462.7924912491685,Parent Company,New,2025-11-28,15.339130683616414
+P006845,C006446,Building services engineer,Sweeney-Bautista Insurance Inc.,2005-11-10,2025-11-10,577.3884867061918,Mortgagee,New,2025-11-28,16.334737194367758
+P007456,C009645,Historic buildings inspector/conservation officer,"Mitchell, Martinez and Long Insurance Inc.",2005-09-12,2025-09-12,378.27044423142473,Mortgagee,New,2025-11-28,5.9129909110566405
+P005660,C007749,Production manager,Pierce-Richardson Insurance Inc.,2005-03-22,2025-03-22,315.2976052996108,Direct Bill,Marketing,2025-11-28,9.964888051296533
+P003104,C005547,"Journalist, newspaper",Wilson and Sons Insurance Inc.,2005-02-23,2025-02-23,699.6301494598132,Subsidiary,Renewal Quoted,2025-11-28,11.521906858094
+P003459,C009120,Public relations account executive,Carrillo Inc Insurance Inc.,2005-04-06,2025-04-06,490.1768987564085,Premium Finance Company,Renewal Quoted,2025-11-28,6.330276773786627
+P004181,C004809,Energy engineer,Daniels-Johnson Insurance Inc.,2005-10-28,2025-10-28,3418.3735039392477,Insured,Marketing,2025-11-28,7.553508810272627
+P007772,C001436,Recycling officer,"Hall, Jones and Boyle Insurance Inc.",2004-12-04,2024-12-04,297.5364278928579,Agency Bill,Renewal Quoted,2025-11-28,6.9466423690156205
+P008606,C002275,"Engineer, maintenance",Hamilton-Estes Insurance Inc.,2005-06-17,2025-06-17,373.7343883983676,Premium Finance Company,Renewal Quoted,2025-11-28,12.8486533044333
+P008144,C007680,Counsellor,"Kelley, Brewer and Barker Insurance Inc.",2005-10-06,2025-10-06,649.4064567981129,Payroll Vendor,Marketing,2025-11-28,6.003985347952486
+P001098,C007395,Equities trader,"Jones, Russell and Perry Insurance Inc.",2005-01-16,2025-01-16,3043.137106842658,Direct Bill,New,2025-11-28,11.426553352281621
+P009214,C002760,Publishing copy,Murray Group Insurance Inc.,2005-03-02,2025-03-02,3051.5021391741616,Subsidiary,New,2025-11-28,11.701912754607877
+P007418,C004428,Physiotherapist,Smith-Everett Insurance Inc.,2005-03-28,2025-03-28,867.8858858964743,Payroll Vendor,Renewal Quoted,2025-11-28,7.1157549759816625
+P008523,C007311,Environmental manager,Hopkins-Myers Insurance Inc.,2005-01-16,2025-01-16,543.2942029026541,Mortgagee,Marketing,2025-11-28,14.27284395719011
+P001204,C001390,Music tutor,Larson-Allison Insurance Inc.,2005-04-15,2025-04-15,377.6712102072604,Premium Finance Company,Renewal Quoted,2025-11-28,8.052145904849706
+P002181,C003799,Adult nurse,"Pope, Gray and Fletcher Insurance Inc.",2005-02-21,2025-02-21,3773.1685136858428,Insured,Renewal Quoted,2025-11-28,16.326176908885987
+P004851,C003923,"Conservation officer, historic buildings",Houston LLC Insurance Inc.,2005-11-18,2025-11-18,168.2286161676305,Premium Finance Company,Marketing,2025-11-28,10.169499603255042
+P008853,C006378,Recruitment consultant,"Beck, Waller and Davis Insurance Inc.",2005-01-06,2025-01-06,502.2239490012294,Subsidiary,New,2025-11-28,15.492743171656267
+P005385,C002124,Research scientist (maths),Green Inc Insurance Inc.,2005-08-03,2025-08-03,607.8863778027435,Payroll Vendor,Renewal Quoted,2025-11-28,12.587240205992915
+P002569,C007056,"Designer, ceramics/pottery",Williams Inc Insurance Inc.,2005-11-16,2025-11-16,269.2746077357706,Agency Bill,Canceled,2025-11-28,12.157760997518576
+P006868,C008124,Sales executive,Thompson-Potter Insurance Inc.,2005-01-11,2025-01-11,3124.6323516164516,Third-Party Billing,Marketing,2025-11-28,8.711272317002328
+P002656,C004270,Trade union research officer,Bradshaw-Lutz Insurance Inc.,2005-01-12,2025-01-12,288.91340103429883,Third-Party Billing,Renewal Quoted,2025-11-28,9.86636803325875
+P004656,C008503,"Scientist, water quality","Moore, Jackson and Turner Insurance Inc.",2005-01-23,2025-01-23,9377.564374144282,Subsidiary,New,2025-11-28,11.787893920573039
+P004217,C003519,Social researcher,Walton-Jones Insurance Inc.,2004-12-26,2024-12-26,4707.968123174215,Premium Finance Company,Canceled,2025-11-28,14.103902170987904
+P001048,C008476,"Horticulturist, commercial",Orozco and Sons Insurance Inc.,2005-03-02,2025-03-02,983.2608673656787,Subsidiary,Canceled,2025-11-28,13.351950707491284
+P007599,C003491,Herbalist,"Martinez, Hendrix and Espinoza Insurance Inc.",2005-06-23,2025-06-23,230.84840389893168,Third-Party Billing,Canceled,2025-11-28,13.752518885108422
+P004293,C009067,Special effects artist,Garcia-Davis Insurance Inc.,2005-01-09,2025-01-09,5883.237758817396,Premium Finance Company,Marketing,2025-11-28,8.614609192919188
+P008900,C005635,Archaeologist,Allison-Gates Insurance Inc.,2005-01-01,2025-01-01,371.3877721053977,Subsidiary,Marketing,2025-11-28,3.9442709985645426
+P009259,C006717,Further education lecturer,Herrera-Lee Insurance Inc.,2005-02-05,2025-02-05,2464.615647479458,Agency Bill,Marketing,2025-11-28,9.690759251139118
+P002673,C001305,Community development worker,Lopez Group Insurance Inc.,2005-01-08,2025-01-08,1020.9571152256502,Payroll Vendor,New,2025-11-28,12.444470668671688
+P009476,C008947,Technical author,Avery-Mata Insurance Inc.,2005-05-14,2025-05-14,1470.8863299275506,Third-Party Billing,Canceled,2025-11-28,7.683957196635702
+P003116,C005233,Theme park manager,Thomas PLC Insurance Inc.,2005-11-22,2025-11-22,1895.5980465029816,Agency Bill,New,2025-11-28,14.758950834559226
+P003156,C009462,Health promotion specialist,Poole PLC Insurance Inc.,2005-07-27,2025-07-27,431.06782352763975,Parent Company,Canceled,2025-11-28,5.828278579925051
+P004120,C001467,"Therapist, art","Douglas, Nielsen and Key Insurance Inc.",2005-10-30,2025-10-30,946.4378026656301,Third-Party Billing,Marketing,2025-11-28,17.021544849481153
+P008560,C005298,"Engineer, broadcasting (operations)",Johnson-Ruiz Insurance Inc.,2005-09-21,2025-09-21,715.7452632260946,Parent Company,Renewal Quoted,2025-11-28,4.113354720208878
+P006742,C004470,"Teacher, secondary school",Rowe and Sons Insurance Inc.,2004-12-13,2024-12-13,669.0636274576212,Parent Company,Canceled,2025-11-28,9.816978149743262
+P009213,C002730,"Research officer, trade union",Roberts Group Insurance Inc.,2005-01-07,2025-01-07,553.0651671326065,Direct Bill,Marketing,2025-11-28,10.448788344961082
+P003522,C007137,Fisheries officer,Tyler PLC Insurance Inc.,2005-11-03,2025-11-03,1014.7781051208219,Agency Bill,Canceled,2025-11-28,6.28333690650998
+P003492,C002609,"Producer, radio","Williamson, Howell and Mullins Insurance Inc.",2005-06-08,2025-06-08,449.61940564381047,Payroll Vendor,Renewal Quoted,2025-11-28,10.873178598901157
+P002402,C006473,"Engineer, structural",Carter-Gonzalez Insurance Inc.,2005-05-08,2025-05-08,1879.9630904247024,Parent Company,Canceled,2025-11-28,7.160588982048105
+P009516,C004415,Water engineer,Vincent-Price Insurance Inc.,2005-07-31,2025-07-31,239.58522727604102,Parent Company,Canceled,2025-11-28,10.363247961569972
+P006158,C005947,Catering manager,Carson PLC Insurance Inc.,2005-04-11,2025-04-11,11029.97383928755,Third-Party Billing,Marketing,2025-11-28,3.6088766712860556
+P007465,C007651,Tax inspector,"Deleon, Turner and Lewis Insurance Inc.",2005-02-02,2025-02-02,410.210568617489,Parent Company,Renewal Quoted,2025-11-28,9.80774692163051
+P002379,C005581,Operational researcher,Wright and Sons Insurance Inc.,2005-06-10,2025-06-10,3261.551549915443,Direct Bill,Marketing,2025-11-28,12.083774247813933
+P003658,C008876,Barista,"Jordan, Thomas and Macdonald Insurance Inc.",2005-08-23,2025-08-23,465.6195269896423,Subsidiary,New,2025-11-28,13.688295709083448
+P007405,C008745,Prison officer,Johnson and Sons Insurance Inc.,2005-10-18,2025-10-18,289.600092966059,Agency Bill,Marketing,2025-11-28,13.230103339150324
+P003148,C005229,Theatre director,Rhodes and Sons Insurance Inc.,2005-06-21,2025-06-21,316.7403358922039,Subsidiary,New,2025-11-28,6.54240888984086
+P009454,C005108,Environmental education officer,"Cameron, Mora and Mack Insurance Inc.",2004-12-16,2024-12-16,670.2561860496725,Third-Party Billing,Renewal Quoted,2025-11-28,4.529179111924481
+P006751,C003153,"Doctor, general practice",Stone-Washington Insurance Inc.,2005-10-03,2025-10-03,463.8844702847991,Insured,Canceled,2025-11-28,9.861119385028596
+P008177,C006879,Oceanographer,Salas-Tate Insurance Inc.,2005-10-29,2025-10-29,449.8585268875824,Agency Bill,Canceled,2025-11-28,15.98662640753921
+P003183,C001336,Sport and exercise psychologist,Adams-Young Insurance Inc.,2005-10-24,2025-10-24,246.99174739889074,Parent Company,New,2025-11-28,8.528985698533242
+P006411,C005799,"Production designer, theatre/television/film",Garza-Ryan Insurance Inc.,2005-09-10,2025-09-10,1663.5421321094534,Third-Party Billing,Marketing,2025-11-28,9.523297170036567
+P008691,C005328,"Psychologist, prison and probation services",Berg-Robinson Insurance Inc.,2004-12-16,2024-12-16,4182.704176225589,Mortgagee,Canceled,2025-11-28,2.2755678523033858
+P006113,C009004,"Engineer, agricultural","Harrison, Griffin and Nguyen Insurance Inc.",2005-07-13,2025-07-13,612.6719777110526,Parent Company,Renewal Quoted,2025-11-28,10.604446812792142
+P004498,C003992,"Surveyor, minerals",Martin-Cohen Insurance Inc.,2004-12-01,2024-12-01,889.6819416327507,Mortgagee,Marketing,2025-11-28,9.151335894195261
+P009353,C007480,Land,Lester-Owens Insurance Inc.,2005-08-17,2025-08-17,166.97093424726452,Payroll Vendor,Canceled,2025-11-28,12.980007037413648
+P008924,C003082,"Chemist, analytical",Rubio Inc Insurance Inc.,2005-09-03,2025-09-03,399.5063116960224,Mortgagee,Marketing,2025-11-28,13.75406407325876
+P001297,C007956,Web designer,Gardner-Bryant Insurance Inc.,2005-04-15,2025-04-15,2278.5169423249786,Subsidiary,Renewal Quoted,2025-11-28,10.61973341330672
+P002933,C006015,"Administrator, sports",Burch Ltd Insurance Inc.,2005-03-22,2025-03-22,261.300738097306,Premium Finance Company,Canceled,2025-11-28,10.829214476006342
+P006167,C001052,"Psychologist, counselling",Stevenson-Carter Insurance Inc.,2005-10-16,2025-10-16,214.76349985296125,Premium Finance Company,Renewal Quoted,2025-11-28,14.497403283699354
+P003087,C007784,Seismic interpreter,"Rodriguez, Hamilton and Stevenson Insurance Inc.",2005-08-31,2025-08-31,420.8386271881499,Mortgagee,Canceled,2025-11-28,11.593097943288663
+P003780,C008119,Web designer,Cordova-Mcbride Insurance Inc.,2004-12-30,2024-12-30,1447.2551643536995,Parent Company,Marketing,2025-11-28,12.148277106447342
+P001641,C007863,Psychiatric nurse,"Sanchez, Myers and Page Insurance Inc.",2005-04-12,2025-04-12,2106.71385349143,Third-Party Billing,Canceled,2025-11-28,14.454627918985627
+P008261,C009000,Naval architect,Sellers-Anderson Insurance Inc.,2005-04-26,2025-04-26,2175.2602711499626,Parent Company,New,2025-11-28,12.16448788654572
+P004815,C009489,Jewellery designer,"Davis, Hill and Rodriguez Insurance Inc.",2005-07-19,2025-07-19,900.8886033468956,Third-Party Billing,Renewal Quoted,2025-11-28,11.8146377910582
+P007963,C001856,Personnel officer,"Gomez, Ramirez and Mercer Insurance Inc.",2005-07-22,2025-07-22,155.42608781521196,Agency Bill,Marketing,2025-11-28,14.68172882225586
+P005024,C006886,Estate manager/land agent,Martin Ltd Insurance Inc.,2005-03-20,2025-03-20,291.21725346171365,Parent Company,Marketing,2025-11-28,16.00091678732965
+P007390,C008569,Illustrator,Howard-Rogers Insurance Inc.,2005-01-07,2025-01-07,145.98215157817097,Agency Bill,Canceled,2025-11-28,5.459882080716591
+P007730,C009078,Clinical psychologist,Lewis Ltd Insurance Inc.,2004-12-18,2024-12-18,4357.875116708964,Insured,Canceled,2025-11-28,7.199610410724154
+P008651,C009809,Arts administrator,Gonzalez-Donaldson Insurance Inc.,2005-06-08,2025-06-08,3578.910377639695,Subsidiary,New,2025-11-28,12.348902226341131
+P002228,C007805,Radiation protection practitioner,"Cook, Davis and Sweeney Insurance Inc.",2005-11-01,2025-11-01,6624.33559356712,Direct Bill,Canceled,2025-11-28,14.464909430872549
+P002822,C007493,Television/film/video producer,Moore-Rogers Insurance Inc.,2005-04-19,2025-04-19,483.78612820646407,Third-Party Billing,Marketing,2025-11-28,3.683110406038022
+P006423,C005531,Orthoptist,Bruce Inc Insurance Inc.,2005-06-21,2025-06-21,375.368176918159,Mortgagee,New,2025-11-28,8.967536725961379
+P002346,C003594,Visual merchandiser,"Rodriguez, Juarez and Spencer Insurance Inc.",2005-02-05,2025-02-05,223.70704598494723,Third-Party Billing,Marketing,2025-11-28,-0.6805959675682729
+P004660,C004631,Data scientist,Shannon-Beck Insurance Inc.,2005-01-29,2025-01-29,2543.137011306253,Agency Bill,Renewal Quoted,2025-11-28,10.849750170007683
+P001917,C009303,Further education lecturer,Nguyen-Cook Insurance Inc.,2005-02-06,2025-02-06,534.2886243547018,Subsidiary,New,2025-11-28,11.332166151619388
+P002185,C009099,Fish farm manager,Barry PLC Insurance Inc.,2005-06-27,2025-06-27,125.16868597398482,Third-Party Billing,Canceled,2025-11-28,10.163281596466952
+P009164,C005673,Building control surveyor,Simpson-Barnes Insurance Inc.,2005-01-20,2025-01-20,998.6805433611523,Payroll Vendor,Marketing,2025-11-28,9.95101417587227
+P001582,C006650,Health promotion specialist,"Stephens, Lowery and House Insurance Inc.",2005-07-03,2025-07-03,377.17785179419354,Premium Finance Company,New,2025-11-28,9.700027806828764
+P005127,C001665,Product/process development scientist,"Ramirez, Cobb and Harvey Insurance Inc.",2005-06-23,2025-06-23,4454.923005725534,Parent Company,Canceled,2025-11-28,11.92772348374639
+P003767,C003345,Forest/woodland manager,Brady Inc Insurance Inc.,2005-04-25,2025-04-25,377.4654746335089,Third-Party Billing,Renewal Quoted,2025-11-28,10.104168548279716
+P002940,C006069,Systems developer,"Kerr, Thomas and Mathews Insurance Inc.",2004-12-11,2024-12-11,1108.1997125387625,Payroll Vendor,Renewal Quoted,2025-11-28,9.152057131449583
+P004952,C008727,Hospital doctor,Hill-Henderson Insurance Inc.,2005-06-22,2025-06-22,4094.946132268804,Premium Finance Company,Renewal Quoted,2025-11-28,12.570167065276973
+P005439,C005981,Chief Operating Officer,Daniels-Strickland Insurance Inc.,2005-07-08,2025-07-08,330.3947132846471,Third-Party Billing,Canceled,2025-11-28,13.302502616196803
+P005138,C009338,Proofreader,"Copeland, Robinson and Bauer Insurance Inc.",2004-12-24,2024-12-24,1971.1629307707608,Parent Company,Renewal Quoted,2025-11-28,7.838549889033885
+P007004,C005862,Horticultural consultant,"Andersen, Dunn and Johnson Insurance Inc.",2005-04-12,2025-04-12,295.74998970117235,Agency Bill,New,2025-11-28,8.55379388338349
+P007778,C001726,"Engineer, broadcasting (operations)","Hayden, Price and Strickland Insurance Inc.",2005-03-28,2025-03-28,490.60282836131955,Mortgagee,New,2025-11-28,13.132874518563627
+P006780,C001471,"Engineer, manufacturing systems",Padilla and Sons Insurance Inc.,2004-12-01,2024-12-01,3201.783126058221,Parent Company,Canceled,2025-11-28,15.871241178803228
+P009421,C002425,Futures trader,Matthews-Fletcher Insurance Inc.,2004-12-13,2024-12-13,2819.747501241889,Third-Party Billing,Marketing,2025-11-28,4.35035300568347
+P008060,C002287,Energy engineer,"Lawrence, Branch and Meyer Insurance Inc.",2005-05-20,2025-05-20,3462.1995868261424,Direct Bill,New,2025-11-28,13.35798943408132
+P008263,C002144,"Engineer, communications",Haney PLC Insurance Inc.,2005-07-24,2025-07-24,782.4277643940757,Payroll Vendor,Canceled,2025-11-28,13.273329913592178
+P005495,C004467,"Geologist, engineering",Cox LLC Insurance Inc.,2005-01-23,2025-01-23,221.59696595724645,Insured,Marketing,2025-11-28,18.847102539427073
+P007696,C008327,Mudlogger,Foster LLC Insurance Inc.,2005-01-22,2025-01-22,682.0867935506174,Payroll Vendor,New,2025-11-28,10.099648415082926
+P003421,C003108,Financial planner,Johnson-Glover Insurance Inc.,2005-04-03,2025-04-03,803.4581855598753,Third-Party Billing,Canceled,2025-11-28,12.292899608471991
+P004055,C006854,"Engineer, aeronautical",Lynch LLC Insurance Inc.,2004-12-05,2024-12-05,489.76630941477555,Payroll Vendor,Renewal Quoted,2025-11-28,10.218602685996094
+P001626,C001334,Statistician,Cuevas and Sons Insurance Inc.,2005-01-20,2025-01-20,168.3848749910669,Subsidiary,Marketing,2025-11-28,16.39862585037243
+P004711,C008000,"Engineer, chemical",Hatfield Group Insurance Inc.,2005-11-14,2025-11-14,2336.3716902565056,Premium Finance Company,Renewal Quoted,2025-11-28,8.403877980003495
+P001521,C002060,"Teacher, primary school",Phelps-Hernandez Insurance Inc.,2005-10-12,2025-10-12,7410.172047165698,Agency Bill,Marketing,2025-11-28,18.674365599890105
+P006332,C007926,Consulting civil engineer,Frazier Inc Insurance Inc.,2005-01-24,2025-01-24,6175.316658261824,Subsidiary,Marketing,2025-11-28,13.111485615699806
+P008761,C006344,"Scientist, biomedical",Hicks-Hughes Insurance Inc.,2005-08-12,2025-08-12,453.4351465975054,Third-Party Billing,Renewal Quoted,2025-11-28,13.943903928488231
+P003368,C004122,"Solicitor, Scotland",Morrison Ltd Insurance Inc.,2005-01-01,2025-01-01,1670.3019050688752,Premium Finance Company,Renewal Quoted,2025-11-28,11.787676821868372
+P009558,C001983,Counsellor,"Cardenas, Johnson and Villa Insurance Inc.",2005-06-14,2025-06-14,541.3500142544983,Mortgagee,New,2025-11-28,18.271106194459314
+P001152,C009632,"Engineer, civil (consulting)",King-Padilla Insurance Inc.,2005-09-01,2025-09-01,424.46769252912696,Direct Bill,Canceled,2025-11-28,13.956639200252596
+P009081,C005808,"Teacher, special educational needs","Smith, Howard and Osborn Insurance Inc.",2005-07-19,2025-07-19,2295.7645585293862,Direct Bill,Canceled,2025-11-28,6.485301862669566
+P001090,C009618,Prison officer,Edwards Inc Insurance Inc.,2005-05-11,2025-05-11,462.0328579600936,Parent Company,New,2025-11-28,11.640316861532444
+P009681,C007704,"Conservation officer, historic buildings","Lee, Torres and Taylor Insurance Inc.",2005-01-11,2025-01-11,150.89197885536498,Mortgagee,Marketing,2025-11-28,13.432124635761589
+P001196,C005631,Electrical engineer,"Guerrero, Kennedy and York Insurance Inc.",2005-10-22,2025-10-22,382.9013304812229,Insured,Canceled,2025-11-28,18.43327387144995
+P003382,C004735,Musician,Mckinney and Sons Insurance Inc.,2005-03-14,2025-03-14,404.62271915733083,Insured,Canceled,2025-11-28,16.591597186601195
+P004166,C008268,Sports coach,Morgan-Martin Insurance Inc.,2004-11-30,2024-11-30,854.3043045416348,Payroll Vendor,New,2025-11-28,16.254998090930403
+P005650,C005211,"Scientist, marine",Salazar-Kelly Insurance Inc.,2005-08-06,2025-08-06,192.08903074494373,Third-Party Billing,Canceled,2025-11-28,10.854395706272966
+P001140,C003924,Ophthalmologist,Chan LLC Insurance Inc.,2005-03-18,2025-03-18,353.88267645652104,Parent Company,Canceled,2025-11-28,10.05380884970693
+P001540,C008894,Ophthalmologist,Odom-White Insurance Inc.,2005-01-20,2025-01-20,1502.1258968517484,Agency Bill,New,2025-11-28,10.363002905941435
+P002954,C001545,Public affairs consultant,Graham LLC Insurance Inc.,2005-01-22,2025-01-22,350.14206997533995,Agency Bill,New,2025-11-28,17.161167997284682
+P001895,C005491,Clothing/textile technologist,"Barry, Stewart and Medina Insurance Inc.",2005-03-01,2025-03-01,1546.947833823918,Direct Bill,Marketing,2025-11-28,11.301240686456923
+P002052,C005899,Hospital pharmacist,Moore LLC Insurance Inc.,2005-03-07,2025-03-07,708.9584130754527,Direct Bill,Renewal Quoted,2025-11-28,9.396146500917853
+P007022,C005833,Seismic interpreter,"Riley, Dunn and Jefferson Insurance Inc.",2005-09-26,2025-09-26,376.0248964711369,Parent Company,New,2025-11-28,14.341755853318181
+P006526,C008676,Waste management officer,"Fischer, Jefferson and Haley Insurance Inc.",2005-04-12,2025-04-12,183.41197820853114,Agency Bill,Renewal Quoted,2025-11-28,14.615933923162462
+P009336,C005390,Chief Strategy Officer,Fernandez-Garrison Insurance Inc.,2005-11-05,2025-11-05,1143.7689915909787,Insured,Marketing,2025-11-28,9.123137430632095
+P006393,C009992,Call centre manager,Hinton-Rose Insurance Inc.,2005-05-19,2025-05-19,6438.172220195452,Parent Company,New,2025-11-28,11.309169339495092
+P002464,C007198,Estate manager/land agent,Santiago-Bauer Insurance Inc.,2005-05-25,2025-05-25,4590.973329409817,Agency Bill,Renewal Quoted,2025-11-28,9.426985494950324
+P003834,C009704,"Psychologist, educational",Blackwell PLC Insurance Inc.,2005-02-22,2025-02-22,491.65299314295225,Premium Finance Company,New,2025-11-28,12.650626786658842
+P007206,C002164,"Programmer, applications",Armstrong LLC Insurance Inc.,2005-11-04,2025-11-04,527.724779290829,Insured,Renewal Quoted,2025-11-28,16.50040264435591
+P006947,C001662,Theatre manager,Weaver-Washington Insurance Inc.,2005-11-02,2025-11-02,1616.4087908657098,Agency Bill,Renewal Quoted,2025-11-28,6.870253650079445
+P001280,C007745,Industrial/product designer,Hughes-Serrano Insurance Inc.,2005-10-04,2025-10-04,172.14306683014382,Premium Finance Company,New,2025-11-28,11.018254407736634
+P003786,C004411,"Education officer, community",Anderson and Sons Insurance Inc.,2005-09-15,2025-09-15,4004.3688191127794,Agency Bill,Canceled,2025-11-28,9.533669058959509
+P005226,C004806,Government social research officer,Murphy-Bell Insurance Inc.,2005-11-12,2025-11-12,473.35182060423375,Subsidiary,Marketing,2025-11-28,13.789967318562006
+P001237,C009093,Clinical cytogeneticist,Henderson-Foster Insurance Inc.,2005-01-10,2025-01-10,229.37509320047755,Third-Party Billing,Renewal Quoted,2025-11-28,13.988613709714153
+P002713,C006960,Seismic interpreter,Parker PLC Insurance Inc.,2005-06-28,2025-06-28,451.2337627372687,Mortgagee,Canceled,2025-11-28,7.161672338636639
+P006875,C003974,"Research officer, government",Ayala Inc Insurance Inc.,2005-03-21,2025-03-21,2127.7671959841464,Third-Party Billing,New,2025-11-28,16.143519576920482
+P005778,C007786,Public relations account executive,Doyle-Roberts Insurance Inc.,2005-05-16,2025-05-16,1875.8845223378144,Mortgagee,Marketing,2025-11-28,13.485821055497956
+P009881,C004553,Senior tax professional/tax inspector,"Mcpherson, Ray and Clark Insurance Inc.",2005-08-13,2025-08-13,230.01693307131364,Insured,Marketing,2025-11-28,9.948180071064883
+P005966,C006773,"Accountant, chartered management",Sloan-Savage Insurance Inc.,2005-09-24,2025-09-24,750.8782929886717,Third-Party Billing,Marketing,2025-11-28,9.545579789220303
+P003728,C004560,Health visitor,"Warren, Phillips and Mcdonald Insurance Inc.",2005-11-25,2025-11-25,410.97578544889484,Premium Finance Company,New,2025-11-28,13.303907002885516
+P002917,C008293,Mechanical engineer,Edwards-Frost Insurance Inc.,2005-11-26,2025-11-26,225.71892219249142,Premium Finance Company,New,2025-11-28,11.469627742144816
+P009445,C008340,Chartered accountant,"Jackson, English and Miller Insurance Inc.",2005-05-09,2025-05-09,341.6658270493935,Insured,Renewal Quoted,2025-11-28,9.037620743469185
+P003770,C003382,Aid worker,Hernandez LLC Insurance Inc.,2005-10-17,2025-10-17,394.00984643884493,Third-Party Billing,New,2025-11-28,10.41133030927561
+P004822,C004825,Bonds trader,Jones-Garcia Insurance Inc.,2005-02-17,2025-02-17,295.7457102452051,Direct Bill,Marketing,2025-11-28,13.540480447211504
+P007903,C003598,Archivist,"Goodman, Morrison and White Insurance Inc.",2005-10-30,2025-10-30,241.9727716227372,Direct Bill,Canceled,2025-11-28,11.780120183212714
+P006720,C003997,"Production assistant, television",Fowler PLC Insurance Inc.,2004-12-26,2024-12-26,931.4234783514797,Insured,Marketing,2025-11-28,11.359146216085541
+P007014,C001158,Cytogeneticist,Wu-Scott Insurance Inc.,2005-11-20,2025-11-20,303.7597698236949,Mortgagee,Marketing,2025-11-28,13.463212971273288
+P008371,C009649,Learning mentor,"Daniel, Morris and Ward Insurance Inc.",2005-02-08,2025-02-08,278.25066853148275,Third-Party Billing,New,2025-11-28,7.172350668179424
+P005524,C002454,Field seismologist,"Anderson, Allen and Smith Insurance Inc.",2005-07-07,2025-07-07,2090.099559773236,Insured,Marketing,2025-11-28,18.757119063184632
+P002532,C001912,"Buyer, retail",Andersen Ltd Insurance Inc.,2005-10-20,2025-10-20,3070.979440471853,Agency Bill,Canceled,2025-11-28,16.090471521300728
+P003487,C006043,General practice doctor,"Johnson, Brooks and Olson Insurance Inc.",2005-02-22,2025-02-22,302.1856514163181,Premium Finance Company,Canceled,2025-11-28,13.280585216188806
+P001456,C004178,"Engineer, site","Gallagher, Harris and Moore Insurance Inc.",2005-03-19,2025-03-19,322.0156697003614,Parent Company,New,2025-11-28,11.45224132799908
+P003848,C009165,Building surveyor,"Mitchell, Washington and Gordon Insurance Inc.",2005-01-29,2025-01-29,648.5696469062595,Subsidiary,New,2025-11-28,7.702520592302482
+P001173,C004291,Teaching laboratory technician,Wolfe-Gonzales Insurance Inc.,2005-04-06,2025-04-06,988.3661541873964,Payroll Vendor,Marketing,2025-11-28,15.872431288967057
+P003376,C009214,"Nurse, learning disability","Myers, Knapp and Sullivan Insurance Inc.",2005-04-30,2025-04-30,592.7190555253454,Direct Bill,Canceled,2025-11-28,2.6984658045131003
+P007152,C005149,"Engineer, electrical",Saunders-Briggs Insurance Inc.,2005-07-08,2025-07-08,4324.175138990862,Premium Finance Company,Renewal Quoted,2025-11-28,15.417635218757423
+P006626,C008572,Higher education lecturer,Marks LLC Insurance Inc.,2005-07-07,2025-07-07,2802.013157606383,Parent Company,Renewal Quoted,2025-11-28,8.447178807761409
+P007209,C006521,Armed forces operational officer,Lawson-Hall Insurance Inc.,2005-04-04,2025-04-04,226.07766745348334,Insured,Renewal Quoted,2025-11-28,5.980464409593101
+P005803,C008754,Estate manager/land agent,Cooper-Tucker Insurance Inc.,2005-06-26,2025-06-26,427.4926120601156,Parent Company,Renewal Quoted,2025-11-28,18.3415122328745
+P004407,C004858,Operational researcher,Flores Ltd Insurance Inc.,2004-12-21,2024-12-21,416.25845945745084,Mortgagee,Canceled,2025-11-28,15.921701158247073
+P004313,C007604,"Engineer, control and instrumentation","Castro, Carroll and Rios Insurance Inc.",2005-07-03,2025-07-03,76.23597587662687,Parent Company,Marketing,2025-11-28,6.16585681579857
+P007050,C003696,Press sub,Rowland-Weeks Insurance Inc.,2005-01-22,2025-01-22,710.3171129650242,Agency Bill,Canceled,2025-11-28,12.988909247783381
+P007603,C006331,Broadcast journalist,Gutierrez PLC Insurance Inc.,2005-05-16,2025-05-16,257.48291266494476,Agency Bill,Renewal Quoted,2025-11-28,16.075529604859685
+P008515,C008346,Paramedic,"Hill, Garner and Terry Insurance Inc.",2005-02-13,2025-02-13,177.45221838191816,Agency Bill,New,2025-11-28,11.73415247444711
+P003911,C006640,Surgeon,Hill Group Insurance Inc.,2005-10-28,2025-10-28,384.4738965431576,Insured,Renewal Quoted,2025-11-28,8.061937437433029
+P005041,C001053,Media planner,"Wilson, George and Watson Insurance Inc.",2005-09-04,2025-09-04,261.4220214504142,Parent Company,Canceled,2025-11-28,16.017930174827203
+P001732,C008183,"Engineer, building services",Harris PLC Insurance Inc.,2005-11-27,2025-11-27,6585.091070505204,Direct Bill,New,2025-11-28,-0.5707779451644441
+P008026,C004719,Secondary school teacher,"Harris, Beck and Williams Insurance Inc.",2005-03-29,2025-03-29,447.27449392026693,Parent Company,New,2025-11-28,12.460274224214265
+P003179,C004004,Lexicographer,Cortez LLC Insurance Inc.,2005-05-05,2025-05-05,275.24991171729033,Mortgagee,Canceled,2025-11-28,14.04542750001384
+P002045,C005549,Prison officer,Montgomery-Reynolds Insurance Inc.,2005-01-14,2025-01-14,252.2192209132195,Direct Bill,Renewal Quoted,2025-11-28,16.86480604224544
+P006713,C005508,Futures trader,Choi Ltd Insurance Inc.,2005-07-25,2025-07-25,600.4704816386153,Subsidiary,Marketing,2025-11-28,15.581352293235419
+P005210,C002584,Lawyer,Gordon and Sons Insurance Inc.,2005-05-01,2025-05-01,4867.617921525713,Insured,Marketing,2025-11-28,10.487693433108427
+P008192,C007880,Materials engineer,Ryan Group Insurance Inc.,2005-09-29,2025-09-29,304.96305504758203,Subsidiary,Canceled,2025-11-28,13.411559904520775
+P007617,C003064,Nutritional therapist,"Stephens, Richardson and Hunt Insurance Inc.",2005-04-14,2025-04-14,336.8893449225755,Subsidiary,Canceled,2025-11-28,14.812001517982992
+P007793,C008230,"Engineer, drilling",Dominguez and Sons Insurance Inc.,2005-11-22,2025-11-22,1855.3263754168302,Insured,New,2025-11-28,12.972448601462718
+P001298,C009248,Chiropractor,Brown Ltd Insurance Inc.,2005-11-08,2025-11-08,182.12732335976327,Premium Finance Company,Renewal Quoted,2025-11-28,9.098285981152689
+P005942,C002415,Banker,"Harris, Leon and Carroll Insurance Inc.",2005-02-06,2025-02-06,566.7939379954473,Agency Bill,New,2025-11-28,10.210776854411147
+P004429,C008370,Education administrator,Adams-Cooper Insurance Inc.,2005-05-17,2025-05-17,120.00868079198848,Mortgagee,Canceled,2025-11-28,7.576518042097934
+P007262,C006797,"Surveyor, quantity",Jenkins and Sons Insurance Inc.,2005-08-11,2025-08-11,301.48262107037937,Direct Bill,Marketing,2025-11-28,10.673033300808115
+P002281,C005047,"Scientist, forensic","Newman, Hayes and Gibson Insurance Inc.",2004-12-23,2024-12-23,159.702886780288,Premium Finance Company,New,2025-11-28,9.504734922224413
+P007097,C004204,Land,"Villarreal, Quinn and Brooks Insurance Inc.",2005-10-12,2025-10-12,543.9069088856598,Payroll Vendor,Marketing,2025-11-28,15.144502580093574
+P002085,C005380,Exercise physiologist,"Payne, Wright and Nunez Insurance Inc.",2005-11-19,2025-11-19,392.6169775464101,Direct Bill,Canceled,2025-11-28,9.351741855963606
+P002599,C007426,Health physicist,Fitzgerald PLC Insurance Inc.,2005-09-14,2025-09-14,299.6556867780891,Premium Finance Company,Canceled,2025-11-28,8.075595618842001
+P004520,C001166,"Conservator, museum/gallery",Kim Inc Insurance Inc.,2005-01-03,2025-01-03,356.5407046276557,Mortgagee,Marketing,2025-11-28,7.373268393088269
+P005728,C003894,Geochemist,Martin LLC Insurance Inc.,2004-12-18,2024-12-18,422.3255566209826,Mortgagee,Marketing,2025-11-28,3.5684049226681713
+P007115,C004543,Retail buyer,"Franklin, Middleton and Johnson Insurance Inc.",2005-10-09,2025-10-09,248.46332730705097,Payroll Vendor,Marketing,2025-11-28,10.38064345223262
+P004898,C008277,"Therapist, music","Rivas, Baker and Floyd Insurance Inc.",2005-08-16,2025-08-16,3721.4076399659407,Premium Finance Company,Renewal Quoted,2025-11-28,14.103322109354847
+P005335,C001253,"Journalist, newspaper",Shaw LLC Insurance Inc.,2005-10-21,2025-10-21,5452.004130577852,Payroll Vendor,Marketing,2025-11-28,16.859517916865748
+P006766,C003880,Gaffer,Shaw and Sons Insurance Inc.,2005-11-17,2025-11-17,782.6581649219104,Premium Finance Company,Renewal Quoted,2025-11-28,18.732792240749045
+P003762,C003489,Media buyer,Jones-Dickerson Insurance Inc.,2005-04-13,2025-04-13,577.4561894192667,Direct Bill,Canceled,2025-11-28,17.176856538938036
+P004470,C004729,"Exhibitions officer, museum/gallery",Carson-Simpson Insurance Inc.,2005-05-08,2025-05-08,460.05167426185875,Agency Bill,Marketing,2025-11-28,7.3537929972506575
+P005849,C009086,Hospital pharmacist,"Lawrence, Avila and Moore Insurance Inc.",2004-12-01,2024-12-01,179.0305139810372,Third-Party Billing,Marketing,2025-11-28,7.60774767793102
+P005878,C004224,Cartographer,"Weaver, Bolton and Ho Insurance Inc.",2005-08-07,2025-08-07,450.5368494300588,Mortgagee,Marketing,2025-11-28,9.50715198803518
+P008367,C006255,TEFL teacher,Williams Ltd Insurance Inc.,2005-04-03,2025-04-03,1045.0629501100523,Subsidiary,Marketing,2025-11-28,7.728535706272741
+P008909,C008333,"Engineer, manufacturing",Wade-Holmes Insurance Inc.,2005-08-11,2025-08-11,225.99526602342002,Direct Bill,Marketing,2025-11-28,16.139914532178935
+P006081,C008841,"Loss adjuster, chartered",Kim Inc Insurance Inc.,2005-06-09,2025-06-09,338.5117770130941,Agency Bill,Marketing,2025-11-28,15.185971533107368
+P002041,C006330,Music therapist,"Delgado, Parsons and Gardner Insurance Inc.",2005-11-02,2025-11-02,447.86257497850147,Third-Party Billing,Canceled,2025-11-28,12.120702332562933
+P007411,C009280,Psychotherapist,"Liu, Walsh and Freeman Insurance Inc.",2005-10-24,2025-10-24,696.2175125423535,Premium Finance Company,Renewal Quoted,2025-11-28,9.39362353248746
+P002860,C007470,Photographer,"Nelson, Campbell and Gregory Insurance Inc.",2005-04-14,2025-04-14,2454.525135460356,Payroll Vendor,Marketing,2025-11-28,18.181692302586907
+P001700,C009281,"Sales professional, IT",Curtis LLC Insurance Inc.,2005-08-09,2025-08-09,573.7718348113474,Parent Company,New,2025-11-28,15.547875647882304
+P005251,C001417,"Programmer, systems",Green-Robbins Insurance Inc.,2005-06-10,2025-06-10,328.7759861621762,Direct Bill,Canceled,2025-11-28,7.28014382524269
+P002326,C006031,Jewellery designer,Sharp and Sons Insurance Inc.,2005-07-17,2025-07-17,224.90490819753944,Parent Company,Renewal Quoted,2025-11-28,14.519310032113905
+P004927,C003347,Chartered loss adjuster,Phelps-Thompson Insurance Inc.,2005-07-06,2025-07-06,585.5119667879258,Subsidiary,Marketing,2025-11-28,13.958150841120657
+P006056,C002270,Primary school teacher,Rogers-Erickson Insurance Inc.,2005-08-22,2025-08-22,602.273674729467,Direct Bill,New,2025-11-28,9.089022384024721
+P002600,C008056,"Therapist, art",Smith PLC Insurance Inc.,2005-03-31,2025-03-31,3842.989852976915,Parent Company,Renewal Quoted,2025-11-28,8.56420909925506
+P004230,C009543,Insurance broker,"Santiago, Mccoy and Ramirez Insurance Inc.",2005-08-21,2025-08-21,523.2817610313185,Insured,Marketing,2025-11-28,10.611580048390314
+P003992,C002446,"Designer, exhibition/display",Cook and Sons Insurance Inc.,2005-01-28,2025-01-28,249.37653919122707,Payroll Vendor,New,2025-11-28,11.15328737748557
+P003638,C002575,Network engineer,Phillips-Gibson Insurance Inc.,2005-08-16,2025-08-16,618.161313046087,Payroll Vendor,New,2025-11-28,13.655485045640123
+P008578,C005435,"Lecturer, further education",Lane Group Insurance Inc.,2004-11-29,2024-11-29,289.43782572018347,Subsidiary,New,2025-11-28,8.019984157085517
+P005075,C009515,Animator,Boone-Montgomery Insurance Inc.,2005-11-01,2025-11-01,1449.9340466956946,Parent Company,Renewal Quoted,2025-11-28,12.793720233381123
+P009817,C004083,Actuary,"Williams, Leon and Wiley Insurance Inc.",2004-12-18,2024-12-18,488.4609873306785,Mortgagee,Renewal Quoted,2025-11-28,6.141930321828787
+P009663,C001495,Exhibition designer,"Cortez, Williams and May Insurance Inc.",2005-10-19,2025-10-19,369.70838055401856,Direct Bill,Marketing,2025-11-28,13.214966806283446
+P004336,C002755,"Clinical scientist, histocompatibility and immunogenetics",Hensley Ltd Insurance Inc.,2005-04-02,2025-04-02,2901.2574102199173,Insured,Marketing,2025-11-28,15.14996517969431
+P003433,C004469,Make,"Martin, Ryan and Johnson Insurance Inc.",2005-03-13,2025-03-13,310.18551204389695,Mortgagee,New,2025-11-28,8.687607821574021
+P007296,C007845,"Therapist, speech and language","Martinez, Johnson and Ortega Insurance Inc.",2005-03-21,2025-03-21,301.237157475016,Premium Finance Company,New,2025-11-28,13.688439492091732
+P004699,C006125,Field seismologist,"Johnson, Jones and Kramer Insurance Inc.",2005-07-24,2025-07-24,396.48133836348217,Insured,Renewal Quoted,2025-11-28,16.607636683714937
+P009387,C006041,Energy engineer,Rivera Group Insurance Inc.,2005-09-10,2025-09-10,1835.2501010385513,Payroll Vendor,New,2025-11-28,5.4865552565227285
+P004349,C009549,Copy,Wilkins-Gutierrez Insurance Inc.,2005-03-06,2025-03-06,254.07684573124126,Mortgagee,Canceled,2025-11-28,12.823081595011917
+P006980,C001450,"Psychologist, prison and probation services",Miller-Campbell Insurance Inc.,2005-11-08,2025-11-08,749.220054929105,Parent Company,Marketing,2025-11-28,17.231422910328043
+P004580,C002369,Chief Technology Officer,Robles-Mitchell Insurance Inc.,2004-12-31,2024-12-31,218.21622493428876,Parent Company,Renewal Quoted,2025-11-28,22.450767031482766
+P003036,C008507,"Psychologist, clinical",Myers PLC Insurance Inc.,2005-02-22,2025-02-22,618.5986919813844,Premium Finance Company,Marketing,2025-11-28,12.4030625108497
+P003290,C008644,Hydrologist,Sanchez-Smith Insurance Inc.,2005-03-06,2025-03-06,278.3260512102552,Third-Party Billing,Marketing,2025-11-28,14.71594785052541
+P003340,C009345,Pensions consultant,Yoder Inc Insurance Inc.,2005-03-14,2025-03-14,7156.036267223563,Premium Finance Company,New,2025-11-28,9.64344784988053
+P002376,C005433,Soil scientist,Oconnell-Scott Insurance Inc.,2005-02-22,2025-02-22,226.99251611217076,Third-Party Billing,Renewal Quoted,2025-11-28,14.927604991988442
+P008340,C003669,"Conservation officer, nature",Powers-Phillips Insurance Inc.,2005-03-17,2025-03-17,1418.8474577609188,Third-Party Billing,Renewal Quoted,2025-11-28,7.295903407398551
+P007306,C009807,Tourism officer,"Henry, Durham and Bryant Insurance Inc.",2005-11-10,2025-11-10,194.8316229371098,Direct Bill,Canceled,2025-11-28,13.760503975128266
+P002446,C004215,Commercial horticulturist,Lee-Thomas Insurance Inc.,2005-09-07,2025-09-07,592.7088538365922,Insured,New,2025-11-28,13.608725728651082
+P005328,C005555,"Conservator, furniture",Hartman PLC Insurance Inc.,2005-05-30,2025-05-30,1404.4111890934478,Payroll Vendor,New,2025-11-28,10.272391571962729
+P005449,C006429,"Librarian, public",Green-Ford Insurance Inc.,2005-04-02,2025-04-02,389.02163644215915,Third-Party Billing,New,2025-11-28,6.695315191429569
+P005252,C004478,"Therapist, music",Kelly Ltd Insurance Inc.,2005-06-10,2025-06-10,1625.6371233161728,Payroll Vendor,New,2025-11-28,15.302939797271662
+P006828,C006915,"Engineer, structural",Macdonald LLC Insurance Inc.,2005-05-18,2025-05-18,7268.337932689596,Direct Bill,New,2025-11-28,13.955921898632695
+P003345,C008345,"Engineer, electronics",Wolfe-Torres Insurance Inc.,2005-02-25,2025-02-25,274.17776004666325,Parent Company,Marketing,2025-11-28,11.363341673886234
+P008550,C007443,Advertising account executive,"Jones, Copeland and Campos Insurance Inc.",2005-10-19,2025-10-19,290.5118420582993,Direct Bill,Canceled,2025-11-28,6.039201083199186
+P009777,C002137,Writer,"Fisher, Davis and Diaz Insurance Inc.",2004-12-30,2024-12-30,228.06878341094094,Subsidiary,Renewal Quoted,2025-11-28,14.68687129546911
+P008555,C001189,"Engineer, maintenance (IT)",Morales Ltd Insurance Inc.,2005-10-28,2025-10-28,137.83182571371265,Direct Bill,Renewal Quoted,2025-11-28,15.243110783199528
+P001305,C005856,Herbalist,Harris Ltd Insurance Inc.,2005-06-13,2025-06-13,2883.8052833832653,Agency Bill,Renewal Quoted,2025-11-28,6.906956590332557
+P009088,C006165,Quality manager,Bradford Group Insurance Inc.,2005-07-02,2025-07-02,342.6045822738367,Insured,Renewal Quoted,2025-11-28,7.213382772636266
+P008180,C005843,Management consultant,Gilbert-Scott Insurance Inc.,2005-09-03,2025-09-03,1458.4376464174888,Parent Company,Marketing,2025-11-28,7.793954885263439
+P001664,C006627,Tourist information centre manager,Davidson-Jefferson Insurance Inc.,2005-08-20,2025-08-20,594.6202574585948,Payroll Vendor,Canceled,2025-11-28,24.537753008008146
+P006698,C006323,"Research officer, government","Gilbert, Gordon and Costa Insurance Inc.",2005-03-27,2025-03-27,531.6283156219279,Direct Bill,Renewal Quoted,2025-11-28,16.755508691917548
+P002460,C004994,"Nurse, mental health",Reeves Inc Insurance Inc.,2005-03-12,2025-03-12,392.77576789660026,Premium Finance Company,Canceled,2025-11-28,10.851871873930802
+P003475,C005571,"Journalist, newspaper","Grant, Keith and Price Insurance Inc.",2004-12-22,2024-12-22,3911.320907691512,Mortgagee,New,2025-11-28,20.136035060789087
+P007271,C007640,Housing manager/officer,"Jordan, Howell and Johnson Insurance Inc.",2005-02-08,2025-02-08,5476.689593608136,Agency Bill,Canceled,2025-11-28,12.332845849585262
+P002740,C009357,Trading standards officer,Hansen-Conrad Insurance Inc.,2005-02-07,2025-02-07,579.1341422510263,Parent Company,New,2025-11-28,8.400600347120434
+P004542,C006212,Energy manager,Blake-Smith Insurance Inc.,2005-01-21,2025-01-21,663.2965381273814,Payroll Vendor,Marketing,2025-11-28,13.266627179476773
+P002814,C007673,Tourist information centre manager,Chavez-Mason Insurance Inc.,2005-01-04,2025-01-04,294.2350020742589,Third-Party Billing,Renewal Quoted,2025-11-28,19.592904820694862
+P004522,C005384,"Accountant, chartered public finance","Valdez, Rogers and Price Insurance Inc.",2004-12-16,2024-12-16,162.34448892708912,Premium Finance Company,Canceled,2025-11-28,11.159952671392485
+P007289,C002336,"Development worker, community",Harper-Jones Insurance Inc.,2005-03-17,2025-03-17,161.99691319839295,Parent Company,Renewal Quoted,2025-11-28,17.157116799979494
+P007026,C009481,Hotel manager,Williams LLC Insurance Inc.,2005-02-13,2025-02-13,191.73301196103972,Agency Bill,Marketing,2025-11-28,10.554921104803004
+P004548,C003883,Counsellor,"Taylor, Lee and Hart Insurance Inc.",2005-03-09,2025-03-09,306.5306049024034,Premium Finance Company,Marketing,2025-11-28,9.156096318479507
+P002081,C004836,"Secretary, company",Smith Ltd Insurance Inc.,2005-03-25,2025-03-25,154.1607688584264,Mortgagee,Marketing,2025-11-28,9.170398101116566
+P004355,C008173,Tour manager,"Castro, Mcdowell and Haynes Insurance Inc.",2005-11-25,2025-11-25,4944.576045648273,Subsidiary,Renewal Quoted,2025-11-28,18.0892334684845
+P002994,C006986,Emergency planning/management officer,"Frazier, Yang and Bowman Insurance Inc.",2005-04-24,2025-04-24,141.64338372028814,Premium Finance Company,Canceled,2025-11-28,18.464774219367104
+P001024,C006740,Ophthalmologist,"Valentine, Perez and Torres Insurance Inc.",2005-07-17,2025-07-17,12750.262666012233,Direct Bill,Canceled,2025-11-28,9.940910496456086
+P002423,C001782,"Engineer, communications",Johnson Ltd Insurance Inc.,2005-08-04,2025-08-04,3547.0222499234596,Mortgagee,Renewal Quoted,2025-11-28,10.057571686367
+P001332,C008164,Personnel officer,Hill Ltd Insurance Inc.,2005-09-16,2025-09-16,298.9505870214656,Payroll Vendor,Renewal Quoted,2025-11-28,11.72058771241617
+P007256,C007156,Financial planner,King-Daniels Insurance Inc.,2005-01-09,2025-01-09,622.0583385333671,Parent Company,Renewal Quoted,2025-11-28,12.888125365055688
+P001530,C006917,Sales executive,Carter-Patterson Insurance Inc.,2005-02-01,2025-02-01,530.5835427294588,Direct Bill,New,2025-11-28,17.589390800138617
+P006293,C003831,Geochemist,Pierce-Henry Insurance Inc.,2005-07-27,2025-07-27,290.8288466692605,Premium Finance Company,New,2025-11-28,6.2307608116780475
+P002517,C009820,Prison officer,"Chavez, Morris and Olson Insurance Inc.",2004-12-07,2024-12-07,944.5575932440173,Agency Bill,Marketing,2025-11-28,11.993734800259631
+P007432,C004501,Adult guidance worker,York Group Insurance Inc.,2004-12-21,2024-12-21,243.84817543585737,Direct Bill,Marketing,2025-11-28,6.293357575136902
+P004471,C003853,"Designer, textile",Thomas Group Insurance Inc.,2005-11-15,2025-11-15,4001.308307296762,Subsidiary,Canceled,2025-11-28,5.459414522059177
+P001609,C002724,Seismic interpreter,Sheppard Group Insurance Inc.,2005-03-06,2025-03-06,2280.448531568893,Insured,Marketing,2025-11-28,9.13681414511751
+P003948,C009995,Toxicologist,Davidson-Smith Insurance Inc.,2005-07-20,2025-07-20,652.186427821415,Parent Company,Canceled,2025-11-28,10.746664822341456
+P003957,C006812,Glass blower/designer,Reed and Sons Insurance Inc.,2005-02-18,2025-02-18,321.99210222552506,Parent Company,Marketing,2025-11-28,12.20002056038622
+P006636,C002685,Sports coach,Key-Jones Insurance Inc.,2005-07-17,2025-07-17,337.8869987587387,Subsidiary,Renewal Quoted,2025-11-28,4.964910617684842
+P002117,C002614,"Pharmacist, hospital",Baxter-Harrell Insurance Inc.,2005-06-08,2025-06-08,349.34448716199717,Payroll Vendor,Marketing,2025-11-28,4.404390440049073
+P001843,C001621,Risk analyst,Daniels and Sons Insurance Inc.,2005-01-17,2025-01-17,533.2964589277274,Direct Bill,Renewal Quoted,2025-11-28,10.85389736692876
+P007926,C009627,"Lecturer, further education",Edwards-Osborne Insurance Inc.,2004-12-07,2024-12-07,787.5955876101406,Insured,Renewal Quoted,2025-11-28,10.144213345313062
+P003441,C001349,Retail banker,Nguyen-Munoz Insurance Inc.,2005-09-26,2025-09-26,222.00115410291838,Agency Bill,New,2025-11-28,9.383295177837997
+P008517,C007009,Media planner,Rodriguez-Sparks Insurance Inc.,2005-10-01,2025-10-01,2819.050877052729,Insured,Canceled,2025-11-28,12.739223201712903
+P009665,C007151,Agricultural consultant,Smith-Smith Insurance Inc.,2005-01-29,2025-01-29,182.86658356282118,Mortgagee,New,2025-11-28,8.129058394547217
+P006941,C009631,Actor,Hernandez LLC Insurance Inc.,2005-07-23,2025-07-23,343.10231509058497,Premium Finance Company,New,2025-11-28,16.17414239436141
+P009299,C007162,Dietitian,"Harper, Webb and Bailey Insurance Inc.",2005-01-11,2025-01-11,252.32087761706563,Insured,New,2025-11-28,12.607108038528159
+P008355,C003071,Ecologist,Freeman LLC Insurance Inc.,2005-01-24,2025-01-24,287.3503389397791,Insured,New,2025-11-28,17.24794820160026
+P007611,C007544,Telecommunications researcher,"Burns, Thomas and Ross Insurance Inc.",2005-07-18,2025-07-18,391.16331374043864,Agency Bill,Renewal Quoted,2025-11-28,13.339323667508282
+P001035,C002818,Environmental manager,Cochran Group Insurance Inc.,2005-02-25,2025-02-25,115.70120606075122,Parent Company,Canceled,2025-11-28,14.780303243319256
+P004961,C009997,Computer games developer,Richard-Knox Insurance Inc.,2005-06-04,2025-06-04,506.1387776008313,Subsidiary,New,2025-11-28,4.928250587428321
+P001239,C009696,Toxicologist,Robinson-Jacobs Insurance Inc.,2005-10-14,2025-10-14,289.7330506761566,Parent Company,New,2025-11-28,10.900520946887182
+P004117,C005583,Veterinary surgeon,Rivera-Dean Insurance Inc.,2005-02-21,2025-02-21,3853.3330236511165,Parent Company,Canceled,2025-11-28,19.814680382124216
+P001123,C002511,Operational investment banker,"Riggs, Davis and Price Insurance Inc.",2005-04-11,2025-04-11,5846.066573707268,Mortgagee,Renewal Quoted,2025-11-28,13.011035477665065
+P007340,C006168,"Scientist, biomedical",Ramirez Ltd Insurance Inc.,2005-06-13,2025-06-13,191.85486798100703,Payroll Vendor,Canceled,2025-11-28,10.243472231864425
+P003217,C006400,"Engineer, land","Little, Smith and Parks Insurance Inc.",2005-08-20,2025-08-20,2511.356224305145,Payroll Vendor,Renewal Quoted,2025-11-28,18.433796244226656
+P002296,C007807,Tax adviser,Becker PLC Insurance Inc.,2005-01-24,2025-01-24,363.53965214275735,Insured,Marketing,2025-11-28,8.8235827811694
+P005740,C008269,"Psychologist, clinical",Sharp-Maldonado Insurance Inc.,2005-02-25,2025-02-25,238.6767616228038,Insured,New,2025-11-28,15.354280694892543
+P001960,C002101,"Radiographer, diagnostic","Ellis, Richardson and Noble Insurance Inc.",2005-08-26,2025-08-26,150.23398885499114,Third-Party Billing,Marketing,2025-11-28,15.824574030429517
+P008491,C002525,Farm manager,Craig Group Insurance Inc.,2005-02-14,2025-02-14,322.7809295408433,Insured,Canceled,2025-11-28,15.074078007631975
+P005486,C001365,"Therapist, music","Dixon, Johnson and Haney Insurance Inc.",2005-02-24,2025-02-24,409.299560463512,Direct Bill,Marketing,2025-11-28,16.533550202168893
+P008461,C004150,"Scientist, marine",Taylor-Ramos Insurance Inc.,2005-05-12,2025-05-12,1342.5476192097155,Agency Bill,New,2025-11-28,14.521172386978575
+P008419,C002680,Drilling engineer,"Murphy, Hayes and Sosa Insurance Inc.",2005-11-02,2025-11-02,247.72218083454632,Subsidiary,Marketing,2025-11-28,17.505959759094733
+P006733,C008199,Hospital pharmacist,Jones-Morgan Insurance Inc.,2005-01-27,2025-01-27,132.73963427684274,Payroll Vendor,Canceled,2025-11-28,8.66285371314023
+P002809,C002116,"Designer, textile",Scott-Salazar Insurance Inc.,2005-06-15,2025-06-15,1839.3670438823824,Agency Bill,Canceled,2025-11-28,9.320212020043382
+P001546,C001998,"Lighting technician, broadcasting/film/video",Ward-Downs Insurance Inc.,2005-01-22,2025-01-22,200.8398695058654,Subsidiary,Marketing,2025-11-28,14.873193703470822
+P006565,C003322,Clinical embryologist,Haney Ltd Insurance Inc.,2005-09-11,2025-09-11,346.351598880008,Mortgagee,Canceled,2025-11-28,13.453188145429923
+P002352,C005332,Meteorologist,"Lee, Salas and Ramos Insurance Inc.",2005-08-28,2025-08-28,1715.9416358416584,Mortgagee,Renewal Quoted,2025-11-28,9.723654940090086
+P005621,C004612,Administrator,"Mcdowell, Wood and Martinez Insurance Inc.",2005-10-31,2025-10-31,606.5407516109824,Parent Company,New,2025-11-28,10.381690391763883
+P007079,C005313,Seismic interpreter,Miller-Moore Insurance Inc.,2005-10-24,2025-10-24,1152.3878618753042,Mortgagee,Renewal Quoted,2025-11-28,7.642365603689587
+P007959,C007417,Telecommunications researcher,Taylor and Sons Insurance Inc.,2005-05-01,2025-05-01,471.3747331037664,Payroll Vendor,Canceled,2025-11-28,18.632826672295913
+P009775,C009088,Publishing rights manager,Robinson-Young Insurance Inc.,2005-09-28,2025-09-28,369.3827351916749,Agency Bill,New,2025-11-28,13.082425611097328
+P004589,C003097,Medical sales representative,Mora Ltd Insurance Inc.,2005-05-25,2025-05-25,445.34703434037493,Third-Party Billing,New,2025-11-28,9.69622828748254
+P008603,C008693,Geophysical data processor,"Rice, Hunt and Adams Insurance Inc.",2004-12-15,2024-12-15,4671.354705352839,Direct Bill,Canceled,2025-11-28,9.481422547495445
+P002543,C005591,"Pilot, airline","Huerta, Martin and Hernandez Insurance Inc.",2005-11-07,2025-11-07,584.9715444107741,Premium Finance Company,Renewal Quoted,2025-11-28,9.662264032899586
+P008086,C005486,Outdoor activities/education manager,Taylor-Moreno Insurance Inc.,2005-02-14,2025-02-14,239.0677755746405,Third-Party Billing,Renewal Quoted,2025-11-28,9.98562772100606
+P009451,C004667,Herpetologist,Griffin and Sons Insurance Inc.,2005-06-10,2025-06-10,3506.772742190763,Direct Bill,Marketing,2025-11-28,12.460674581801813
+P004354,C005074,"Horticulturist, commercial",Jones Inc Insurance Inc.,2005-11-25,2025-11-25,884.8082620576628,Agency Bill,New,2025-11-28,6.621837481739971
+P001776,C003485,IT technical support officer,Torres-Murillo Insurance Inc.,2005-06-20,2025-06-20,865.1389940614807,Payroll Vendor,New,2025-11-28,16.571630771346147
+P001416,C001651,Hydrogeologist,Pierce-Bowers Insurance Inc.,2005-07-14,2025-07-14,629.5445016757305,Payroll Vendor,Renewal Quoted,2025-11-28,7.56610214857381
+P005420,C002790,Firefighter,"Carr, Sims and Mullins Insurance Inc.",2005-10-06,2025-10-06,191.63900354156792,Payroll Vendor,Renewal Quoted,2025-11-28,7.3822117812073245
+P006831,C006055,Operational investment banker,Baker-Clark Insurance Inc.,2004-12-12,2024-12-12,1827.9832210861593,Agency Bill,Canceled,2025-11-28,8.160121562725445
+P005468,C008251,Food technologist,Davis-Ramsey Insurance Inc.,2005-04-24,2025-04-24,3704.5810645447305,Subsidiary,Canceled,2025-11-28,7.3509881365436405
+P003293,C007477,"Buyer, industrial",Johnson PLC Insurance Inc.,2005-07-29,2025-07-29,323.2394304272187,Parent Company,Renewal Quoted,2025-11-28,5.966192306182275
+P005794,C005972,Water quality scientist,Soto LLC Insurance Inc.,2005-09-01,2025-09-01,406.43836824654994,Agency Bill,Canceled,2025-11-28,13.997427457313778
+P004949,C006373,Naval architect,Alvarez-Wright Insurance Inc.,2005-04-30,2025-04-30,3052.327123155517,Direct Bill,New,2025-11-28,11.776427845169218
+P001748,C001309,Air traffic controller,Willis Inc Insurance Inc.,2005-10-06,2025-10-06,7419.538967730503,Insured,New,2025-11-28,6.960604453578858
+P009954,C004055,Ceramics designer,Nash Ltd Insurance Inc.,2005-02-18,2025-02-18,2277.851068628582,Payroll Vendor,Canceled,2025-11-28,14.60293447734851
+P002306,C004110,Government social research officer,Randall Group Insurance Inc.,2005-08-31,2025-08-31,1945.6145473931024,Insured,Canceled,2025-11-28,18.482282032843564
+P001139,C005717,Higher education lecturer,"Cooper, Roberts and Dyer Insurance Inc.",2005-10-25,2025-10-25,303.0661749833897,Third-Party Billing,New,2025-11-28,4.68050875877502
+P009720,C003124,Retail merchandiser,"Clark, Hartman and Allen Insurance Inc.",2005-05-19,2025-05-19,556.7914083876989,Insured,Canceled,2025-11-28,5.470247720118454
+P006697,C001352,"Accountant, chartered public finance",Moore-Herrera Insurance Inc.,2005-10-16,2025-10-16,301.3603076482026,Agency Bill,Marketing,2025-11-28,12.574449966317585
+P009409,C006287,Sport and exercise psychologist,Smith-White Insurance Inc.,2005-05-07,2025-05-07,476.49233383330335,Parent Company,Canceled,2025-11-28,7.6810407093967035
+P005092,C008395,Pension scheme manager,Williams-Ross Insurance Inc.,2005-10-15,2025-10-15,159.98461186468933,Parent Company,New,2025-11-28,11.589334299420571
+P005350,C009415,Museum/gallery curator,"Black, Fox and Andrews Insurance Inc.",2005-03-08,2025-03-08,768.4880071997057,Mortgagee,Renewal Quoted,2025-11-28,11.046671681946785
+P005553,C009187,"Optician, dispensing",Barnes Group Insurance Inc.,2005-05-14,2025-05-14,349.5445250860756,Payroll Vendor,Marketing,2025-11-28,11.101318781237467
+P001195,C002358,Fast food restaurant manager,"Parker, Alexander and Bradley Insurance Inc.",2005-04-02,2025-04-02,379.8906652441414,Mortgagee,Renewal Quoted,2025-11-28,12.401691245886623
+P003039,C004526,Immunologist,Garner Group Insurance Inc.,2005-11-21,2025-11-21,447.80313379610965,Direct Bill,Marketing,2025-11-28,13.533316167553537
+P008085,C005787,Banker,Townsend Inc Insurance Inc.,2005-07-21,2025-07-21,820.3656230338971,Direct Bill,Renewal Quoted,2025-11-28,16.149856864598632
+P004541,C006570,"Producer, radio",Payne-Lopez Insurance Inc.,2005-04-23,2025-04-23,213.40932527740844,Subsidiary,Renewal Quoted,2025-11-28,12.019464968237122
+P002918,C003150,"Engineer, civil (consulting)",Buchanan-Jones Insurance Inc.,2005-06-14,2025-06-14,3777.4425438948497,Agency Bill,Renewal Quoted,2025-11-28,10.641565082715353
+P009082,C009979,"Engineer, site",Davis Ltd Insurance Inc.,2005-05-04,2025-05-04,1129.033735073022,Premium Finance Company,Marketing,2025-11-28,19.867516190678433
+P004746,C006028,Fisheries officer,Chapman Ltd Insurance Inc.,2005-08-06,2025-08-06,1746.1485537979172,Subsidiary,Renewal Quoted,2025-11-28,8.918681788685433
+P002602,C001104,Town planner,"Peterson, Duncan and Williamson Insurance Inc.",2005-11-27,2025-11-27,288.4520540088686,Direct Bill,Marketing,2025-11-28,11.096539120738752
+P006186,C002318,"Engineer, electrical",Smith LLC Insurance Inc.,2005-04-14,2025-04-14,653.0871151693245,Parent Company,Canceled,2025-11-28,13.138507752964173
+P001832,C008435,"Merchandiser, retail",Gonzalez-Lewis Insurance Inc.,2005-01-30,2025-01-30,414.5714005480718,Agency Bill,New,2025-11-28,10.75824690435559
+P004024,C004105,Futures trader,Marshall and Sons Insurance Inc.,2005-01-02,2025-01-02,1659.4187350075001,Agency Bill,Marketing,2025-11-28,10.573347643753054
+P003268,C001623,Higher education lecturer,Goodman LLC Insurance Inc.,2005-04-05,2025-04-05,3988.4991473522546,Parent Company,Canceled,2025-11-28,12.739590724797196
+P002406,C002960,Biomedical engineer,Scott-Holloway Insurance Inc.,2005-06-29,2025-06-29,2624.8760536099517,Payroll Vendor,New,2025-11-28,16.063129389052804
+P001992,C002301,Biomedical scientist,"Singh, Mitchell and Ward Insurance Inc.",2005-02-08,2025-02-08,1606.8805690821855,Subsidiary,Canceled,2025-11-28,14.438614289163734
+P007189,C005266,"Therapist, horticultural",Francis-Myers Insurance Inc.,2005-09-06,2025-09-06,629.634862042643,Direct Bill,New,2025-11-28,7.5206178899994365
+P007664,C003792,Operational researcher,Mcgee Inc Insurance Inc.,2005-04-22,2025-04-22,673.6521757777218,Subsidiary,Renewal Quoted,2025-11-28,12.212571984667886
+P006237,C002039,Animal nutritionist,Martin-Booker Insurance Inc.,2005-09-13,2025-09-13,280.2217477690014,Direct Bill,New,2025-11-28,0.8107712308707029
+P002380,C007457,Ceramics designer,Gibson Group Insurance Inc.,2005-08-08,2025-08-08,918.5592401983263,Third-Party Billing,Canceled,2025-11-28,1.0143780051638913
+P004638,C005348,Consulting civil engineer,Anderson Ltd Insurance Inc.,2005-08-27,2025-08-27,361.2456819430776,Direct Bill,Renewal Quoted,2025-11-28,13.5051958664918
+P004742,C001796,Food technologist,"Mason, Green and Cardenas Insurance Inc.",2005-01-25,2025-01-25,270.1413548845553,Insured,Marketing,2025-11-28,13.539906395912514
+P005844,C001173,Passenger transport manager,Smith-Crane Insurance Inc.,2005-07-27,2025-07-27,185.54541595576825,Mortgagee,New,2025-11-28,10.052729233157608
+P005903,C003872,Insurance broker,Schneider-Myers Insurance Inc.,2005-01-02,2025-01-02,8900.22428280826,Direct Bill,Canceled,2025-11-28,11.32144140071075
+P001957,C008159,"Teacher, early years/pre",Brown-Francis Insurance Inc.,2005-10-03,2025-10-03,1413.9774224072391,Insured,Canceled,2025-11-28,15.958955353799258
+P002731,C005533,"Horticulturist, commercial",Miller-Lewis Insurance Inc.,2004-12-16,2024-12-16,2540.9318790229204,Third-Party Billing,Marketing,2025-11-28,10.268831255019165
+P001563,C002067,Barrister's clerk,Arellano-Cooper Insurance Inc.,2005-08-21,2025-08-21,463.7486133420618,Third-Party Billing,Renewal Quoted,2025-11-28,17.368016537459937
+P002551,C009541,Bookseller,Rojas-Ross Insurance Inc.,2005-10-07,2025-10-07,197.88347372219536,Insured,Canceled,2025-11-28,7.062605235552224
+P002687,C007580,Chief Executive Officer,"Gonzalez, Simmons and Brown Insurance Inc.",2005-01-20,2025-01-20,361.5923576219646,Third-Party Billing,Renewal Quoted,2025-11-28,14.9567402839822
+P009857,C001045,"Engineer, water","Hoover, Kent and Martin Insurance Inc.",2005-06-04,2025-06-04,310.02465939576615,Parent Company,Renewal Quoted,2025-11-28,15.486477993326707
+P006002,C007103,Town planner,Perry-Gonzalez Insurance Inc.,2005-06-28,2025-06-28,469.01478590626783,Insured,New,2025-11-28,11.660050607928675
+P009348,C001149,Lexicographer,Foster-Burns Insurance Inc.,2005-07-03,2025-07-03,140.48634827455123,Agency Bill,Marketing,2025-11-28,16.35681450089622
+P004759,C004060,Insurance claims handler,Carroll-Webster Insurance Inc.,2005-01-19,2025-01-19,278.60959133590944,Premium Finance Company,Canceled,2025-11-28,18.826234909501952
+P004278,C001428,Barista,Zimmerman-Davis Insurance Inc.,2005-06-28,2025-06-28,282.35084030564343,Parent Company,Marketing,2025-11-28,6.690776258329314
+P003759,C007497,Oncologist,Watkins Inc Insurance Inc.,2005-08-10,2025-08-10,608.856806664736,Premium Finance Company,Renewal Quoted,2025-11-28,15.85310435008307
+P004713,C006321,Local government officer,"Hall, Tyler and Butler Insurance Inc.",2005-06-15,2025-06-15,2092.141909802599,Parent Company,Marketing,2025-11-28,5.6719129902757155
+P004451,C001713,Arts administrator,"Davis, Russo and Costa Insurance Inc.",2005-10-16,2025-10-16,1949.2825241784176,Mortgagee,Marketing,2025-11-28,13.38327842082527
+P003018,C008499,"Horticulturist, commercial","Chapman, Wood and Webb Insurance Inc.",2005-01-30,2025-01-30,368.5055607727691,Mortgagee,Marketing,2025-11-28,7.596513842187569
+P009275,C007867,Senior tax professional/tax inspector,Hicks LLC Insurance Inc.,2005-08-24,2025-08-24,611.8083264257515,Parent Company,Marketing,2025-11-28,12.164504780141291
+P004328,C007865,Ceramics designer,Mercado-Long Insurance Inc.,2005-01-12,2025-01-12,1952.3392662366393,Insured,Marketing,2025-11-28,10.412565090462282
+P002509,C005939,Interpreter,Good LLC Insurance Inc.,2005-02-23,2025-02-23,263.2370704462185,Direct Bill,Canceled,2025-11-28,11.544804837759699
+P003163,C008122,Immunologist,Roy-Macias Insurance Inc.,2005-11-08,2025-11-08,611.3203070058304,Premium Finance Company,Canceled,2025-11-28,15.896274236288429
+P009885,C005819,"Doctor, hospital",Holt-Whitehead Insurance Inc.,2005-08-17,2025-08-17,515.2893474995398,Subsidiary,Marketing,2025-11-28,8.752253002668924
+P005829,C009347,Meteorologist,"Trujillo, Ferguson and Washington Insurance Inc.",2005-01-09,2025-01-09,1996.5427899016834,Parent Company,Renewal Quoted,2025-11-28,15.717385817974735
+P003229,C005440,Medical technical officer,Anderson-Moran Insurance Inc.,2005-07-02,2025-07-02,7497.604406737681,Agency Bill,Marketing,2025-11-28,16.616924373434557
+P003510,C008936,Community pharmacist,"Johnson, Macdonald and Carr Insurance Inc.",2005-01-15,2025-01-15,295.12706724834663,Payroll Vendor,Marketing,2025-11-28,20.49865768994652
+P001602,C002702,Public librarian,Green and Sons Insurance Inc.,2005-04-19,2025-04-19,104.58116620767514,Insured,Marketing,2025-11-28,13.52504837466179
+P005658,C005225,Dance movement psychotherapist,Hester-Campbell Insurance Inc.,2005-10-01,2025-10-01,172.06831547140183,Insured,Renewal Quoted,2025-11-28,10.853210105133224
+P002162,C001418,English as a second language teacher,Perez-Lee Insurance Inc.,2005-06-17,2025-06-17,775.4083284173288,Payroll Vendor,Renewal Quoted,2025-11-28,10.70336785974961
+P005248,C005554,Technical sales engineer,"Lewis, Stone and Bryan Insurance Inc.",2005-01-05,2025-01-05,573.9225971027104,Third-Party Billing,New,2025-11-28,11.404897722909926
+P005375,C007341,"Radiographer, therapeutic",Thomas and Sons Insurance Inc.,2005-01-19,2025-01-19,196.31158802047338,Payroll Vendor,Marketing,2025-11-28,20.243997004212908
+P003213,C008866,"Buyer, retail",Huerta Group Insurance Inc.,2005-04-22,2025-04-22,424.89712948330583,Insured,Canceled,2025-11-28,13.696406057123081
+P001569,C001641,Financial controller,"Jones, Smith and Stewart Insurance Inc.",2005-02-07,2025-02-07,2320.72917813915,Agency Bill,Canceled,2025-11-28,17.239791300375565
+P008625,C003919,Illustrator,"Griffin, Rose and Welch Insurance Inc.",2005-05-01,2025-05-01,898.4862405352852,Third-Party Billing,Renewal Quoted,2025-11-28,12.780096111157615
+P006822,C001528,Consulting civil engineer,Morales Inc Insurance Inc.,2005-11-12,2025-11-12,697.6694000140719,Insured,Canceled,2025-11-28,5.29117111891862
+P008134,C003810,Lexicographer,Graves Inc Insurance Inc.,2005-05-17,2025-05-17,611.5486788683215,Insured,Renewal Quoted,2025-11-28,20.19007634178591
+P008633,C007210,"Doctor, general practice",White Ltd Insurance Inc.,2005-03-18,2025-03-18,3011.4837898291753,Parent Company,Canceled,2025-11-28,17.569266440324395
+P009340,C007871,Meteorologist,Silva PLC Insurance Inc.,2005-04-05,2025-04-05,473.52619009453014,Agency Bill,New,2025-11-28,6.020261214537085
+P001310,C008154,Nutritional therapist,Foster LLC Insurance Inc.,2005-03-13,2025-03-13,225.14003648649813,Payroll Vendor,New,2025-11-28,13.21666100541799
+P003052,C007850,Arboriculturist,"Hale, Rivera and Gonzalez Insurance Inc.",2005-05-22,2025-05-22,524.3200084205636,Payroll Vendor,Renewal Quoted,2025-11-28,15.853057166764772
+P004920,C009563,Contracting civil engineer,Nguyen Ltd Insurance Inc.,2005-08-12,2025-08-12,447.31118376468,Subsidiary,Canceled,2025-11-28,5.323351380818267
+P001962,C009729,"Education officer, environmental","Morgan, Mitchell and Davis Insurance Inc.",2005-11-04,2025-11-04,571.0854225637712,Mortgagee,Marketing,2025-11-28,6.126711914804493
+P003535,C004788,Dramatherapist,"Mills, Kelly and Moyer Insurance Inc.",2004-12-24,2024-12-24,266.09826262955323,Parent Company,Renewal Quoted,2025-11-28,17.202097518055535
+P006325,C003636,English as a second language teacher,Baker-Smith Insurance Inc.,2005-11-21,2025-11-21,663.2827669243482,Payroll Vendor,New,2025-11-28,10.210649440635242
+P001365,C007140,Further education lecturer,Berger-Garza Insurance Inc.,2005-09-06,2025-09-06,470.1859808894412,Subsidiary,Renewal Quoted,2025-11-28,9.94229770605258
+P007818,C005612,Advertising account planner,Smith-Santos Insurance Inc.,2005-10-05,2025-10-05,3502.080272176879,Insured,Marketing,2025-11-28,21.072985383876084
+P003100,C001313,Manufacturing engineer,Bauer-Harmon Insurance Inc.,2005-07-04,2025-07-04,224.75748593024576,Premium Finance Company,New,2025-11-28,7.472861473189237
+P009365,C005228,Chief Financial Officer,Moreno Inc Insurance Inc.,2005-10-14,2025-10-14,425.5339522334376,Payroll Vendor,Marketing,2025-11-28,10.125689445991098
+P006753,C004947,Water engineer,"Fernandez, Lee and Griffin Insurance Inc.",2005-01-20,2025-01-20,366.687423556722,Mortgagee,Renewal Quoted,2025-11-28,3.667223002594482
+P002816,C002530,Orthoptist,Whitaker-Black Insurance Inc.,2005-09-05,2025-09-05,3670.343544555596,Direct Bill,Marketing,2025-11-28,15.175884314284595
+P009592,C001041,Horticultural consultant,Miller-Travis Insurance Inc.,2005-03-13,2025-03-13,151.02866873766598,Subsidiary,Marketing,2025-11-28,9.638153480574164
+P006206,C007423,Bookseller,King-Munoz Insurance Inc.,2004-12-20,2024-12-20,245.74299783485816,Premium Finance Company,Canceled,2025-11-28,8.049051853566278
+P003503,C002064,Market researcher,Brown PLC Insurance Inc.,2005-07-02,2025-07-02,1271.0992611217878,Parent Company,Marketing,2025-11-28,13.840561287619604
+P002659,C007960,Video editor,Hansen-Gutierrez Insurance Inc.,2005-02-13,2025-02-13,54.97075817126596,Parent Company,Renewal Quoted,2025-11-28,17.032741953166244
+P009905,C008444,Manufacturing engineer,"Campbell, Contreras and Hebert Insurance Inc.",2005-10-22,2025-10-22,307.102222889697,Insured,Marketing,2025-11-28,13.066396039297938
+P007141,C005605,"Teacher, early years/pre",Travis-Chapman Insurance Inc.,2005-08-07,2025-08-07,2843.944104544584,Mortgagee,Marketing,2025-11-28,14.208287320606303
+P001982,C008253,Pharmacologist,Stephenson-Burns Insurance Inc.,2004-12-18,2024-12-18,2549.5240270683666,Agency Bill,Canceled,2025-11-28,15.520963767709615
+P001247,C008020,Best boy,Hughes-Paul Insurance Inc.,2005-05-14,2025-05-14,5207.763719146976,Premium Finance Company,Marketing,2025-11-28,15.748114046843181
+P008128,C005672,Animal technologist,Riley-Holmes Insurance Inc.,2005-03-23,2025-03-23,266.97906448451323,Mortgagee,Marketing,2025-11-28,8.42552052239122
+P007962,C003759,Patent examiner,Sanchez Group Insurance Inc.,2005-03-04,2025-03-04,1949.2449541433436,Direct Bill,New,2025-11-28,14.300791025977107
+P003084,C007742,"Scientist, biomedical",Phillips Inc Insurance Inc.,2005-01-14,2025-01-14,178.7799133351023,Insured,New,2025-11-28,7.83863787601353
+P006587,C003056,"Designer, blown glass/stained glass",Ward PLC Insurance Inc.,2004-12-02,2024-12-02,447.1977395764852,Third-Party Billing,New,2025-11-28,12.603497911570706
+P006314,C007209,"Horticulturist, amenity",Chase Ltd Insurance Inc.,2005-06-18,2025-06-18,615.2400728742228,Premium Finance Company,Marketing,2025-11-28,2.054689094611831
+P005937,C007690,"Administrator, sports",Brown Ltd Insurance Inc.,2005-03-12,2025-03-12,1004.5132888027917,Insured,Marketing,2025-11-28,13.750749911710633
+P004360,C003689,Product/process development scientist,Wilson LLC Insurance Inc.,2005-03-31,2025-03-31,2443.6096297164468,Insured,Renewal Quoted,2025-11-28,6.78592130892557
+P007522,C003219,Chartered public finance accountant,"Russo, Morales and Sullivan Insurance Inc.",2005-10-12,2025-10-12,353.3664095683503,Third-Party Billing,Marketing,2025-11-28,19.35494689921267
+P006573,C004998,Sub,"Martinez, Rich and Wilson Insurance Inc.",2005-06-27,2025-06-27,5327.877757943455,Parent Company,New,2025-11-28,8.028844107132752
+P003683,C001404,Sports administrator,Knight-Snyder Insurance Inc.,2005-07-02,2025-07-02,419.5998213808115,Mortgagee,Marketing,2025-11-28,14.875723119869956
+P004322,C002500,Advice worker,"Bradshaw, Gutierrez and Miller Insurance Inc.",2005-11-12,2025-11-12,670.643963685324,Agency Bill,Marketing,2025-11-28,11.251558005857417
+P005599,C005466,Illustrator,Hinton Inc Insurance Inc.,2005-09-21,2025-09-21,119.75370881766459,Parent Company,New,2025-11-28,13.441346625314006
+P002357,C004717,Community development worker,Mcdonald-Lee Insurance Inc.,2005-11-16,2025-11-16,1548.2782125381498,Payroll Vendor,Marketing,2025-11-28,4.982222808481997
+P001993,C004287,Energy engineer,Williams-Fernandez Insurance Inc.,2005-06-01,2025-06-01,602.5795282539891,Agency Bill,Canceled,2025-11-28,11.973775152106832
+P004963,C002482,"Surveyor, planning and development",Kennedy Group Insurance Inc.,2005-08-26,2025-08-26,2582.258750257121,Subsidiary,Renewal Quoted,2025-11-28,6.261487048392177
+P009337,C004006,Consulting civil engineer,"Watts, Griffith and Gilbert Insurance Inc.",2005-11-16,2025-11-16,3564.2704494231994,Mortgagee,Marketing,2025-11-28,9.793426788044295
+P003879,C009377,Paramedic,Wilkerson-Merritt Insurance Inc.,2005-11-12,2025-11-12,133.96737142005796,Parent Company,Renewal Quoted,2025-11-28,19.06382894471917
+P003034,C002848,"Loss adjuster, chartered",Sandoval-Spence Insurance Inc.,2005-08-11,2025-08-11,408.98147693144705,Insured,Renewal Quoted,2025-11-28,17.46229122016008
+P007600,C004036,Airline pilot,"Dominguez, Tate and Herrera Insurance Inc.",2005-01-05,2025-01-05,304.504101806793,Agency Bill,Canceled,2025-11-28,21.026761972640383
+P003861,C002561,Financial controller,Holmes and Sons Insurance Inc.,2004-12-13,2024-12-13,1382.8901693062448,Direct Bill,Canceled,2025-11-28,11.727959217204802
+P005574,C008241,Product/process development scientist,Greene LLC Insurance Inc.,2005-05-12,2025-05-12,978.5520563884104,Agency Bill,Marketing,2025-11-28,13.547493717802054
+P007596,C009786,Financial adviser,Lawrence-Alexander Insurance Inc.,2005-04-12,2025-04-12,612.6791513667922,Insured,Canceled,2025-11-28,12.694703936568983
+P004262,C008998,Product/process development scientist,Barrera Inc Insurance Inc.,2005-07-07,2025-07-07,345.3544617055588,Parent Company,Renewal Quoted,2025-11-28,14.58180978319417
+P007040,C004866,Environmental consultant,Myers PLC Insurance Inc.,2005-08-26,2025-08-26,1268.646575055691,Direct Bill,New,2025-11-28,8.436289879740738
+P009788,C004995,Human resources officer,Robles Ltd Insurance Inc.,2004-12-31,2024-12-31,243.7077655195769,Mortgagee,Canceled,2025-11-28,14.548777244980498
+P009539,C009226,Retail manager,"Levy, Carroll and Ramirez Insurance Inc.",2005-07-27,2025-07-27,333.95003429558597,Insured,New,2025-11-28,10.32659043071776
+P001743,C009163,"Psychologist, clinical",Rowland LLC Insurance Inc.,2005-06-02,2025-06-02,502.8551372737728,Subsidiary,Canceled,2025-11-28,9.693280241444372
+P008519,C006722,Curator,Morris Ltd Insurance Inc.,2005-06-22,2025-06-22,413.30854390121306,Insured,Renewal Quoted,2025-11-28,8.348737361099452
+P008563,C002178,Financial adviser,Ford PLC Insurance Inc.,2005-11-22,2025-11-22,232.21976665537468,Agency Bill,New,2025-11-28,8.984346270966274
+P008160,C003497,Osteopath,"Rios, Hernandez and Alvarado Insurance Inc.",2005-08-19,2025-08-19,730.9337423217444,Payroll Vendor,Canceled,2025-11-28,13.015587177352526
+P009614,C005286,Agricultural engineer,"Murray, Chavez and Gates Insurance Inc.",2005-01-11,2025-01-11,177.74734779687023,Premium Finance Company,New,2025-11-28,8.186171735446713
+P002606,C005797,"Producer, radio","Miles, Reed and Lopez Insurance Inc.",2004-12-30,2024-12-30,266.8772255641178,Premium Finance Company,Canceled,2025-11-28,10.799276614698364
+P001874,C005201,"Development worker, community",Lowery-Johnson Insurance Inc.,2005-01-27,2025-01-27,462.3834813583617,Third-Party Billing,Renewal Quoted,2025-11-28,12.313193234962272
+P003322,C008980,Communications engineer,"Rodriguez, Arroyo and Jones Insurance Inc.",2005-08-15,2025-08-15,700.2418507247992,Premium Finance Company,Marketing,2025-11-28,8.61204004907443
+P002434,C002632,Optometrist,Drake Group Insurance Inc.,2005-10-04,2025-10-04,475.33681820040255,Insured,Canceled,2025-11-28,7.664398334972361
+P009060,C007661,Make,Lindsey-Ryan Insurance Inc.,2005-09-19,2025-09-19,513.4687937702944,Direct Bill,Canceled,2025-11-28,15.000277738540557
+P008444,C007928,Operational investment banker,"Welch, Brooks and Hardin Insurance Inc.",2004-12-08,2024-12-08,790.6768540111264,Direct Bill,Canceled,2025-11-28,22.788678939567404
+P003588,C008007,Civil Service administrator,Sanchez LLC Insurance Inc.,2005-08-28,2025-08-28,4540.012751228258,Premium Finance Company,Marketing,2025-11-28,14.813882441167316
+P003143,C008246,"Scientist, research (medical)",Long and Sons Insurance Inc.,2005-04-18,2025-04-18,267.2173361179211,Mortgagee,Renewal Quoted,2025-11-28,14.90135477409335
+P006225,C009903,Insurance underwriter,"Scott, Chambers and Sweeney Insurance Inc.",2005-02-19,2025-02-19,468.880161573591,Mortgagee,Renewal Quoted,2025-11-28,13.884432230214228
+P003611,C005448,Town planner,"Patterson, Barnes and Johnson Insurance Inc.",2005-09-07,2025-09-07,666.6512681682153,Insured,New,2025-11-28,16.314858250442846
+P001660,C007688,"Teacher, early years/pre","Klein, Cannon and Richardson Insurance Inc.",2005-03-04,2025-03-04,928.6086233972055,Subsidiary,Renewal Quoted,2025-11-28,20.45228491338753
+P004416,C006398,Midwife,Jimenez-Young Insurance Inc.,2005-03-31,2025-03-31,287.7799208577299,Premium Finance Company,Canceled,2025-11-28,12.74054701298165
+P004268,C005341,"Investment banker, operational",Hooper-Perkins Insurance Inc.,2005-06-14,2025-06-14,1509.5192808402935,Insured,Renewal Quoted,2025-11-28,14.788904750996316
+P006704,C006451,Commercial horticulturist,"Gomez, Wheeler and Baker Insurance Inc.",2005-04-20,2025-04-20,864.5452272401853,Parent Company,Canceled,2025-11-28,9.054976117723326
+P007503,C007266,Geophysicist/field seismologist,Bradley PLC Insurance Inc.,2005-04-06,2025-04-06,2135.8898080401405,Parent Company,New,2025-11-28,7.4038712575218675
+P003815,C002775,Chief Financial Officer,"Hunt, Hernandez and Richmond Insurance Inc.",2005-09-17,2025-09-17,2279.128602077344,Agency Bill,New,2025-11-28,8.217716801570742
+P007938,C008982,Chiropodist,"Frank, Carey and Rice Insurance Inc.",2005-05-09,2025-05-09,227.66707905178143,Mortgagee,Canceled,2025-11-28,5.7675248690758725
+P006602,C001586,Television/film/video producer,"Adams, Farley and Allen Insurance Inc.",2005-05-01,2025-05-01,423.4131164190711,Subsidiary,Renewal Quoted,2025-11-28,14.374568056189469
+P005717,C002230,Dietitian,Walker and Sons Insurance Inc.,2005-05-18,2025-05-18,3600.765466999255,Premium Finance Company,Marketing,2025-11-28,13.643109746304997
+P003558,C005436,Pensions consultant,Foster-Taylor Insurance Inc.,2005-04-11,2025-04-11,882.7681108566273,Third-Party Billing,New,2025-11-28,11.979738657981509
+P009779,C009139,Personal assistant,Reed Group Insurance Inc.,2005-09-16,2025-09-16,406.13401479002397,Payroll Vendor,Marketing,2025-11-28,15.156517729945385
+P005145,C004527,Mudlogger,"Christian, Martinez and West Insurance Inc.",2005-08-31,2025-08-31,141.85631161866837,Direct Bill,Marketing,2025-11-28,8.091145276995285
+P003098,C003548,Land,Green-Morse Insurance Inc.,2005-10-20,2025-10-20,812.314781338983,Third-Party Billing,Marketing,2025-11-28,11.886286073695382
+P003007,C007159,Hydrologist,Johnson-Hawkins Insurance Inc.,2005-06-26,2025-06-26,833.8021593425855,Third-Party Billing,Renewal Quoted,2025-11-28,8.908768115793134
+P001943,C002771,Surgeon,Jones-Cline Insurance Inc.,2005-08-21,2025-08-21,6392.12180204922,Third-Party Billing,Marketing,2025-11-28,8.858975010643643
+P001861,C008826,Community education officer,Wilkins-Jackson Insurance Inc.,2005-09-04,2025-09-04,155.08902634479702,Subsidiary,New,2025-11-28,16.00200533870891
+P007260,C005496,Further education lecturer,"Vincent, Mccarthy and Thompson Insurance Inc.",2005-11-08,2025-11-08,332.5528955475804,Premium Finance Company,Canceled,2025-11-28,12.448782289303681
+P007828,C006198,Phytotherapist,Parrish PLC Insurance Inc.,2005-07-28,2025-07-28,524.8053623653158,Mortgagee,Canceled,2025-11-28,8.748447887038875
+P002110,C009791,Research scientist (life sciences),Ross PLC Insurance Inc.,2005-10-21,2025-10-21,210.64329084524275,Direct Bill,Renewal Quoted,2025-11-28,7.3745915488843155
+P007463,C007990,Paediatric nurse,Hall Group Insurance Inc.,2005-04-13,2025-04-13,1052.3814042493932,Mortgagee,Renewal Quoted,2025-11-28,13.519476887309157
+P008037,C006688,Government social research officer,Galvan and Sons Insurance Inc.,2005-02-23,2025-02-23,453.64860804760593,Mortgagee,Canceled,2025-11-28,12.644675760808692
+P008776,C009644,"Engineer, land","Delgado, Martinez and Aguilar Insurance Inc.",2005-01-20,2025-01-20,235.06389494043003,Agency Bill,Marketing,2025-11-28,10.551382909279777
+P007555,C005264,Chartered loss adjuster,Meyer Group Insurance Inc.,2005-10-25,2025-10-25,5053.88581296693,Direct Bill,Renewal Quoted,2025-11-28,16.223358392067404
+P009330,C006070,Product manager,"Leon, Smith and Cummings Insurance Inc.",2005-08-05,2025-08-05,128.96973626877335,Parent Company,New,2025-11-28,13.856987562694542
+P004057,C005619,Neurosurgeon,Bradshaw-Roberts Insurance Inc.,2005-02-04,2025-02-04,1367.5192725070513,Parent Company,New,2025-11-28,6.369899158576418
+P005410,C005268,Oncologist,"Mendoza, Beard and Lee Insurance Inc.",2005-09-14,2025-09-14,4712.206072425666,Direct Bill,Canceled,2025-11-28,8.685179105444396
+P007852,C004104,Financial manager,Graham and Sons Insurance Inc.,2005-07-29,2025-07-29,198.03282255463927,Subsidiary,Marketing,2025-11-28,5.831817311865395
+P001251,C004362,"Engineer, drilling",Harrison PLC Insurance Inc.,2004-12-03,2024-12-03,418.9303988589937,Third-Party Billing,Renewal Quoted,2025-11-28,7.001174370815228
+P002565,C007821,IT sales professional,Watson-Russell Insurance Inc.,2005-09-16,2025-09-16,305.47078645300985,Insured,Marketing,2025-11-28,13.960280271053087
+P002302,C008964,Industrial buyer,Armstrong PLC Insurance Inc.,2005-01-16,2025-01-16,350.38644915965796,Parent Company,Renewal Quoted,2025-11-28,12.691848878798796
+P006900,C004308,"Research officer, government","Williams, Campos and Hughes Insurance Inc.",2005-07-26,2025-07-26,464.2749182695283,Insured,New,2025-11-28,6.303815721556528
+P007024,C003618,Legal secretary,"Gibson, Wilson and Hall Insurance Inc.",2005-08-08,2025-08-08,270.8881458504198,Subsidiary,Canceled,2025-11-28,4.720464608340777
+P002294,C008247,Pathologist,Barnett and Sons Insurance Inc.,2005-10-17,2025-10-17,6698.508251394832,Direct Bill,Renewal Quoted,2025-11-28,11.086098752245244
+P005944,C005393,Health and safety inspector,Pena-Andrade Insurance Inc.,2004-12-06,2024-12-06,375.4240133766885,Agency Bill,Canceled,2025-11-28,13.569284045596152
+P001404,C008197,Biomedical engineer,Davis LLC Insurance Inc.,2005-08-28,2025-08-28,835.2463037074153,Direct Bill,New,2025-11-28,8.371596845138617
+P007526,C004251,Database administrator,Velazquez-Peterson Insurance Inc.,2005-05-27,2025-05-27,383.4965271071456,Agency Bill,Canceled,2025-11-28,12.94840411823699
+P005506,C004325,Toxicologist,Henderson and Sons Insurance Inc.,2005-10-03,2025-10-03,4815.510025899315,Agency Bill,Renewal Quoted,2025-11-28,14.359115751830766
+P008575,C009568,Advertising copywriter,"Carson, Snyder and Moss Insurance Inc.",2005-05-30,2025-05-30,2063.540891885578,Insured,New,2025-11-28,11.17473635521718
+P009567,C008365,"Geologist, wellsite",Caldwell-Brown Insurance Inc.,2005-11-16,2025-11-16,257.5725589482036,Subsidiary,Canceled,2025-11-28,11.289107934226775
+P007968,C005215,"Psychologist, occupational",Mahoney Inc Insurance Inc.,2005-10-24,2025-10-24,331.9220158348435,Agency Bill,Canceled,2025-11-28,7.457199095326151
+P003774,C002040,Furniture designer,White-Wagner Insurance Inc.,2005-05-06,2025-05-06,172.2160354908791,Payroll Vendor,Marketing,2025-11-28,13.384883570254777
+P004689,C001146,Higher education careers adviser,Rubio Group Insurance Inc.,2005-08-17,2025-08-17,240.14907484247166,Mortgagee,Marketing,2025-11-28,10.249644144331874
+P003984,C003168,"Surveyor, building","Cabrera, Cervantes and Stewart Insurance Inc.",2005-02-19,2025-02-19,351.69307574667425,Agency Bill,Renewal Quoted,2025-11-28,11.116512874831688
+P009402,C008492,Speech and language therapist,"Curry, Green and Hernandez Insurance Inc.",2005-05-05,2025-05-05,1308.043102776569,Premium Finance Company,Canceled,2025-11-28,18.829281874475136
+P008577,C009864,Estate manager/land agent,"Robinson, Johnson and Rodriguez Insurance Inc.",2005-11-23,2025-11-23,196.09096721475441,Agency Bill,Renewal Quoted,2025-11-28,11.683671726747514
+P004078,C009254,Passenger transport manager,"Cole, Lester and Short Insurance Inc.",2005-02-03,2025-02-03,279.1232084779488,Subsidiary,Marketing,2025-11-28,5.6330925627227515
+P002010,C007965,Tax inspector,Bender-Bradshaw Insurance Inc.,2005-09-09,2025-09-09,374.54441477252317,Subsidiary,New,2025-11-28,7.737032353361242
+P009675,C007299,Armed forces logistics/support/administrative officer,"Hall, Moon and Delgado Insurance Inc.",2005-04-19,2025-04-19,218.51735562726105,Agency Bill,Canceled,2025-11-28,3.418721178295728
+P009364,C003586,Television camera operator,Johns Ltd Insurance Inc.,2005-06-25,2025-06-25,3844.8982666301436,Parent Company,Marketing,2025-11-28,12.623846792936488
+P005863,C007098,Arts development officer,Jennings Inc Insurance Inc.,2005-10-09,2025-10-09,3407.530161013322,Subsidiary,Marketing,2025-11-28,1.164671077364149
+P009597,C006775,Government social research officer,"Ford, Rhodes and Todd Insurance Inc.",2005-05-09,2025-05-09,345.6585709512939,Subsidiary,New,2025-11-28,14.057825738737952
+P007908,C004281,"Civil engineer, consulting",Peterson-Hall Insurance Inc.,2004-12-08,2024-12-08,250.79529998833777,Agency Bill,New,2025-11-28,5.0675388209203645
+P007709,C009788,Geochemist,Baldwin-Ward Insurance Inc.,2005-06-07,2025-06-07,436.5000012198234,Direct Bill,Renewal Quoted,2025-11-28,7.357010336661036
+P009175,C009191,Financial planner,Richardson Ltd Insurance Inc.,2005-10-17,2025-10-17,296.65489825215434,Direct Bill,Renewal Quoted,2025-11-28,14.92244472164395
+P006419,C002368,Immunologist,"Rosales, Gill and Tapia Insurance Inc.",2005-06-30,2025-06-30,3344.731864451303,Parent Company,Canceled,2025-11-28,17.62911085348773
+P004877,C009159,Furniture designer,Matthews-Smith Insurance Inc.,2005-02-18,2025-02-18,247.69839734103874,Mortgagee,Renewal Quoted,2025-11-28,14.107017236845167
+P001572,C004773,"Nurse, mental health",Berger-Harris Insurance Inc.,2005-08-31,2025-08-31,425.65522384728257,Direct Bill,New,2025-11-28,11.701826257957782
+P002009,C006575,"Engineer, aeronautical",Savage LLC Insurance Inc.,2005-02-10,2025-02-10,361.5942904651668,Mortgagee,Renewal Quoted,2025-11-28,14.79709798717372
+P008717,C005133,Architect,"Payne, Dennis and Williams Insurance Inc.",2005-10-15,2025-10-15,830.9478049905971,Subsidiary,New,2025-11-28,7.440948559810943
+P003724,C009069,"Designer, jewellery","Williams, Pugh and Greene Insurance Inc.",2005-09-05,2025-09-05,11552.177915610599,Agency Bill,Marketing,2025-11-28,5.773623488708732
+P008184,C003758,Telecommunications researcher,Medina-Adkins Insurance Inc.,2005-07-15,2025-07-15,427.78951207060413,Agency Bill,New,2025-11-28,6.258375751468772
+P004696,C008475,Orthoptist,Reynolds-Price Insurance Inc.,2005-10-18,2025-10-18,280.1372944923371,Agency Bill,New,2025-11-28,12.844778656815702
+P003313,C001209,Sports coach,Harper-Bolton Insurance Inc.,2005-04-25,2025-04-25,5894.719018493251,Direct Bill,Renewal Quoted,2025-11-28,12.536786066896353
+P007409,C003938,"Pharmacist, hospital",Randall-Stone Insurance Inc.,2005-07-12,2025-07-12,520.7796876582369,Mortgagee,New,2025-11-28,19.441378732809824
+P007949,C008273,"Scientist, audiological","Rowe, Meadows and Gray Insurance Inc.",2005-10-11,2025-10-11,609.1284892200927,Agency Bill,New,2025-11-28,13.206600650475707
+P004556,C006452,Financial manager,Hill-Osborne Insurance Inc.,2005-06-29,2025-06-29,1948.9123310059365,Parent Company,Canceled,2025-11-28,8.742443952212447
+P004611,C005357,"Surveyor, building control",Bonilla and Sons Insurance Inc.,2005-03-15,2025-03-15,338.08869432637636,Insured,Canceled,2025-11-28,12.991311413732273
+P002487,C003785,Catering manager,"Schmidt, Benjamin and Jones Insurance Inc.",2005-03-24,2025-03-24,532.6319669944412,Direct Bill,Marketing,2025-11-28,16.78054396559257
+P002082,C008127,Museum/gallery exhibitions officer,"Melton, Allen and Hill Insurance Inc.",2005-11-05,2025-11-05,650.8770811160877,Premium Finance Company,Marketing,2025-11-28,11.485067413163051
+P002331,C009982,IT consultant,Brown PLC Insurance Inc.,2005-05-26,2025-05-26,4835.0944899415435,Subsidiary,Renewal Quoted,2025-11-28,11.337538469161625
+P003394,C003419,"Engineer, water","Chavez, Hayes and Hamilton Insurance Inc.",2005-06-12,2025-06-12,242.815008045869,Third-Party Billing,Canceled,2025-11-28,12.50703248238277
+P009282,C005434,Aid worker,"Harris, Michael and Yates Insurance Inc.",2005-02-12,2025-02-12,2045.2340823655948,Mortgagee,Marketing,2025-11-28,12.700004591574883
+P007182,C002977,Glass blower/designer,"Brandt, Perez and Evans Insurance Inc.",2005-01-07,2025-01-07,385.41918531718744,Agency Bill,New,2025-11-28,14.928090061897898
+P009368,C008923,"Lecturer, higher education",Rivera Inc Insurance Inc.,2005-09-04,2025-09-04,1145.4359695576402,Mortgagee,Marketing,2025-11-28,16.583585388381195
+P005090,C004609,Freight forwarder,"Wang, Allen and Sanchez Insurance Inc.",2005-05-25,2025-05-25,3307.2590186101556,Agency Bill,New,2025-11-28,9.236455939125353
+P001440,C005241,Media planner,Smith Inc Insurance Inc.,2005-01-14,2025-01-14,3754.414265138941,Premium Finance Company,Marketing,2025-11-28,10.272775591960585
+P008590,C006390,Information systems manager,"Warren, Jackson and Carter Insurance Inc.",2005-06-17,2025-06-17,554.2298649744206,Agency Bill,New,2025-11-28,17.433828082969466
+P008538,C008160,"Nurse, adult",Newton-Anderson Insurance Inc.,2005-10-30,2025-10-30,757.1492701381769,Mortgagee,Marketing,2025-11-28,16.111621602317868
+P004715,C004391,Air broker,"Berry, Rose and Callahan Insurance Inc.",2005-08-28,2025-08-28,260.5845753929351,Third-Party Billing,Canceled,2025-11-28,6.091657923433405
+P004143,C005016,Logistics and distribution manager,"Evans, Davidson and Wallace Insurance Inc.",2005-03-25,2025-03-25,191.31994670638898,Direct Bill,New,2025-11-28,15.925164685337442
+P005234,C007942,"Librarian, academic",Adams Group Insurance Inc.,2005-09-15,2025-09-15,110.38798078294616,Agency Bill,New,2025-11-28,20.703496158736385
+P007689,C006709,"Therapist, horticultural",Bartlett-Yoder Insurance Inc.,2005-09-26,2025-09-26,10080.84149185327,Parent Company,Canceled,2025-11-28,11.746062553429212
+P004437,C003276,Early years teacher,Harris Inc Insurance Inc.,2005-02-04,2025-02-04,3057.729926671152,Agency Bill,New,2025-11-28,13.778412152294726
+P003533,C004361,Electrical engineer,Gonzales-Huynh Insurance Inc.,2005-05-03,2025-05-03,470.31773773660535,Agency Bill,Canceled,2025-11-28,15.908020144227777
+P005379,C005304,"Psychologist, sport and exercise",Bailey Inc Insurance Inc.,2005-04-22,2025-04-22,1151.591609484249,Agency Bill,Renewal Quoted,2025-11-28,11.103649437282204
+P007551,C009544,Horticultural therapist,"Vaughn, Hernandez and Dean Insurance Inc.",2005-06-24,2025-06-24,255.97524298052375,Insured,Renewal Quoted,2025-11-28,14.303274365967045
+P003922,C008029,IT sales professional,Smith-Hess Insurance Inc.,2004-12-29,2024-12-29,1844.0240773559524,Mortgagee,Renewal Quoted,2025-11-28,14.301003746039918
+P009641,C009102,"Education officer, community",Torres LLC Insurance Inc.,2005-02-03,2025-02-03,1122.8677477640215,Subsidiary,Canceled,2025-11-28,13.500347054576599
+P004030,C007638,Hospital doctor,Mclaughlin-Murray Insurance Inc.,2004-11-29,2024-11-29,3407.241870372687,Third-Party Billing,New,2025-11-28,5.330713306661754
+P001292,C007038,Tax adviser,Pittman Inc Insurance Inc.,2005-08-06,2025-08-06,3531.417286118209,Mortgagee,Marketing,2025-11-28,14.258813329559047
+P001211,C008461,Publishing rights manager,Hood Inc Insurance Inc.,2005-02-23,2025-02-23,365.88330088142783,Parent Company,Canceled,2025-11-28,18.53745593581475
+P008313,C008792,Commercial art gallery manager,"Guerra, Butler and Chavez Insurance Inc.",2005-09-17,2025-09-17,424.52955979874383,Parent Company,Canceled,2025-11-28,11.70949358803144
+P003652,C001849,Art gallery manager,Barnes-Washington Insurance Inc.,2005-10-29,2025-10-29,1209.634804130248,Premium Finance Company,Renewal Quoted,2025-11-28,11.56790204904916
+P004628,C008986,Tour manager,"Dean, Conrad and Thomas Insurance Inc.",2005-08-08,2025-08-08,1535.5502520801308,Mortgagee,Marketing,2025-11-28,13.600735651144232
+P009236,C004850,Wellsite geologist,Dillon-Tran Insurance Inc.,2005-03-18,2025-03-18,5244.06155041756,Parent Company,New,2025-11-28,11.015861323143637
+P001851,C001961,Osteopath,"Tucker, Glover and Lowe Insurance Inc.",2004-11-30,2024-11-30,7394.461711083186,Parent Company,Canceled,2025-11-28,4.687366826922835
+P004145,C006370,"Surveyor, building control","Jackson, Weiss and Briggs Insurance Inc.",2005-02-06,2025-02-06,446.10789602640216,Premium Finance Company,Renewal Quoted,2025-11-28,10.67081993673614
+P007060,C005450,Recycling officer,Ramirez-Johnson Insurance Inc.,2005-03-27,2025-03-27,238.22709668180897,Subsidiary,Renewal Quoted,2025-11-28,3.754469677912126
+P006416,C006921,Theatre director,Crawford Ltd Insurance Inc.,2005-02-11,2025-02-11,418.3872743123201,Direct Bill,New,2025-11-28,14.125884594872133
+P001516,C007082,"Surveyor, building",Garza-Hill Insurance Inc.,2005-11-27,2025-11-27,3336.2052567921887,Agency Bill,Canceled,2025-11-28,13.5386624518273
+P008353,C008506,Ship broker,Rojas PLC Insurance Inc.,2005-10-21,2025-10-21,386.7474211283233,Premium Finance Company,Marketing,2025-11-28,2.828838943981312
+P002276,C006298,"Producer, radio",Richardson Inc Insurance Inc.,2005-03-24,2025-03-24,272.8064993546925,Third-Party Billing,Renewal Quoted,2025-11-28,9.960197919781082
+P009755,C003336,Theatre stage manager,"Harris, May and Foster Insurance Inc.",2005-09-17,2025-09-17,625.1873146068175,Subsidiary,New,2025-11-28,10.462322964863608
+P001522,C009611,"Scientist, biomedical",Moody Ltd Insurance Inc.,2005-01-09,2025-01-09,5752.605853254922,Parent Company,Canceled,2025-11-28,9.741613229388928
+P007288,C001319,Production manager,"Anthony, Myers and Williams Insurance Inc.",2005-05-20,2025-05-20,134.80771745636417,Premium Finance Company,Renewal Quoted,2025-11-28,13.9441628876686
+P005445,C001317,Tourist information centre manager,"Pena, Davis and Pace Insurance Inc.",2005-07-23,2025-07-23,675.6484912351714,Agency Bill,Renewal Quoted,2025-11-28,14.442032681883308
+P001100,C006925,Newspaper journalist,"Golden, Marquez and Mckinney Insurance Inc.",2005-11-27,2025-11-27,343.8933174926535,Third-Party Billing,Canceled,2025-11-28,6.870507238270926
+P009061,C006464,Horticultural therapist,"Martin, Lucas and Yu Insurance Inc.",2005-07-16,2025-07-16,623.6263222860471,Agency Bill,New,2025-11-28,15.343292783254997
+P009929,C009152,Archaeologist,"Smith, Suarez and Chapman Insurance Inc.",2004-12-23,2024-12-23,515.01032038137,Parent Company,Renewal Quoted,2025-11-28,10.17298035734394
+P002570,C002393,Herpetologist,Carr-Davis Insurance Inc.,2005-04-22,2025-04-22,838.2338178236363,Agency Bill,Renewal Quoted,2025-11-28,14.460193902379245
+P005665,C004971,Film/video editor,"Cooke, Fitzgerald and Little Insurance Inc.",2005-07-15,2025-07-15,429.4100255029531,Direct Bill,Canceled,2025-11-28,16.188517314787692
+P005502,C005079,Field trials officer,Allison Ltd Insurance Inc.,2005-07-30,2025-07-30,532.6565843576892,Payroll Vendor,Canceled,2025-11-28,12.706264670186307
+P006590,C003234,Photographer,"Mendez, Lee and Matthews Insurance Inc.",2004-12-19,2024-12-19,2148.4187813191256,Direct Bill,Canceled,2025-11-28,12.35925955472511
+P006862,C001260,"Designer, interior/spatial","Murphy, Harris and Owens Insurance Inc.",2005-02-17,2025-02-17,223.209548032605,Mortgagee,Marketing,2025-11-28,14.31975238794564
+P007023,C008614,Adult guidance worker,Bowers-Rose Insurance Inc.,2005-11-16,2025-11-16,294.58312138835794,Agency Bill,Canceled,2025-11-28,21.67372918711496
+P001995,C003149,Drilling engineer,"Berger, Mitchell and Williams Insurance Inc.",2005-07-20,2025-07-20,546.0415569527555,Parent Company,New,2025-11-28,15.852306447944077
+P004848,C004976,Government social research officer,Smith Ltd Insurance Inc.,2005-07-13,2025-07-13,4055.7268287786383,Agency Bill,Renewal Quoted,2025-11-28,13.692074489873992
+P009636,C008599,"Therapist, occupational",Beard Ltd Insurance Inc.,2005-02-21,2025-02-21,247.82537872008683,Payroll Vendor,New,2025-11-28,10.582905894066286
+P003367,C003371,"Administrator, education","Andrews, Lee and Barnes Insurance Inc.",2005-08-04,2025-08-04,5401.385781401747,Agency Bill,New,2025-11-28,18.64940848117722
+P005357,C007205,"Therapist, sports",Maldonado Ltd Insurance Inc.,2005-05-24,2025-05-24,1230.3072207787975,Parent Company,Marketing,2025-11-28,18.235406146307614
+P008885,C005519,Waste management officer,Smith-Mcguire Insurance Inc.,2005-11-13,2025-11-13,300.23018326308676,Agency Bill,New,2025-11-28,8.89893464636014
+P003307,C004149,Charity officer,"Manning, Richardson and Garcia Insurance Inc.",2005-08-02,2025-08-02,307.73964983546404,Subsidiary,Renewal Quoted,2025-11-28,7.173331433600271
+P009206,C002734,Actuary,Garcia Inc Insurance Inc.,2005-06-30,2025-06-30,208.29800176199242,Payroll Vendor,New,2025-11-28,10.9056359551195
+P003493,C005924,Civil Service fast streamer,"Conway, King and Davis Insurance Inc.",2005-06-01,2025-06-01,380.800728208333,Agency Bill,Renewal Quoted,2025-11-28,23.14245895808596
+P006154,C004854,Health physicist,Lara Group Insurance Inc.,2005-02-19,2025-02-19,5963.593680248705,Insured,New,2025-11-28,13.889978892241063
+P007125,C003679,Biomedical engineer,Spencer-Stewart Insurance Inc.,2005-06-28,2025-06-28,239.211706423252,Premium Finance Company,Marketing,2025-11-28,14.423023634306892
+P001697,C005884,"Education officer, environmental",Gibson-Davis Insurance Inc.,2005-01-24,2025-01-24,3698.991163692612,Subsidiary,Marketing,2025-11-28,12.458932052056857
+P007541,C007138,Chiropractor,"Griffin, Scott and Stafford Insurance Inc.",2005-02-26,2025-02-26,8116.281918713013,Agency Bill,Marketing,2025-11-28,8.360371673554383
+P003225,C002777,Retail banker,Garcia-Carter Insurance Inc.,2005-03-15,2025-03-15,435.71429944579836,Subsidiary,Canceled,2025-11-28,17.548281373783034
+P005267,C005303,Forensic scientist,Simmons Group Insurance Inc.,2005-10-17,2025-10-17,374.4382236311486,Third-Party Billing,Canceled,2025-11-28,12.090338722532199
+P001246,C005678,Risk manager,Parsons-Davidson Insurance Inc.,2005-01-27,2025-01-27,565.1195533757724,Payroll Vendor,Renewal Quoted,2025-11-28,11.315011792616085
+P009448,C009980,Passenger transport manager,Knight-Haas Insurance Inc.,2005-05-01,2025-05-01,315.6262545671223,Payroll Vendor,Renewal Quoted,2025-11-28,13.023241014010686
+P008725,C001893,"Research officer, trade union",Hunt-Brewer Insurance Inc.,2005-01-11,2025-01-11,317.0023205530841,Subsidiary,New,2025-11-28,14.632652439719934
+P002908,C009662,"Doctor, hospital","Rogers, Hudson and Wheeler Insurance Inc.",2004-12-09,2024-12-09,1068.268110079412,Parent Company,Canceled,2025-11-28,5.102516283223625
+P002021,C001443,Chartered legal executive (England and Wales),Miller PLC Insurance Inc.,2005-10-07,2025-10-07,235.4542453811787,Direct Bill,Marketing,2025-11-28,5.241869825461596
+P005481,C003809,Writer,Obrien Group Insurance Inc.,2005-01-14,2025-01-14,5275.618326166108,Direct Bill,New,2025-11-28,12.032240900657149
+P004495,C006754,Media buyer,"Davis, Davis and Wright Insurance Inc.",2005-11-26,2025-11-26,7241.1730190046355,Subsidiary,Canceled,2025-11-28,12.711181074632352
+P009343,C003394,Analytical chemist,"Farmer, Perez and Thomas Insurance Inc.",2005-08-21,2025-08-21,765.5946445896964,Insured,Renewal Quoted,2025-11-28,14.687171043384009
+P008756,C004964,Ship broker,"Cox, Williams and Marks Insurance Inc.",2005-04-17,2025-04-17,589.9815350437376,Mortgagee,New,2025-11-28,7.726959883892356
+P008208,C006108,"Scientist, research (life sciences)",Jordan-Rodriguez Insurance Inc.,2005-02-23,2025-02-23,245.9553027422082,Mortgagee,Renewal Quoted,2025-11-28,13.071854669806383
+P007293,C002548,"Programmer, multimedia",Reid Inc Insurance Inc.,2005-08-14,2025-08-14,559.4498262213558,Insured,Renewal Quoted,2025-11-28,7.638521924807549
+P002781,C008396,Product/process development scientist,"Thompson, Fields and Long Insurance Inc.",2005-01-26,2025-01-26,1204.438915944869,Direct Bill,New,2025-11-28,14.475339158060565
+P004104,C009171,Press photographer,"Holloway, Allen and Ibarra Insurance Inc.",2005-03-19,2025-03-19,93.22298791230942,Direct Bill,Marketing,2025-11-28,10.555361542759167
+P002502,C006898,"Designer, multimedia","Valdez, Neal and Richmond Insurance Inc.",2005-09-13,2025-09-13,162.07375154073463,Parent Company,Canceled,2025-11-28,13.675821676154918
+P009728,C008966,"Therapist, drama","Morton, Daniels and Miller Insurance Inc.",2005-02-20,2025-02-20,320.3077013955385,Premium Finance Company,Renewal Quoted,2025-11-28,5.312428744931932
+P003583,C009659,"Nurse, adult",Williams-Mitchell Insurance Inc.,2005-09-02,2025-09-02,204.76653285568665,Payroll Vendor,Renewal Quoted,2025-11-28,15.441486886589576
+P009925,C007388,Analytical chemist,Martin Group Insurance Inc.,2005-06-09,2025-06-09,271.15408681232213,Third-Party Billing,Marketing,2025-11-28,14.321452541831615
+P006728,C009407,Phytotherapist,Smith Group Insurance Inc.,2005-09-21,2025-09-21,320.0514729237471,Insured,New,2025-11-28,7.044584384360197
+P005223,C007407,"Administrator, charities/voluntary organisations","Porter, Peters and Mosley Insurance Inc.",2005-09-20,2025-09-20,1026.5335727871325,Third-Party Billing,Renewal Quoted,2025-11-28,8.996910201229932

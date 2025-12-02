@@ -7,3 +7,4 @@ python-multipart
 faker
 numpy
 scipy
+matplotlib
