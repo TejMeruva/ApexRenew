@@ -51,3 +51,8 @@
 **02 December 2025** by Teja 
 1. [prioritization.py](prioritization.py)
    - pulls data from `clients` table and `policies` table.
+   - all scoring guidelines specified in [PrioritizationPlayground](_prioritization_playground.ipynb)
+   - finalized guidelines implemented in [prioritization.py](prioritization.py)
+   - scoring similar to calcualtion GPA.
+2. [RandomDataGenerator.ipynb](RandomDataGenerator.ipynb)
+   - prevented the duplication of ids.

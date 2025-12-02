@@ -4,3 +4,6 @@ pydantic
 pandas
 requests
 python-multipart
+faker
+numpy
+scipy
