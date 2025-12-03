@@ -58,11 +58,21 @@
      - time to expiry score (out of 10)
      - premium at risk score (out of 10)
      - user sentiment score (based on avg rating form Net Prmotor Surveys)
-     - user reliability (based on frequesncy of user logins)
-2. [churn_model](models\churn_rate_predictor.ipynb)
-   - made more fake data using [RandomDataGenerator](RandomDataGenerator.ipynb)
-   - generated assumed churn state
+     - client past performance (based on frequesncy of user logins)
+     - likelihood of churn (predicted by XGB model)
+2. [churn_model for churn score components of GPA](models\churn_rate_predictor.ipynb)
+   - made more fake data using [RandomDataGenerator](RandomDataGenerator.ipynb) for training the `XGB Model`.
+   - different factors affecting churn status:
+     - avg_user_sentiment_score (from NPS Surveys)
+     - avg_days_between_logins
+     - premium_amount
+   - weights for churn or not churn in random sample decided using these factors and activating using `sigmoid function`.
+   - generated assumed churn state (using guidelines detailed in the ipynb file.), using the `random.choices` function.
    - trained `XGB Model` for classification.
-   - saved the model and wrote `churn_score` in [prioritization](prioritization.py) module
+   - saved the model and wrote `not_churn_prob_score` in [prioritization](prioritization.py) module
 3. [RandomDataGenerator.ipynb](RandomDataGenerator.ipynb)
    - prevented the duplication of ids.
+
+**03 December 2025** by Teja 
+1. [client_priority_GPA](prioritization.py)
+   - created the function that finds prioritization scores of clients.

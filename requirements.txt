@@ -8,3 +8,6 @@ faker
 numpy
 scipy
 matplotlib
+joblib
+scikit-learn
+imblearn
