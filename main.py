@@ -27,8 +27,8 @@ menu = \
 6. Get MS Calendar Data (uses Mock-MS_Graph_API)
 7. Preprocess Data and Make Pipeline 
 8. Justify GPA
-9. Exit
-10. None of the above (re-starts the app)
+9. Top 5 Clients
+10. Exit
 """
 
 print(menu)
@@ -100,6 +100,8 @@ while True:
             ind = input('Enter the client_id: ')
             print((merged[merged.client_id == ind])['justification'].item())
         case '9':
+            print(merged.sort_values(by='client_priority_GPA', ascending=False).head(5))
+        case 10:
             centerPrint('Thank You for using ApexRenewCLI!')
             break
         case _:
