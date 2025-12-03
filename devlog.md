@@ -76,3 +76,6 @@
 **03 December 2025** by Teja 
 1. [client_priority_GPA](prioritization.py)
    - created the function that finds prioritization scores of clients.
+   - added `justification string` for interpretability.
+2. [RF Model](models/churn_rate_predictor.ipynb)
+   - generated weights for each of the factors affection `client_priority_GPA` by training an `RF Model`.
