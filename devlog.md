@@ -22,7 +22,6 @@
    - makes get requests to get the clients table and the policies table.
 
 **29 November 2025** by Teja
-
 1. [Fake Data Generator](RandomDataGenerator.ipynb)
    - added `MS Graph API` Fake Data generators. [Reference](https://stackoverflow.com/questions/48448529/different-user-objects-returning-in-microsoft-graph-explorer?utm_source=chatgpt.com)
    - followed the same schema as `MS Graph API`
@@ -79,3 +78,5 @@
    - added `justification string` for interpretability.
 2. [RF Model](models/churn_rate_predictor.ipynb)
    - generated weights for each of the factors affection `client_priority_GPA` by training an `RF Model`.
+3. [main.py](main.py)
+   - added the option to see the top clients.

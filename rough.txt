@@ -1,0 +1,5001 @@
+	_gpa_justification
+0	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+1	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+2	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+3	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+4	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+5	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+6	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+7	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+8	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+9	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+10	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+11	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+12	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+13	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+14	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+15	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+16	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+17	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+18	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+19	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+20	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+21	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+22	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+23	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+24	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+25	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+26	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+27	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+28	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+29	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+30	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+31	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+32	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+33	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+34	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+35	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+36	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+37	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+38	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+39	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+40	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+41	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+42	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+43	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+44	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+45	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+46	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+47	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+48	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+49	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+50	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+51	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+52	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+53	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+54	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+55	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+56	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+57	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+58	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+59	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+60	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+61	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+62	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+63	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+64	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+65	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+66	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+67	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+68	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+69	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+70	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+71	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+72	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+73	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+74	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+75	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+76	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+77	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+78	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+79	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+80	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+81	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+82	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+83	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+84	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+85	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+86	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+87	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+88	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+89	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+90	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+91	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+92	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+93	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+94	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+95	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+96	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+97	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+98	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+99	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+100	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+101	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+102	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+103	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+104	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+105	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+106	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+107	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+108	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+109	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+110	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+111	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+112	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+113	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+114	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+115	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+116	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+117	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+118	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+119	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+120	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+121	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+122	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+123	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+124	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+125	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+126	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+127	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+128	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+129	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+130	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+131	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+132	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+133	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+134	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+135	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+136	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+137	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+138	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+139	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+140	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+141	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+142	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+143	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+144	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+145	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+146	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+147	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+148	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+149	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+150	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+151	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+152	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+153	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+154	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+155	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+156	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+157	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+158	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+159	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+160	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+161	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+162	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+163	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+164	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+165	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+166	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+167	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+168	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+169	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+170	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+171	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+172	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+173	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+174	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+175	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+176	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+177	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+178	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+179	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+180	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+181	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+182	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+183	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+184	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+185	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+186	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+187	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+188	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+189	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+190	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+191	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+192	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+193	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+194	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+195	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+196	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+197	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+198	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+199	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+200	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+201	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+202	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+203	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+204	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+205	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+206	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+207	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+208	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+209	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+210	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+211	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+212	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+213	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+214	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is low"
+215	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+216	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+217	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+218	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+219	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+220	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+221	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+222	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+223	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+224	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+225	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+226	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+227	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+228	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+229	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+230	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+231	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+232	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+233	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+234	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+235	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+236	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+237	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+238	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+239	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+240	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+241	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+242	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+243	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+244	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+245	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+246	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+247	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+248	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+249	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+250	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+251	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+252	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+253	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+254	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+255	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+256	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+257	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+258	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+259	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+260	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+261	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+262	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+263	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+264	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+265	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+266	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+267	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+268	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+269	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+270	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+271	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+272	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+273	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+274	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+275	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+276	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+277	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+278	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+279	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+280	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+281	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+282	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+283	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+284	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+285	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+286	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is low"
+287	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+288	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+289	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+290	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+291	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+292	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+293	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+294	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+295	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+296	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+297	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+298	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+299	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+300	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+301	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+302	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+303	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+304	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+305	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+306	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+307	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+308	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+309	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+310	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+311	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+312	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+313	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+314	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+315	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+316	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+317	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+318	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+319	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+320	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+321	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+322	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+323	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+324	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+325	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+326	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+327	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+328	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+329	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+330	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+331	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+332	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+333	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+334	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+335	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+336	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+337	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+338	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+339	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+340	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+341	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+342	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+343	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+344	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+345	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+346	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+347	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+348	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+349	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+350	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+351	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+352	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+353	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+354	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+355	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+356	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+357	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+358	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+359	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+360	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+361	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+362	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+363	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+364	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+365	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+366	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+367	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+368	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+369	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+370	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+371	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+372	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+373	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+374	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+375	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+376	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+377	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+378	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+379	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+380	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+381	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+382	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+383	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+384	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+385	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+386	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+387	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+388	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+389	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+390	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+391	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+392	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+393	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+394	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+395	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+396	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+397	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+398	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+399	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+400	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+401	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+402	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+403	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+404	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+405	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+406	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+407	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+408	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+409	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+410	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+411	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+412	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+413	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+414	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+415	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+416	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+417	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+418	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+419	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+420	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+421	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+422	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+423	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+424	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+425	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+426	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+427	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+428	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+429	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+430	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+431	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+432	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+433	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+434	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+435	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+436	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+437	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+438	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+439	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+440	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+441	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+442	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+443	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+444	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+445	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+446	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+447	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+448	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+449	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+450	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+451	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+452	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+453	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+454	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+455	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+456	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+457	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+458	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+459	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+460	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+461	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+462	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+463	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+464	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+465	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+466	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+467	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+468	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+469	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+470	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+471	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+472	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+473	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+474	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+475	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+476	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+477	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+478	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+479	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+480	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+481	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+482	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+483	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+484	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+485	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+486	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+487	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+488	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+489	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+490	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+491	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+492	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+493	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+494	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+495	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+496	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+497	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+498	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+499	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+500	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+501	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+502	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+503	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+504	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+505	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+506	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+507	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+508	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+509	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+510	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+511	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+512	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+513	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+514	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+515	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+516	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+517	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+518	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+519	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+520	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+521	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+522	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+523	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+524	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+525	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+526	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+527	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+528	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+529	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+530	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+531	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+532	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+533	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+534	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+535	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+536	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+537	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+538	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+539	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+540	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+541	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+542	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+543	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+544	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+545	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+546	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+547	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+548	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+549	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+550	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+551	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+552	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+553	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+554	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+555	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+556	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+557	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+558	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+559	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+560	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+561	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+562	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+563	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+564	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+565	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+566	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+567	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+568	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+569	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+570	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+571	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+572	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+573	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+574	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+575	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+576	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+577	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+578	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+579	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+580	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+581	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+582	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+583	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+584	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+585	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+586	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+587	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+588	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+589	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+590	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+591	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+592	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+593	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+594	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+595	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+596	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+597	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+598	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+599	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+600	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+601	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+602	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+603	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+604	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+605	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+606	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+607	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+608	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+609	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+610	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+611	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+612	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+613	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+614	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+615	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+616	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+617	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+618	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+619	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+620	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+621	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+622	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+623	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+624	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+625	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+626	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+627	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+628	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+629	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+630	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+631	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+632	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+633	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+634	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+635	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+636	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+637	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+638	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+639	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+640	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+641	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+642	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+643	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+644	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+645	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+646	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+647	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+648	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+649	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+650	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+651	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+652	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+653	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+654	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+655	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+656	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+657	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+658	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+659	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+660	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+661	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+662	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+663	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+664	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+665	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+666	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+667	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+668	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+669	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+670	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+671	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+672	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+673	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+674	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+675	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+676	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+677	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+678	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+679	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+680	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+681	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+682	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+683	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+684	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+685	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+686	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+687	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+688	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+689	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+690	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+691	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+692	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+693	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+694	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+695	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+696	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+697	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+698	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+699	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+700	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+701	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+702	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+703	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+704	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+705	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+706	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+707	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+708	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+709	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+710	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+711	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+712	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+713	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+714	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+715	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+716	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+717	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+718	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+719	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+720	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+721	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+722	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+723	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+724	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+725	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+726	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+727	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+728	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+729	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+730	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+731	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+732	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+733	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+734	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+735	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+736	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+737	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+738	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+739	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+740	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+741	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+742	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+743	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+744	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+745	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+746	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+747	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+748	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+749	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+750	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+751	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+752	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+753	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+754	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+755	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+756	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+757	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+758	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+759	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+760	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+761	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+762	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+763	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+764	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+765	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+766	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+767	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+768	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+769	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+770	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+771	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+772	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+773	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+774	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+775	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+776	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+777	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+778	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+779	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+780	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+781	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+782	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+783	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+784	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+785	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+786	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+787	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+788	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+789	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+790	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+791	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+792	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+793	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+794	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+795	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+796	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+797	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+798	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+799	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+800	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+801	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+802	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+803	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+804	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+805	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+806	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+807	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+808	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+809	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+810	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+811	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+812	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+813	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+814	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+815	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+816	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+817	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+818	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+819	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+820	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+821	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+822	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+823	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+824	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+825	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+826	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+827	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+828	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+829	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+830	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+831	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+832	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+833	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+834	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+835	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+836	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+837	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+838	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+839	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+840	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+841	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+842	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+843	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+844	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+845	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+846	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+847	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+848	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+849	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+850	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+851	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+852	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+853	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+854	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+855	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+856	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+857	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+858	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+859	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+860	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+861	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+862	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+863	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+864	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+865	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+866	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+867	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+868	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+869	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+870	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+871	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+872	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+873	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+874	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+875	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+876	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+877	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+878	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+879	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+880	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+881	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+882	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+883	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+884	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+885	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+886	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+887	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+888	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+889	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+890	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+891	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+892	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+893	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+894	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+895	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+896	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+897	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+898	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+899	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+900	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+901	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+902	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+903	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+904	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+905	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+906	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+907	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+908	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+909	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+910	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+911	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+912	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+913	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+914	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+915	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+916	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+917	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+918	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+919	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+920	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+921	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+922	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+923	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+924	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+925	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+926	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+927	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+928	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+929	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+930	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+931	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+932	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+933	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+934	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+935	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+936	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+937	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+938	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+939	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+940	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+941	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+942	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+943	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+944	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+945	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+946	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+947	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+948	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+949	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+950	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+951	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+952	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+953	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+954	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+955	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+956	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+957	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+958	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is low"
+959	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+960	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is moedrate"
+961	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+962	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+963	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+964	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+965	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+966	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+967	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+968	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+969	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+970	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+971	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is low"
+972	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+973	"date of expiry is near,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+974	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+975	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+976	"date of expiry is near,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is high"
+977	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+978	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+979	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+980	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+981	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is low,
+client responsiveness is moedrate,
+churn probability is moedrate"
+982	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+983	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+984	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+985	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+986	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is low,
+churn probability is moedrate"
+987	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+988	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+989	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+990	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is moedrate"
+991	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
+992	"date of expiry is far,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is low,
+churn probability is moedrate"
+993	"date of expiry is far,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is low,
+churn probability is moedrate"
+994	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is low,
+client responsiveness is high,
+churn probability is high"
+995	"date of expiry is far,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is low"
+996	"date of expiry is very near,
+preimum at risk is less,
+client satisfaction with company is moedrate,
+client responsiveness is moedrate,
+churn probability is moedrate"
+997	"date of expiry is near,
+preimum at risk is moderate,
+client satisfaction with company is moedrate,
+client responsiveness is high,
+churn probability is moedrate"
+998	"date of expiry is very near,
+preimum at risk is moderate,
+client satisfaction with company is high,
+client responsiveness is high,
+churn probability is high"
+999	"date of expiry is very near,
+preimum at risk is high,
+client satisfaction with company is high,
+client responsiveness is moedrate,
+churn probability is moedrate"
