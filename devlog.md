@@ -93,3 +93,12 @@
      - modified [main](main.py).
      - modified [prioritzation](prioritization.py)
      - modified [preprocessing](preprocessing.py)
+2. [prioritization_scheme](prioritization.py)
+   - the following factors are rated out of 10:
+     - premium at risk: *one-tenth the percentile of each sample*
+     - time to expiry: *one-tenth of (100 - percentile of the days to expiry)*
+     - claims (no columns available)
+     - past performance (of carrier): *10 times the percentile of the fraction of placements renewed for each carrier*
+     - past performance (of client): **
+     - carrier responsiveness: *one-tenth of (100 - percentile of the days taken for response)*
+     - likelihood of chrun
