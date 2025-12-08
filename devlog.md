@@ -99,6 +99,6 @@
      - time to expiry: *one-tenth of (100 - percentile of the days to expiry)*
      - claims (no columns available)
      - past performance (of carrier): *10 times the percentile of the fraction of placements renewed for each carrier*
-     - past performance (of client): **
+     - past performance (of client): *10 times the percentile of the fraction of the placements renewed for each client*
      - carrier responsiveness: *one-tenth of (100 - percentile of the days taken for response)*
      - likelihood of chrun
