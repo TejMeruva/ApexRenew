@@ -36,3 +36,7 @@ Insurance broker agents have to juggle between multiple platforms (CRM platform 
 ## Solution Architecture
 ![Solution_Architecture|200](Architecture.jpg)
 
+## Installation
+
+## Get Started (How to Use?)
+

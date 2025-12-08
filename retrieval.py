@@ -33,13 +33,18 @@ def get_colab_headers(uname: str, passwd: str):
         raise Exception('Incorrect uname and/or passwd!')
 
 
-def get_client_data(crm_headers):
-    url = "http://localhost:8000/clients"
-    resp = requests.get(url, headers=crm_headers)
-    return pd.read_json(StringIO(resp.json()))
+# def get_client_data(crm_headers):
+#     url = "http://localhost:8000/clients"
+#     resp = requests.get(url, headers=crm_headers)
+#     return pd.read_json(StringIO(resp.json()))
 
-def get_policies_data(crm_headers):
-    url = "http://localhost:8000/policies"
+# def get_policies_data(crm_headers):
+#     url = "http://localhost:8000/policies"
+#     resp = requests.get(url, headers=crm_headers)
+#     return pd.read_json(StringIO(resp.json()))
+
+def get_placements_data(crm_headers):
+    url = "http://localhost:8000/placements"
     resp = requests.get(url, headers=crm_headers)
     return pd.read_json(StringIO(resp.json()))
 

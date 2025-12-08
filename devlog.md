@@ -80,3 +80,16 @@
    - generated weights for each of the factors affection `client_priority_GPA` by training an `RF Model`.
 3. [main.py](main.py)
    - added the option to see the top clients.
+
+**8 December 2025**
+1. [incorporating_new_data](_dataAnalysis.ipynb)
+   - understood the kind of data provided in [dataAnalysis.ipynb](_dataAnalysis.ipynb)
+   - corrections made in provided data:
+     - changed `1026-01-08` in the PlacementsExpiryDate Column to `08/01/26` to make the date actually possible.
+   - changes made:
+     - replace policies table and clients table with provided table: [placements.csv](fake_CRM_data\placements.csv) i.e., the `merged` table is now replaced by a sinlge cohesive table which is the table they provided. 
+     - modified [CRM_API](FastAPI_Scripts\CRMAPI.py)
+     - modified [Retrieval](D:\TejaMeruva\ApexRenew\retrieval.py) module.
+     - modified [main](main.py).
+     - modified [prioritzation](prioritization.py)
+     - modified [preprocessing](preprocessing.py)

@@ -17,17 +17,24 @@ def User(BaseModel):
 async def get_auth_status(user: Annotated[User, Depends(oauth2_scheme)]):
     return {'detail': 'Access Granted'}
 
-@app.get('/clients')
-def get_client_data(user: Annotated[User, Depends(oauth2_scheme)]):
-    data = pd.read_csv(
-        '../fake_CRM_data/clients.csv'
-    )
-    return data.to_json()
+# @app.get('/clients')
+# def get_client_data(user: Annotated[User, Depends(oauth2_scheme)]):
+#     data = pd.read_csv(
+#         '../fake_CRM_data/clients.csv'
+#     )
+#     return data.to_json()
 
-@app.get('/policies')
+# @app.get('/policies')
+# def get_policy_data(user: Annotated[User, Depends(oauth2_scheme)]):
+#     data = pd.read_csv(
+#         '../fake_CRM_data/policies.csv'
+#     )
+#     return data.to_json()
+
+@app.get('/placements')
 def get_policy_data(user: Annotated[User, Depends(oauth2_scheme)]):
     data = pd.read_csv(
-        '../fake_CRM_data/policies.csv'
+        '../fake_CRM_data/placements.csv'
     )
     return data.to_json()
 

@@ -20,15 +20,14 @@ os.system('figlet Menu')
 menu = \
 """
 1. Get OAuth2.0 Tokens
-2. Get Clients Data (uses Mock-AppliedEpic_API)
-3. Get Policies Data (uses Mock-AppliedEpic_API)
-4. Get MS Teams Users Data (uses Mock-MS_Graph_API)
-5. Get E-Mails Data (uses Mock-MS_Graph_API)
-6. Get MS Calendar Data (uses Mock-MS_Graph_API)
-7. Preprocess Data and Make Pipeline 
-8. Justify GPA
-9. Top 5 Clients
-10. Exit
+2. Get Placements Data (uses Mock-AppliedEpic_API)
+3. Get MS Teams Users Data (uses Mock-MS_Graph_API)
+4. Get E-Mails Data (uses Mock-MS_Graph_API)
+5. Get MS Calendar Data (uses Mock-MS_Graph_API)
+6. Preprocess Data and Make Pipeline 
+7. Justify GPA
+8. Top 5 Clients
+9. Exit
 """
 
 print(menu)
@@ -62,46 +61,40 @@ while True:
                 print('Authorization already complete!')
         case '2':
             if authenticated: 
-                clients = retrieval.get_client_data(crm_headers=crm_headers)
+                clients = retrieval.get_placements_data(crm_headers=crm_headers)
                 print(clients.head(3))
             else:
                 print('First obtain authorization. Press 1!')
         case '3':
             if authenticated:
-                policies = retrieval.get_policies_data(crm_headers=crm_headers)
-                print(policies.head(3))
-            else:
-                print('First obtain authorization. Press 1!')
-        case '4':
-            if authenticated:
                 users = retrieval.get_ms_teams_users_data(colab_headers=colab_headers)
                 print(users.head(3))
             else:
                 print('First obtain authorization. Press 1!')
-        case '5':
+        case '4':
             if authenticated:
                 emails = retrieval.get_ms_emails_data(colab_headers=colab_headers)
                 print(emails.head(3))
             else:
                 print('First obtain authorization. Press 1!')
-        case '6':
+        case '5':
             if authenticated:
                 emails = retrieval.get_calendar_events_data(colab_headers=colab_headers)
                 print(emails.head(3))
             else:
                 print('First obtain authorization. Press 1!')
-        case '7':
+        case '6':
             merged = get_merged(clients, policies)
             merged = add_interpreted_cols(merged)
             merged = add_score_cols(merged)
             print(merged.iloc[:, :-1].head(10))
 
-        case '8' :
+        case '7' :
             ind = input('Enter the client_id: ')
             print((merged[merged.client_id == ind])['justification'].item())
-        case '9':
+        case '8':
             print(merged.sort_values(by='client_priority_GPA', ascending=False).head(5))
-        case 10:
+        case '9':
             centerPrint('Thank You for using ApexRenewCLI!')
             break
         case _:
