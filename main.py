@@ -89,13 +89,14 @@ while True:
             print('Added interpreted columns!')
             add_score_cols(placements, inplace=True)
             print('Added score columns!')
-            print(placements.head(3))
+            placements['_PriorityJustification'] = justify(placements)
+            print(placements.iloc[:, :-1].head(3))
 
         case '7' :
-            ind = input('Enter the client_id: ')
-            print((merged[merged.client_id == ind])['justification'].item())
+            ind = int(input('Enter row index: '))
+            print(placements.loc[ind, '_PriorityJustification'])
         case '8':
-            print(merged.sort_values(by='client_priority_GPA', ascending=False).head(5))
+            print(placements.sort_values(by='_ClientPriorityGPA', ascending=False).head(5))
         case '9':
             centerPrint('Thank You for using ApexRenewCLI!')
             break

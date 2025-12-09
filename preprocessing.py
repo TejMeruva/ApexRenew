@@ -52,6 +52,21 @@ def add_interpreted_cols(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
     data['_DaysToExpiry'] = (data.PlacementExpiryDate - data.PlacementEffectiveDate).apply(lambda x: x.days)
     data['_CarrierResponseTime'] = (data.ResponseReceivedDate - data.SubmissionSentDate).apply(lambda x: x.days)
 
+    # churn status
+    clients = data.PlacementClientLocalID.unique()
+    data['_ChurnStatus'] = pd.Series([pd.NA for _ in range(data.shape[0])], dtype='str')
+    for client in clients:
+        clientMask = (data.PlacementClientLocalID == client)
+        years = data[clientMask].PlacementExpiryDate.apply(lambda x: x.year).unique()
+
+        for year in years:
+            yearMask = (data.PlacementExpiryDate.apply(lambda x: x.year) == year)
+            count = data[clientMask & yearMask].shape[0]
+            if 'QUOTATION_STATUS_BOUND' in data[clientMask & yearMask].ParticipationStatusCode.to_list():            
+                data.loc[clientMask & yearMask, '_ChurnStatus'] = 'N'
+            else:
+                data.loc[clientMask & yearMask, '_ChurnStatus'] = 'C'
+
     # client past performance
     fracPlacementsRenewedByClient = data.groupby(['PlacementClientLocalID'])['_ChurnStatus'].agg(fracRenewed)
     clients = fracPlacementsRenewedByClient.index.unique()
