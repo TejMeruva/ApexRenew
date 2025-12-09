@@ -11,3 +11,5 @@ matplotlib
 joblib
 scikit-learn
 imblearn
+ipykernel
+xgboost

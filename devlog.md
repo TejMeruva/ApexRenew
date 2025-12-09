@@ -101,4 +101,13 @@
      - past performance (of carrier): *10 times the percentile of the fraction of placements renewed for each carrier*
      - past performance (of client): *10 times the percentile of the fraction of the placements renewed for each client*
      - carrier responsiveness: *one-tenth of (100 - percentile of the days taken for response)*
-     - likelihood of chrun
+     - likelihood of chrun *one-tenth of (100 - precentile of the churn probability as predicted by a trained XGBClassifier)*
+
+**09 December 2025**
+1. [Predciting_Churn_Model](models\churn_predictor.ipynb)
+   - decicded condition for churn:
+     - If at least one Bound placement for that client in that renewal year → churn = 0
+Else → churn = 1
+   - trained XGB model and saved it into [models](models) floder
+   - trained RF Classifier and got feature importances
+   - updates the weights in [prioritization](prioritization.py) module.

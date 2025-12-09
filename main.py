@@ -3,7 +3,7 @@ from prettyPrint import divPrint, centerPrint
 import os
 import pandas as pd
 pd.set_option('display.max_columns', None)
-from preprocessing import get_merged, add_interpreted_cols, add_score_cols
+from preprocessing import preprocess, add_interpreted_cols, add_score_cols
 from prioritization import justify
 
 #printing the title
@@ -37,8 +37,7 @@ authenticated = False
 crm_headers = ''
 colab_headers = ''
 
-clients = pd.DataFrame()
-policies = pd.DataFrame()
+placements = pd.DataFrame()
 merged = pd.DataFrame()
 
 while True:
@@ -61,8 +60,8 @@ while True:
                 print('Authorization already complete!')
         case '2':
             if authenticated: 
-                clients = retrieval.get_placements_data(crm_headers=crm_headers)
-                print(clients.head(3))
+                placements = retrieval.get_placements_data(crm_headers=crm_headers)
+                print(placements.head(3))
             else:
                 print('First obtain authorization. Press 1!')
         case '3':
@@ -84,10 +83,13 @@ while True:
             else:
                 print('First obtain authorization. Press 1!')
         case '6':
-            merged = get_merged(clients, policies)
-            merged = add_interpreted_cols(merged)
-            merged = add_score_cols(merged)
-            print(merged.iloc[:, :-1].head(10))
+            preprocess(placements, inplace=True)
+            print('Changed dtypes and Column Names!')
+            add_interpreted_cols(placements, inplace=True)
+            print('Added interpreted columns!')
+            add_score_cols(placements, inplace=True)
+            print('Added score columns!')
+            print(placements.head(3))
 
         case '7' :
             ind = input('Enter the client_id: ')

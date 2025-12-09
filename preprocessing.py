@@ -1,32 +1,84 @@
 import pandas as pd
 from datetime import datetime, timedelta
-from prioritization import time_to_expiry_score, premium_at_risk_score, sentiment_score, client_responsiveness_score, not_churn_prob_score, client_priority_GPA, justify
+from prioritization import time_to_expiry_score, \
+    premium_at_risk_score, past_performance_score, \
+        churn_prob_score, client_priority_GPA
 
-def get_merged(clients: pd.DataFrame,
-               policies: pd.DataFrame) -> pd.DataFrame:
-    clients.issued_on = pd.to_datetime(clients.issued_on)
-    clients.updated_on = pd.to_datetime(clients.updated_on)
+def preprocess(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
+    if not inplace:
+        data = data.copy(deep=True) # not inplace
+    # chaning column names to camelCase
+    def camelCase(names: list) -> list:
+        return [name\
+                .strip() \
+                .replace('_', ' ') \
+                #   .title() \
+                .replace(' ', '') \
+                .replace('(', '_') \
+                .replace(')', '') \
+                for name in names]
+    
+    #changing dtypes
+    def setColsToDatetime(df: pd.DataFrame, cols: list) -> None:
+        for col in cols:
+            df[col] = pd.to_datetime(df[col], dayfirst=True, errors='ignore')
 
-    policies.expiry_date = pd.to_datetime(policies.expiry_date)
-    policies.last_updated = pd.to_datetime(policies.last_updated)
-    policies.issued_on = pd.to_datetime(policies.issued_on)
+    data.columns = camelCase(data.columns)
+    data.rename({'PlacementCreatedDate/Time': 'PlacemenCreatedDatetime'}, inplace=True)
 
-    merged = pd.merge(left=clients, right=policies, how='right', on='client_id')
-    return merged
+    for col in data.columns:
+        data[col] = data[col].replace('-', pd.NA)
 
-def add_interpreted_cols(merged: pd.DataFrame,
-                         today=datetime(year=2025, month=11, day=28)) -> pd.DataFrame:
-    merged['_time_to_expiry_days'] = (today - merged.expiry_date).apply(lambda x: x.days)
-    return merged
+    setColsToDatetime(
+        df=data, 
+        cols=\
+            ['ResponseReceivedDate', 'PlacementEffectiveDate',
+        'PlacementExpiryDate', 'SubmissionSentDate']
+    )
 
-def add_score_cols(merged: pd.DataFrame) -> pd.DataFrame:
-    merged['time_to_expiry_score'] = time_to_expiry_score(merged['_time_to_expiry_days'])
-    merged['premium_at_risk_score'] = premium_at_risk_score(merged['premium_amount'])
-    merged['client_sentiment_score'] = sentiment_score(merged['avg_user_sentiment_score'])
-    merged['client_activity_score'] = client_responsiveness_score(merged['avg_days_between_logins'])
-    merged['not_churn_prob_score'] = not_churn_prob_score(merged.premium_amount, merged.avg_days_between_logins, merged.avg_user_sentiment_score)
-    merged['client_priority_GPA'] = client_priority_GPA(merged)
-    merged['justification'] = justify(merged)
+    return data
 
-    return merged
+def add_interpreted_cols(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
 
+    def fracRenewed(group):
+        x = group[group == 'N'].size
+        y = group.size
+        return x/(x+y)
+    
+    if not inplace:
+        data = data.copy(deep=True) # not inplace
+
+    #adding interpreted columns
+    data['_DaysToExpiry'] = (data.PlacementExpiryDate - data.PlacementEffectiveDate).apply(lambda x: x.days)
+    data['_CarrierResponseTime'] = (data.ResponseReceivedDate - data.SubmissionSentDate).apply(lambda x: x.days)
+
+    # client past performance
+    fracPlacementsRenewedByClient = data.groupby(['PlacementClientLocalID'])['_ChurnStatus'].agg(fracRenewed)
+    clients = fracPlacementsRenewedByClient.index.unique()
+    data['_FracPlacementsRenewedByClient'] = pd.Series([0. for _ in range(data.shape[0])], dtype='float')
+    for client in clients:
+        clientMask = (data.PlacementClientLocalID == client)
+        data.loc[clientMask, '_FracPlacementsRenewedByClient'] = fracPlacementsRenewedByClient[client]
+
+    # carrier past performance
+    fracPlacementsRenewedByCarrier = data.groupby(['CarrierGroupLocalID'])['_ChurnStatus'].agg(fracRenewed)
+    carriers = fracPlacementsRenewedByCarrier.index.unique()
+    data['_FracPlacementsRenewedByCarrier'] = pd.Series([0. for _ in range(data.shape[0])], dtype='float')
+    for carrier in carriers:
+        carrierMask = (data.CarrierGroupLocalID == carrier)
+        data.loc[carrierMask, '_FracPlacementsRenewedByCarrier'] = fracPlacementsRenewedByCarrier[carrier]
+
+    return data
+
+def add_score_cols(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
+    if not inplace:
+        data = data.copy(deep=True) # not inplace
+    data['_TimeToExpiryScore'] = time_to_expiry_score(data._DaysToExpiry)
+    data['_PremiumAtRiskScore'] = premium_at_risk_score(data.TotalPremium)
+    data['_ClientPastPerformanceScore'] = past_performance_score(data._FracPlacementsRenewedByClient)
+    data['_CarrierPastPerformanceScore'] = past_performance_score(data._FracPlacementsRenewedByCarrier)
+    data['_ChurnProbScore'] = churn_prob_score(data)
+    data['_ClientPriorityGPA'] = client_priority_GPA(data)
+
+    return data
+    

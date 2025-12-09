@@ -1,5 +1,9 @@
 import pandas as pd
 from scipy.stats import percentileofscore
+from sklearn.compose._column_transformer import ColumnTransformer
+from sklearn.preprocessing._label import LabelEncoder
+from xgboost.sklearn import XGBClassifier
+import os 
 import joblib
 import os
 
@@ -17,63 +21,79 @@ def premium_at_risk_score(premium_col: pd.Series) -> pd.Series:
                 ))/10
     return premium_col.apply(get_score)
 
-def sentiment_score(nps_score_col: pd.Series) -> pd.Series:
+def past_performance_score(frac_renewals_col: pd.Series) -> pd.Series:
     get_score = lambda x: (percentileofscore(
-                    a=nps_score_col,
+                    a=frac_renewals_col,
                     score=x
                 ))/10
-    return nps_score_col.apply(get_score)
+    return frac_renewals_col.apply(get_score)
 
-def client_responsiveness_score(time_per_col: pd.Series) -> pd.Series:
+def churn_prob_score(data: pd.DataFrame) -> pd.Series:
+    transformer:ColumnTransformer = joblib.load(os.path.join('models', 'data_transformer.pkl'))
+    features:list = joblib.load(os.path.join('models', 'features.pkl'))
+    label_encoder: LabelEncoder = joblib.load(os.path.join('models', 'label_encoder.pkl'))
+    model: XGBClassifier = joblib.load(os.path.join('models', 'churn_model.pkl'))
+
+    X = data[features]
+    X.PlacementClientSegmentCode.replace(pd.NA, 'null', inplace=True)
+    X.IncumbentIndicator.replace(pd.NA, 'null', inplace=True)
+    y = data[['_ChurnStatus']]
+    XTf = transformer.transform(X)
+
+    ser = pd.Series(model.predict_proba(XTf)[:, 0])
+
     get_score = lambda x: (100 - percentileofscore(
-                    a=time_per_col,
+                    a=ser,
                     score=x
                 ))/10
-    return time_per_col.apply(get_score)
+    return ser.apply(get_score)
 
-def not_churn_prob_score(premium_amount_col: pd.Series,
-                     avg_days_between_logins_col: pd.Series,
-                     avg_user_sentiment_score_col: pd.Series):
-    scaler = joblib.load(os.path.join('models', 'scaler.pkl'))
-    model = joblib.load(os.path.join('models', 'churn_predictor.pkl'))
-    X = pd.concat([premium_amount_col, avg_days_between_logins_col, avg_user_sentiment_score_col], axis=1).to_numpy()
-    X = scaler.transform(X)
-
-    # pred = pd.Series(model.predict(X).argmax(axis=1)).apply(lambda x:  ['churn', 'not_churn'][x])
-    op = model.predict_proba(X)[:, 1] * 10
+def client_priority_GPA(data: pd.DataFrame) -> list:
+    weights = {
+        'time_to_expiry': 0.013407330790384362,
+        'premium_at_risk': 0.02308539217907349,
+        'client_past_performance': 0.343102480247099,
+        'carrier_past_performance': 0.0146269602786327,
+        'churn_prob': 0.6057778365048104
+        }
     
-    return pd.Series(op, name='not_churn_prob') # prob for not_churn
+    sers = {
+    '_TimeToExpiryScore' : time_to_expiry_score(data._DaysToExpiry),
+    '_PremiumAtRiskScore' : premium_at_risk_score(data.TotalPremium),
+    '_ClientPastPerformanceScore' : past_performance_score(data._FracPlacementsRenewedByClient),
+    '_CarrierPastPerformanceScore' : past_performance_score(data._FracPlacementsRenewedByCarrier),
+    '_ChurnProbScore' : churn_prob_score(data)
+    }
 
-def client_priority_GPA(df:pd.DataFrame) -> pd.Series:
-    time_to_expiry_score_wt = 0.154170 # weights from RF Model 
-    premium_at_risk_score_wt = 0.210162
-    sentiment_score_wt = 0.205210
-    client_responsiveness_score_wt = 0.228554
-    not_churn_prob_score_wt = 0.201903
-    return (time_to_expiry_score_wt * time_to_expiry_score(df._time_to_expiry_days)
-            + premium_at_risk_score_wt * premium_at_risk_score(df.premium_amount)
-            + sentiment_score_wt * sentiment_score(df.avg_user_sentiment_score) 
-            + client_responsiveness_score_wt * client_responsiveness_score(df.avg_days_between_logins)
-            + not_churn_prob_score_wt * not_churn_prob_score(df.premium_amount, df.avg_days_between_logins, df.avg_user_sentiment_score)) \
-            /(time_to_expiry_score_wt + premium_at_risk_score_wt + sentiment_score_wt + client_responsiveness_score_wt + not_churn_prob_score_wt)
+    op = pd.Series([0. for _ in range(data.shape[0])], dtype='float')
 
-def justify(df: pd.DataFrame) -> pd.Series:
+    for ind in range(len(weights)):
+        op += list(weights.values())[ind] * list(sers.values())[ind]
+
+    return op
+ 
+def justify(data: pd.DataFrame) -> pd.Series:
 
     def get_comment(row):
-        return f'date of expiry is {row.iloc[0]},\npreimum at risk is {row.iloc[1]},\nclient satisfaction with company is {row.iloc[2]},\nclient responsiveness is {row.iloc[3]},\nchurn probability is {row.iloc[4]}'
+        return f'date of expiry is {row.iloc[0]},\npreimum at risk is {row.iloc[1]},\nclient has had {row.iloc[2]} renewals in the past\nCarrier has had {row.iloc[3]} renewals in the past\nChurn probability is {row.iloc[4]}'
     scores = [
-    time_to_expiry_score(df._time_to_expiry_days),
-    premium_at_risk_score(df.premium_amount),
-    sentiment_score(df.avg_user_sentiment_score),
-    client_responsiveness_score(df.avg_days_between_logins),
-    not_churn_prob_score(df.premium_amount, df.avg_days_between_logins, df.avg_user_sentiment_score)
+        time_to_expiry_score(data._DaysToExpiry),
+        premium_at_risk_score(data.TotalPremium),
+        past_performance_score(data._FracPlacementsRenewedByClient),
+        past_performance_score(data._FracPlacementsRenewedByCarrier),
+        churn_prob_score(data),
+        client_priority_GPA(data)
     ]
 
     time_to_expiry_str = pd.Series(pd.cut(scores[0], bins=3, labels=['far', 'near', 'very near']))
     premium_at_risk_str = pd.Series(pd.cut(scores[1], bins=3, labels=['less', 'moderate', 'high']))
-    sentiment_str = pd.Series(pd.cut(scores[2], bins=3, labels=['low', 'moedrate', 'high']))
-    client_responsiveness_str = pd.Series(pd.cut(scores[3], bins=3, labels=['low', 'moedrate', 'high']))
-    not_churn_prob_str = pd.Series(pd.cut(scores[4], bins=3, labels=['high', 'moedrate', 'low']))
+    client_past_performance_str = pd.Series(pd.cut(scores[2], bins=3, labels=['less', 'moderate', 'high']))
+    carrier_past_performance_str = pd.Series(pd.cut(scores[3], bins=3, labels=['less', 'moderate', 'high']))
+    churn_prob_str = pd.Series(pd.cut(scores[4], bins=3, labels=['high', 'moderate', 'low']))
 
-    return pd.concat([time_to_expiry_str, premium_at_risk_str, sentiment_str, client_responsiveness_str, not_churn_prob_str], axis=1).apply(get_comment, axis=1)
-
+    return pd.concat([time_to_expiry_str,
+                      premium_at_risk_str,
+                      client_past_performance_str,
+                      carrier_past_performance_str,
+                      churn_prob_str
+                      ], axis=1).apply(get_comment, axis=1)
