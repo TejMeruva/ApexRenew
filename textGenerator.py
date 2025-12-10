@@ -4,22 +4,8 @@ import pandas as pd
 from transformers import pipeline
 import torch
 import os
+from retrieval import DataSource
 
-class DataSource:
-    request_url: str
-    service_title: str
-    table_name: str
-    def __init__(self, request_url: str, service_title: str, table_name: str):
-        self.request_url = request_url
-        self.service_title = service_title
-        self.table_name = table_name
-
-    def __repr__(self):
-        s = ''
-        s += f'Title of Service: {self.service_title}\n'
-        s += f'API Request URL used: {self.request_url}\n'
-        s += f'Table name: {self.table_name}'
-        return s
     
 
 client = OpenAI(api_key='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')

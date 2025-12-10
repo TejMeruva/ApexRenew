@@ -1,10 +1,13 @@
 import retrieval
+from retrieval import placementsSource
 from prettyPrint import divPrint, centerPrint
 import os
 import pandas as pd
 pd.set_option('display.max_columns', None)
 from preprocessing import preprocess, add_interpreted_cols, add_score_cols
 from prioritization import justify
+from textGenerator import get_chatbot_response, get_client_brief, DataSource
+
 
 #printing the title
 text = ''
@@ -25,9 +28,11 @@ menu = \
 4. Get E-Mails Data (uses Mock-MS_Graph_API)
 5. Get MS Calendar Data (uses Mock-MS_Graph_API)
 6. Preprocess Data and Make Pipeline 
-7. Justify GPA
-8. Top 5 Clients
-9. Exit
+7. Get Brief PDF
+8. Ask Chatbot
+9. Justify GPA
+10. Top 5 Clients
+11. Exit
 """
 
 print(menu)
@@ -93,12 +98,28 @@ while True:
             print(placements.iloc[:, :-1].head(3))
 
         case '7' :
+            id = input('Enter Client ID: ')
+            print(get_client_brief(
+                client_id=id,
+                data=placements,
+                source=placementsSource
+            ))
+        case '8':
+            inp = input('Enter prompt (mention the client ID): ')
+            print(get_chatbot_response(
+                q=inp,
+                data=placements,
+                source=placementsSource,
+                confidence=True
+            ))
+        case '9':
             ind = int(input('Enter row index: '))
             print(placements.loc[ind, '_PriorityJustification'])
-        case '8':
+        case '10':
             print(placements.sort_values(by='_ClientPriorityGPA', ascending=False).head(5))
-        case '9':
-            centerPrint('Thank You for using ApexRenewCLI!')
+        case '11':
+            print('Thank You for using ApexRenewCLI!')
             break
         case _:
-            continue
+            print('Invalid Input! Please refer to the Menu')
+            
