@@ -3,6 +3,7 @@ from preprocessing import preprocess, add_interpreted_cols, add_score_cols
 import pandas as pd
 from transformers import pipeline
 import torch
+import os
 
 class DataSource:
     request_url: str
@@ -51,7 +52,7 @@ def get_suggestions(client_id:str, data: pd.DataFrame, source: DataSource):
         client_id=client_id
     )
 
-def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_id: str = None) -> str:
+def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_id: str = None, confidence=False) -> str:
     if client_id is None:
         client_id = get_client_id(q)
     if not (client_id in data.PlacementClientLocalID.to_list()):
@@ -76,8 +77,12 @@ def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_
         model="gpt-5-nano",
         input=prompt
     )
+
     op = response.output_text
     op += f'\n\nSources:\n{source}'
+    if confidence:
+        op += f'\n\nConfidence Score (derived using Zero Shot Classification):\n'
+        op += f'{get_confidence_score(q, response.output_text)}'
 
     return op
 
@@ -100,28 +105,45 @@ def get_client_id(prompt: str) -> str:
     end_ind = start_ind + len(ref)
     return prompt[start_ind:end_ind]
 
-def get_confidence_score(prompt: str, response: str) -> float:
+def get_confidence_score(q: str, response: str) -> float:
     device = 'mps' if torch.backends.mps.is_available() else 'cpu'
+
     classifier = pipeline(
         task = 'zero-shot-classification',
         model = 'facebook/bart-large-mnli',
-        
+        device=device        
     )
 
+    inp = ''
+    inp += 'The following question was asked:\n\n'
+    inp += q
+    inp += '\n\nThe following answer was given:\n\n'
+    inp += response
+
+    labels = ['answer is correct', 'answer is incorrect']
+    res = classifier(inp, candidate_labels=labels)
+    op = dict(zip(res['labels'], res['scores']))['answer is correct']
+    return op
 
 
-data = pd.read_csv('fake_CRM_data\\placements.csv')
-preprocess(data, inplace=True)
-add_interpreted_cols(data, inplace=True)
-add_score_cols(data, inplace=True)
-print()
-q = input('Enter Question: ')
 
-AppliedEpicAPI = DataSource(
-    request_url='https://localhost::8000/placements',
-    service_title='Mock Applied Epic (CRM) API',
-    table_name='placements'
-)
+# data = pd.read_csv(os.path.join('fake_CRM_data', 'placements.csv'))
+# preprocess(data, inplace=True)
+# add_interpreted_cols(data, inplace=True)
+# add_score_cols(data, inplace=True)
+# print()
+# q = input('Enter Question: ')
 
-print(get_suggestions('SCR-51dd14cf0f45', data, AppliedEpicAPI))
-# print(get_client_id('blah blah blah bkaha feihfoeihwf febfeo SCR-0b810b6f4c20 meow meow mwogjroiewgnoea j94u3985u3498nfkls jsd'))
+# AppliedEpicAPI = DataSource(
+#     request_url='https://localhost::8000/placements',
+#     service_title='Mock Applied Epic (CRM) API',
+#     table_name='placements'
+# )
+
+# print(get_chatbot_response(
+#     q='How reliable is SCR-dd20d4b02b6b?',
+#     data=data,
+#     source=AppliedEpicAPI,
+#     confidence=True
+# ))
+# # print(get_client_id('blah blah blah bkaha feihfoeihwf febfeo SCR-0b810b6f4c20 meow meow mwogjroiewgnoea j94u3985u3498nfkls jsd'))
