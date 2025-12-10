@@ -114,6 +114,6 @@ Else → churn = 1
    - updated [main](main.py) module to use the new data. 
 
 **10 December 2025**
-1. [openai_implementation](openai.py)
+1. [openai_implementation](textGenerator.py)
    - created `initOpenAI.bat` and `initOpenAI.ps1`
    - 
