@@ -1,8 +1,33 @@
 from openai import OpenAI
 from preprocessing import preprocess, add_interpreted_cols, add_score_cols
 import pandas as pd
+from transformers import pipeline
+import torch
+
+class DataSource:
+    request_url: str
+    service_title: str
+    table_name: str
+    def __init__(self, request_url: str, service_title: str, table_name: str):
+        self.request_url = request_url
+        self.service_title = service_title
+        self.table_name = table_name
+
+    def __repr__(self):
+        s = ''
+        s += f'Title of Service: {self.service_title}\n'
+        s += f'API Request URL used: {self.request_url}\n'
+        s += f'Table name: {self.table_name}'
+        return s
+    
 
 client = OpenAI(api_key='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')
+
+# things to be added:
+# - confidence scores for the outputs 
+# - citation of sources
+# - email templates
+
 
 #intial testing
 # response = client.responses.create(
@@ -15,23 +40,18 @@ client = OpenAI(api_key='sk-proj-3tKOTrmNWZ2o3TT-s1yrOZfhtd32wDCjPmubLXBHxXp1MFQ
 def generate_template():
     pass
 
-def get_suggestions(client_id:str, data: pd.DataFrame):
+def get_suggestions(client_id:str, data: pd.DataFrame, source: DataSource):
     question = ''
     question += 'Based on the given information,'
     question += 'Give any suggestions for how I can make this client renew the placement.'
     return get_chatbot_response(
         q= question,
         data=data,
+        source=source,
         client_id=client_id
     )
 
-def get_client_id(prompt: str) -> str:
-    ref = 'SCR-0b810b6f4c20'
-    start_ind = prompt.index('SCR-')
-    end_ind = start_ind + len(ref)
-    return prompt[start_ind:end_ind]
-
-def get_chatbot_response(q: str, data: pd.DataFrame, client_id: str = None) -> str:
+def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_id: str = None) -> str:
     if client_id is None:
         client_id = get_client_id(q)
     if not (client_id in data.PlacementClientLocalID.to_list()):
@@ -53,14 +73,16 @@ def get_chatbot_response(q: str, data: pd.DataFrame, client_id: str = None) -> s
     prompt += q
     
     response = client.responses.create(
-        model="gpt-5-mini",
+        model="gpt-5-nano",
         input=prompt
     )
+    op = response.output_text
+    op += f'\n\nSources:\n{source}'
 
-    return response.output_text
+    return op
 
 
-def get_client_brief(client_id:str, data: pd.DataFrame):
+def get_client_brief(client_id:str, data: pd.DataFrame, source: DataSource):
     question = ''
     question += 'Generate a brief about this client, preferably in tabular form, mentioning all the information about the client, relevant numbers/metrics and their inferences.'
     question += 'For each score, meantion the meaning of the score.'
@@ -68,7 +90,8 @@ def get_client_brief(client_id:str, data: pd.DataFrame):
     return get_chatbot_response(
         q= question,
         data=data,
-        client_id=client_id
+        client_id=client_id,
+        source=source
     )
 
 def get_client_id(prompt: str) -> str:
@@ -77,6 +100,15 @@ def get_client_id(prompt: str) -> str:
     end_ind = start_ind + len(ref)
     return prompt[start_ind:end_ind]
 
+def get_confidence_score(prompt: str, response: str) -> float:
+    device = 'mps' if torch.backends.mps.is_available() else 'cpu'
+    classifier = pipeline(
+        task = 'zero-shot-classification',
+        model = 'facebook/bart-large-mnli',
+        
+    )
+
+
 
 data = pd.read_csv('fake_CRM_data\\placements.csv')
 preprocess(data, inplace=True)
@@ -84,5 +116,12 @@ add_interpreted_cols(data, inplace=True)
 add_score_cols(data, inplace=True)
 print()
 q = input('Enter Question: ')
-print(get_suggestions('SCR-51dd14cf0f45', data))
+
+AppliedEpicAPI = DataSource(
+    request_url='https://localhost::8000/placements',
+    service_title='Mock Applied Epic (CRM) API',
+    table_name='placements'
+)
+
+print(get_suggestions('SCR-51dd14cf0f45', data, AppliedEpicAPI))
 # print(get_client_id('blah blah blah bkaha feihfoeihwf febfeo SCR-0b810b6f4c20 meow meow mwogjroiewgnoea j94u3985u3498nfkls jsd'))

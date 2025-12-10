@@ -116,4 +116,7 @@ Else → churn = 1
 **10 December 2025**
 1. [openai_implementation](textGenerator.py)
    - created `initOpenAI.bat` and `initOpenAI.ps1`
-   - 
+   - created the function `get_chatbot_response` that will be used for the data backed QNA. 
+   - wrote the functions for generating the suggestions and client briefs.
+   - sources are also cited. (`DataSource` class was written)
+   - `Zero Shot Classification` by the `Facebook BART` LLM to be used to get the confidence score for ChatGPT's response.
