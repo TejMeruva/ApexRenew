@@ -6,7 +6,7 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 from preprocessing import preprocess, add_interpreted_cols, add_score_cols
 from prioritization import justify
-from textGenerator import get_chatbot_response, get_client_brief, DataSource
+from textGenerator import get_chatbot_response, get_client_brief, DataSource, warm_up
 
 
 #printing the title
@@ -43,7 +43,6 @@ crm_headers = ''
 colab_headers = ''
 
 placements = pd.DataFrame()
-merged = pd.DataFrame()
 
 while True:
     divPrint()
@@ -61,6 +60,8 @@ while True:
 
                 authenticated = True
                 print('Authenticated!')
+                warm_up()
+                print('GPT warmed up!')
             else:
                 print('Authorization already complete!')
         case '2':

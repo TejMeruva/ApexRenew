@@ -6,23 +6,25 @@ import torch
 import os
 from retrieval import DataSource
 
-    
-
 client = OpenAI(api_key='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')
 
-# things to be added:
-# - confidence scores for the outputs 
-# - citation of sources
-# - email templates
+device = 'mps' if torch.backends.mps.is_available() else 'cpu'
 
+classifier = pipeline(
+    task = 'zero-shot-classification',
+    model = 'facebook/bart-large-mnli',
+    device=device        
+)
 
-#intial testing
-# response = client.responses.create(
-#     model="gpt-5-nano",
-#     input="Write a one-sentence bedtime story about a unicorn."
-# )
-
-# print(response.output_text)
+def warm_up():
+    try:
+        client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": ""}]
+        )
+        print("Model warmed up.")
+    except Exception as e:
+        print(f"Warmup failed: {e}")
 
 def generate_template():
     pass
@@ -59,12 +61,12 @@ def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_
     prompt += '\nAnswer the following question based on the provided information:\n'
     prompt += q
     
-    response = client.responses.create(
+    response = client.chat.completions.create(
         model="gpt-5-nano",
-        input=prompt
-    )
+        messages=[{"role": "user", "content": prompt}]
+    ).choices[0].message.content
 
-    op = response.output_text
+    op = response
     op += f'\n\nSources:\n{source}'
     if confidence:
         op += f'\n\nConfidence Score (derived using Zero Shot Classification):\n'
@@ -91,15 +93,7 @@ def get_client_id(prompt: str) -> str:
     end_ind = start_ind + len(ref)
     return prompt[start_ind:end_ind]
 
-def get_confidence_score(q: str, response: str) -> float:
-    device = 'mps' if torch.backends.mps.is_available() else 'cpu'
-
-    classifier = pipeline(
-        task = 'zero-shot-classification',
-        model = 'facebook/bart-large-mnli',
-        device=device        
-    )
-
+def get_confidence_score(q: str, response: str, classifier = classifier) -> float:
     inp = ''
     inp += 'The following question was asked:\n\n'
     inp += q

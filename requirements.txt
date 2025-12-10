@@ -16,3 +16,4 @@ xgboost
 transformers
 torch
 openai
+uvicorn
