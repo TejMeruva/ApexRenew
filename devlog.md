@@ -110,4 +110,10 @@
 Else → churn = 1
    - trained XGB model and saved it into [models](models) floder
    - trained RF Classifier and got feature importances
-   - updates the weights in [prioritization](prioritization.py) module.
+   - updated the weights in [prioritization](prioritization.py) module.
+   - updated [main](main.py) module to use the new data. 
+
+**10 December 2025**
+1. [openai_implementation](openai.py)
+   - created `initOpenAI.bat` and `initOpenAI.ps1`
+   - 
