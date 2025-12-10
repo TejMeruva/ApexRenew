@@ -43,6 +43,7 @@ def get_suggestions(client_id:str, data: pd.DataFrame, source: DataSource):
 def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_id: str = None, confidence=False) -> str:
     if client_id is None:
         client_id = get_client_id(q)
+        if client_id == 'ID not provided' : return 'Provide the ID of the Client.'
     if not (client_id in data.PlacementClientLocalID.to_list()):
         return f'Client ID {client_id} not found'
     client_ser = data.loc[data.PlacementClientLocalID == client_id, :]
@@ -62,7 +63,7 @@ def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_
     prompt += q
     
     response = client.chat.completions.create(
-        model="gpt-5-nano",
+        model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}]
     ).choices[0].message.content
 
@@ -70,7 +71,7 @@ def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_
     op += f'\n\nSources:\n{source}'
     if confidence:
         op += f'\n\nConfidence Score (derived using Zero Shot Classification):\n'
-        op += f'{get_confidence_score(q, response.output_text)}'
+        op += f'{get_confidence_score(q, response)}'
 
     return op
 
@@ -89,7 +90,11 @@ def get_client_brief(client_id:str, data: pd.DataFrame, source: DataSource):
 
 def get_client_id(prompt: str) -> str:
     ref = 'SCR-0b810b6f4c20'
-    start_ind = prompt.index('SCR-')
+    start_ind = 0
+    try:
+        start_ind = prompt.index('SCR-')
+    except ValueError:
+        return 'ID not provided'
     end_ind = start_ind + len(ref)
     return prompt[start_ind:end_ind]
 
