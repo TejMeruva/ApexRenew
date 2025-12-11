@@ -61,7 +61,6 @@ while True:
                 authenticated = True
                 print('Authenticated!')
                 warm_up()
-                print('GPT warmed up!')
             else:
                 print('Authorization already complete!')
         case '2':

@@ -1,0 +1,9 @@
+[theme]
+base = "dark"
+font = "SF Pro"
+headingFont = "SF Pro Display"
+codeFont = "SF Mono"
+[theme.sidebar]
+font = "SF Mono"
+headingFont = "SF Pro"
+codeFont = "SF Mono"
