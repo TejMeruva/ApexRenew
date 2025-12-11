@@ -5,6 +5,7 @@ from transformers import pipeline
 import torch
 import os
 from retrieval import DataSource
+from markdown_pdf import MarkdownPdf, Section
 
 client = OpenAI(api_key='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')
 
@@ -87,6 +88,14 @@ def get_client_brief(client_id:str, data: pd.DataFrame, source: DataSource):
         client_id=client_id,
         source=source
     )
+
+def get_client_brief_pdf(p: str, client_id:str, data: pd.DataFrame, source: DataSource):
+    markdown = get_client_brief(client_id=client_id, data=data, source =source)
+    pdf = MarkdownPdf()
+    pdf.add_section(Section(markdown, toc=False))
+    pdf.save(p)
+    return 0
+
 
 def get_client_id(prompt: str) -> str:
     ref = 'SCR-0b810b6f4c20'

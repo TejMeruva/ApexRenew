@@ -38,10 +38,18 @@ def get_template_body(fname:str, role:str) -> str:
 def autofill_template(template_body: str, data: pd.Series) -> str:
     op = 0
     while op != -1:
-        start_ind = template_body.find('{') + 2
-        end_ind = template_body.find('}')
-        sub_string = template_body[start_ind:end_ind]
-        template_body.replace(sub_string, data[sub_string])
+        # print(op, end='')
+        start_ind = 0
+        op = template_body.find(r'{')
+        if op == -1:
+            break
+        else:
+            start_ind = op
+        end_ind = template_body.find(r'}')
+        colName = template_body[(start_ind + 2): end_ind]
+        to_replace = template_body[start_ind : (end_ind + 2)]
+        template_body = template_body.replace(to_replace, str(data[colName]))
+        print(to_replace)
 
     return template_body
 

@@ -1,4 +1,4 @@
-Subject: Additional Information – {{PlacementName}} ({{Client}})
+Subject: Additional Information reg. {{PlacementName}} ({{Client}})
 
 Dear [Underwriter],
 Following your request, please find below the additional information for the submission for {{PlacementName}}:
