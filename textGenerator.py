@@ -110,25 +110,3 @@ def get_confidence_score(q: str, response: str, classifier = classifier) -> floa
     op = dict(zip(res['labels'], res['scores']))['answer is correct']
     return op
 
-
-
-# data = pd.read_csv(os.path.join('fake_CRM_data', 'placements.csv'))
-# preprocess(data, inplace=True)
-# add_interpreted_cols(data, inplace=True)
-# add_score_cols(data, inplace=True)
-# print()
-# q = input('Enter Question: ')
-
-# AppliedEpicAPI = DataSource(
-#     request_url='https://localhost::8000/placements',
-#     service_title='Mock Applied Epic (CRM) API',
-#     table_name='placements'
-# )
-
-# print(get_chatbot_response(
-#     q='How reliable is SCR-dd20d4b02b6b?',
-#     data=data,
-#     source=AppliedEpicAPI,
-#     confidence=True
-# ))
-# # print(get_client_id('blah blah blah bkaha feihfoeihwf febfeo SCR-0b810b6f4c20 meow meow mwogjroiewgnoea j94u3985u3498nfkls jsd'))
