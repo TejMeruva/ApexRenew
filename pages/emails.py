@@ -41,11 +41,8 @@ with st.form('email_info'):
     submitted = st.form_submit_button()
 
 if submitted:
-    ser = st.session_state.df.loc[st.session_state.df.PlacementClientLocalID == recipient, :].reset_index(drop=True)[0]
+    ser = st.session_state.df.loc[st.session_state.df.PlacementClientLocalID == recipient, :].any()
     body = st.text_area(label=f'E-Mail to {role}', 
-                        value=autofill_template(
-                            template_body=get_template_body(fname=template, role=role),
-                            data=st.session_state.df
-                                                ) 
+                        value=ser,
                         height='content'
                         )
