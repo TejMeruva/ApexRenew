@@ -1,0 +1,9 @@
+Subject: Follow-Up: Renewal Decision for {{PlacementName}}
+
+Dear {{Client}},
+This is a follow-up regarding the renewal of {{PlacementName}}, expiring on {{PlacementExpiryDate}}. We require your confirmation to finalize placement and ensure there is no lapse in coverage.
+
+Please advise on how you would like to proceed.
+
+Best regards,
+[Your Name]

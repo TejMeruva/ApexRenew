@@ -1,0 +1,20 @@
+Subject: Request for Quotation – {{PlacementName}} (Client: {{Client}})
+
+Dear [Underwriter],
+We would like to request renewal terms for the following placement:
+
+Client: {{Client}} (ID: {{PlacementClientLocalID}})
+Placement: {{PlacementName}}
+Coverage: {{Coverage}}
+Carrier Group (incumbent): {{CarrierGroup}}
+Effective: {{PlacementEffectiveDate}}
+Expiry: {{PlacementExpiryDate}}
+Limit: {{Limit}}
+Total Premium (current): {{TotalPremium}}
+
+Submission was initially created on {{PlacementCreatedDate/Time}} by {{PlacementCreatedBy}} (ID: {{PlacementCreatedBy_ID}}).
+
+Please confirm if you require additional documents. We appreciate receiving your quotation by our target date.
+
+Regards,
+[Your Name]

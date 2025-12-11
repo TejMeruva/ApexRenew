@@ -1,0 +1,12 @@
+Subject: Renewal Confirmed – {{PlacementName}}
+
+Dear {{Client}},
+Your policy for {{PlacementName}} has been renewed effective {{PlacementEffectiveDate}} through {{PlacementExpiryDate}}.
+
+Total premium: {{TotalPremium}}
+Commission: {{ComissionAmount}} ({{Comission%}})
+
+Final policy documents will follow once issued by the carrier.
+
+Regards,
+[Your Name]

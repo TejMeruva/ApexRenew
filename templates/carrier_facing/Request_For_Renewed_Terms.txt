@@ -1,0 +1,17 @@
+Subject: Request for Revised Terms – {{PlacementName}}
+
+Dear [Underwriter],
+Thank you for providing the initial terms for {{PlacementName}}. Based on our discussion with the client {{Client}}, we request a review of the following items:
+
+Current premium ({{TotalPremium}})
+
+Limit: {{Limit}}
+
+Participation percentage: {{ParticipationPercentage}}
+
+DeclinationReason (if applicable): {{DeclinationReason}}
+
+Kindly advise if revised terms are possible.
+
+Regards,
+[Your Name]

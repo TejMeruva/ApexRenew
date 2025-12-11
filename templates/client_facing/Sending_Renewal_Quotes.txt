@@ -1,0 +1,19 @@
+Subject: Renewal Options for {{PlacementName}}
+
+Dear {{Client}},
+We have received renewal options for your placement {{PlacementName}} under the coverage {{Coverage}} and product line {{ProductLine}}.
+
+Attached, you will find:
+
+Current premium: {{TotalPremium}}
+
+Proposed renewal premium
+
+Carrier responses received as of {{ResponseReceivedDate}}
+
+Our analysis and recommendations
+
+Please review the options and let me know if you would like to discuss them further.
+
+Regards,
+[Your Name]

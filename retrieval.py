@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from io import StringIO
+import os
 
 class DataSource:
     request_url: str
@@ -18,6 +19,31 @@ class DataSource:
         s += f'Table name: {self.table_name}'
         return s
     
+def get_client_facing_template_names():
+    files:list = os.listdir(os.path.join('templates', 'client_facing'))
+    return files
+
+def get_carrier_facing_template_names():
+    files:list = os.listdir(os.path.join('templates', 'carrier_facing'))
+    return files
+
+def get_template_body(fname:str, role:str) -> str:
+    p = os.path.join('templates', role, fname)
+    text = ''
+    with open(p, 'r') as file:
+        text = file.read()
+
+    return text
+
+def autofill_template(template_body: str, data: pd.Series) -> str:
+    op = 0
+    while op != -1:
+        start_ind = template_body.find('{') + 2
+        end_ind = template_body.find('}')
+        sub_string = template_body[start_ind:end_ind]
+        template_body.replace(sub_string, data[sub_string])
+
+    return template_body
 
 def get_crm_headers(uname: str, passwd: str):
     url = "http://localhost:8000/token"

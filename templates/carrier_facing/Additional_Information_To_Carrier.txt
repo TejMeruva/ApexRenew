@@ -1,0 +1,17 @@
+Subject: Additional Information – {{PlacementName}} ({{Client}})
+
+Dear [Underwriter],
+Following your request, please find below the additional information for the submission for {{PlacementName}}:
+
+Coverage details: {{Coverage}}
+
+Product line: {{ProductLine}}
+
+Participation status: {{ParticipationStatusCode}}
+
+Carrier Group Local ID: {{CarrierGroupLocalID}}
+
+Please advise if anything further is required to complete underwriting.
+
+Regards,
+[Your Name]

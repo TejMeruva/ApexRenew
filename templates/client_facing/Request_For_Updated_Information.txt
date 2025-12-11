@@ -1,0 +1,15 @@
+Subject: Information Required for Renewal – {{PlacementName}}
+
+Dear {{Client}},
+As we prepare the renewal for {{PlacementName}}, effective {{PlacementEffectiveDate}} and expiring on {{PlacementExpiryDate}}, we require updated information to submit to carriers. Please provide:
+
+Updated exposure data for {{Coverage}}
+
+Any changes to your business since {{PlacementCreatedDate/Time}}
+
+Any specific limits or deductible preferences for the upcoming term
+
+Your prompt response will help us obtain competitive terms.
+
+Thank you,
+[Your Name]

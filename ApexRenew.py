@@ -21,11 +21,13 @@ dashboard_page = st.Page(os.path.join('pages', 'dashboard.py'), title="Dashboard
 chatbot_page = st.Page(os.path.join('pages', 'chatbot.py'), title="Chatbot")
 renewal_pipeline_page = st.Page(os.path.join('pages', 'renewal_pipeline.py'), title='Renewal Pipeline')
 about_page = st.Page(os.path.join('pages', 'about.py'), title='About')
+emails_page = st.Page(os.path.join('pages', 'emails.py'), title='E-Mails')
 
 pg = st.navigation([
     dashboard_page,
     chatbot_page,
     renewal_pipeline_page,
+    emails_page,
     about_page
 ], position='top')
 st.set_page_config(page_title="ApexRenew Dashbaord")

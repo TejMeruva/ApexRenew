@@ -1,0 +1,9 @@
+Subject: Renewal Reminder for Your Policy – {{PlacementName}}
+
+Dear {{Client}},
+This is a reminder that your insurance placement {{PlacementName}} (PlacementId: {{PlacementId}}) is set to expire on {{PlacementExpiryDate}}. To ensure uninterrupted coverage, we would like to begin the renewal process.
+
+If there have been changes to your exposure or coverage needs, please let us know. We can also explore alternative markets if appropriate.
+
+Regards,
+[Your Name]

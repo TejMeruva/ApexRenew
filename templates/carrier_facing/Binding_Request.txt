@@ -1,0 +1,14 @@
+Subject: Bind Request – {{PlacementName}} (Client: {{Client}})
+
+Dear [Underwriter],
+We would like to bind coverage for {{PlacementName}}, effective {{PlacementEffectiveDate}} through {{PlacementExpiryDate}}, according to the terms quoted.
+
+PlacementId: {{PlacementId}}
+Carrier Group: {{CarrierGroup}}
+Total Premium: {{TotalPremium}}
+Commission: {{ComissionAmount}}
+
+Please issue binder documents at your earliest convenience.
+
+Regards,
+[Your Name]
