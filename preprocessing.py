@@ -92,7 +92,7 @@ def add_score_cols(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
     data['_PremiumAtRiskScore'] = premium_at_risk_score(data.TotalPremium)
     data['_ClientPastPerformanceScore'] = past_performance_score(data._FracPlacementsRenewedByClient)
     data['_CarrierPastPerformanceScore'] = past_performance_score(data._FracPlacementsRenewedByCarrier)
-    data['_ChurnProbScore'] = churn_prob_score(data)
+    data['_NotChurnProbScore'] = churn_prob_score(data)
     data['_ClientPriorityGPA'] = client_priority_GPA(data)
 
     return data

@@ -56,7 +56,7 @@ def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_
     prompt += 'past performance (of carrier): one-tenth of the percentile of the fraction of placements renewed for each carrier'
     prompt += 'past performance (of client): one-tenth of the percentile of the fraction of the placements renewed for each client'
     prompt += 'carrier responsiveness: one-tenth of (100 - percentile of the days taken for response)*'
-    prompt += 'churn_prob_score: one-tenth of (100 - precentile of the churn probability as predicted by a trained XGBClassifier)'
+    prompt += 'not_churn_prob_score: one-tenth of (100 - precentile of the churn probability as predicted by a trained XGBClassifier) i.e closer it is to 10, more the likelihood of renewal'
     prompt += 'here is all the information I have about the client, in the form of a csv table:'
     prompt += client_ser.to_csv()
     prompt += '\nAnswer the following question based on the provided information:\n'
@@ -71,7 +71,7 @@ def get_chatbot_response(q: str, data: pd.DataFrame, source: DataSource, client_
     op += f'\n\nSources:\n{source}'
     if confidence:
         op += f'\n\nConfidence Score (derived using Zero Shot Classification):\n'
-        op += f'{get_confidence_score(q, response)}'
+        op += f'{round(get_confidence_score(q, response), 2)*100}%'
 
     return op
 
