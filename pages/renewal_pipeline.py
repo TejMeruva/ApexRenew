@@ -52,15 +52,35 @@ with col1:
         data= st.session_state.df
     )
 
+formCol1, formCol2 = st.columns(2)
+
 #brief pdf
-st.markdown('##### Generate Brief PDF')
-with st.form('breif_form'):
-    client_id = st.selectbox(label='Enter `PlacementClientLocalID`', options=st.session_state.df.PlacementClientLocalID.unique())
-    
-    brief_needed = st.form_submit_button('Get Client Brief')
-if brief_needed: 
-    brief = get_client_brief(client_id=client_id, data=st.session_state.df, source=st.session_state.placements_source)
-    st.markdown(brief)
+with formCol1:
+    st.markdown('##### Generate Brief PDF')
+    with st.form('breif_form'):
+        client_id = st.selectbox(label='Enter `PlacementClientLocalID`', options=st.session_state.df.PlacementClientLocalID.unique())
+        brief_needed = st.form_submit_button('Get Client Brief')
+
+    if brief_needed: 
+        brief = get_client_brief(client_id=client_id, data=st.session_state.df, source=st.session_state.placements_source)
+        st.markdown(brief)
+
+with formCol2:
+    st.markdown('##### Justify GPA')
+    with st.form('justicifation_form'):
+        ind = int(st.number_input('Enter Row Index'))
+        get_justification = st.form_submit_button('Get Justification')
+
+    if get_justification:
+        gpa = st.session_state.df.loc[ind, '_ClientPriorityGPA']
+        st.markdown(f'##### Justification for the GPA: {round(gpa, 2)}')
+        st.markdown(
+            st.session_state.df.loc[ind, '_GPAJustification']
+        )
+
+
+
+
 
 
 st.space('small')

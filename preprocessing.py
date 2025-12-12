@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 from prioritization import time_to_expiry_score, \
     premium_at_risk_score, past_performance_score, \
-        churn_prob_score, client_priority_GPA
+        churn_prob_score, client_priority_GPA, justify
 
 def preprocess(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
     if not inplace:
@@ -94,6 +94,7 @@ def add_score_cols(data: pd.DataFrame, inplace=False) -> pd.DataFrame:
     data['_CarrierPastPerformanceScore'] = past_performance_score(data._FracPlacementsRenewedByCarrier)
     data['_NotChurnProbScore'] = churn_prob_score(data)
     data['_ClientPriorityGPA'] = client_priority_GPA(data)
+    data['_GPAJustification'] = justify(data)
 
     return data
     

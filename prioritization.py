@@ -75,7 +75,7 @@ def client_priority_GPA(data: pd.DataFrame) -> list:
 def justify(data: pd.DataFrame) -> pd.Series:
 
     def get_comment(row):
-        return f'date of expiry is {row.iloc[0]},\npreimum at risk is {row.iloc[1]},\nclient has had {row.iloc[2]} renewals in the past\nCarrier has had {row.iloc[3]} renewals in the past\nChurn probability is {row.iloc[4]}'
+        return f'Date of expiry is {row.iloc[0]}, \nPreimum at risk is {row.iloc[1]}, \nClient has had {row.iloc[2]} renewals in the past, \nCarrier has had {row.iloc[3]} renewals in the past, \nChurn probability is {row.iloc[4]}'
     scores = [
         time_to_expiry_score(data._DaysToExpiry),
         premium_at_risk_score(data.TotalPremium),
