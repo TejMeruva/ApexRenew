@@ -114,6 +114,10 @@ def get_calendar_events_data(colab_headers):
     resp = requests.get(url, headers=colab_headers)
     return pd.read_json(StringIO(resp.json()))
 
+def get_templates_data() -> pd.DataFrame:
+    data=pd.read_csv(os.path.join('templates', 'templates.csv'))
+    return data
+
 placementsSource = DataSource(
     request_url="http://localhost:8000/placements",
     service_title='Mock Applied Epic (CRM) API',

@@ -56,9 +56,10 @@ with col1:
 st.markdown('##### Generate Brief PDF')
 with st.form('breif_form'):
     client_id = st.selectbox(label='Enter `PlacementClientLocalID`', options=st.session_state.df.PlacementClientLocalID.unique())
-    brief = get_client_brief(client_id=client_id, data=st.session_state.df, source=st.session_state.placements_source)
+    
     brief_needed = st.form_submit_button('Get Client Brief')
 if brief_needed: 
+    brief = get_client_brief(client_id=client_id, data=st.session_state.df, source=st.session_state.placements_source)
     st.markdown(brief)
 
 
