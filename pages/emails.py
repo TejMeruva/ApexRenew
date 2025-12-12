@@ -65,6 +65,7 @@ if 'body' in st.session_state:
 
 with st.form('submission_form'):
     incl = st.radio(label='Include client brief PDF?', options=['Yes', 'No'])
+    date = st.date_input(label='Schedule E-Mail', value='today')
     send = st.form_submit_button(label='Send')
 
 
@@ -74,4 +75,4 @@ if send:
         st.session_state.body += f'\n\n{p}'
         get_client_brief_pdf(data=st.session_state.df, p=p, client_id=st.session_state.df.PlacementClientLocalID[ind], source=st.session_state.placements_source)
         st.markdown(f'Brief PDF attached and saved!')
-    st.write('E-mail Sent via MS Graph API!')
+    st.write(f'E-mail to be sent via MS Graph API on {date}!')
