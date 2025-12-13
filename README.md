@@ -36,7 +36,11 @@ Insurance broker agents have to juggle between multiple platforms (CRM platform 
 ## Solution Architecture
 ![Solution_Architecture|200](Architecture.jpg)
 
-## Installation
+## Installation/Setup instructions
+1. In the Project Folder `ApexRenew/`, create a venv:
+   > python3 -m venv venv
+2. Install all Requirements 
+   > python3 
 
 ## Get Started (How to Use?)
 
