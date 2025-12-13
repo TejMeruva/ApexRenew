@@ -9,9 +9,6 @@ This is a project part of the Broker Co-Pilot Challenge of `IIT-Bombay TechFest 
 ## Problem at Hand
 Insurance broker agents have to juggle between multiple platforms (CRM platform like AppliedEpic, team collaboration platforms like MS Teams) as a part of their work in handling renewals. This begets a need for a unified platform that retrieves the data from these primary platforms and provides them to the user to make informed decisions. The idea is to minimise time wasted on tool usage and maximize broker renewal productivity.
 
-## Technical Breakdown of Solution
-..
-
 ## Solution Architecture
 ![Solution_Architecture|200](Architecture.jpg)
 
@@ -25,6 +22,7 @@ Insurance broker agents have to juggle between multiple platforms (CRM platform 
 3. Start up the APIs for CRM and collaboration platforms:
    After switching to the `FastAPI_Scripts` folder:
    > uvicorn ColabAPI:app --port 8001
+   
    > uvicorn CRMAPI:app --port 8000
 4. Open the web app
    After switching to the `ApexRenew` folder:
@@ -63,7 +61,7 @@ Insurance broker agents have to juggle between multiple platforms (CRM platform 
      - client churn likelihood
    - each factor scored out of 10 
    - weighted average of scores calculated
-   - weight for each factor derived using `feaature importances` from trained Random Forest Model: [Script](models\churn_predictor.ipynb)
+   - weight for each factor derived using `feature importances` from trained Random Forest Model: [Script](models\churn_predictor.ipynb)
    - A score can be justified as being low or high based on values of corresponding factor scores. (Justify Feature on Renewal Pipeline tab of web app)
 
    **Feedback from pilot testing**
