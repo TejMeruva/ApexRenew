@@ -7,7 +7,7 @@ import os
 from retrieval import DataSource
 from markdown_pdf import MarkdownPdf, Section
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR_API_KEY')
 
 device = 'mps' if torch.backends.mps.is_available() else 'cpu'
 
