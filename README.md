@@ -31,7 +31,7 @@ Insurance broker agents have to juggle between multiple platforms (CRM platform 
 ## Security Notes
 - user has to log in into Mock Applied Epic and MS Teams platforms to access the data.
 - The OAuth 2.0 tokens received are stored in `streamlit.session_state`
-- The No document ingestion, RAG or embeddings/vector DB was used.
+- The No document ingestion, RAG or embeddings/vector DB is used by the chatbot (Connector based QNA).
 - All data being used is retireved from the connected services through the [connector script](retrieval.py)
 - Connector QNA features involves appending a portion of the dataset into the prompt itself only upon implicit request.
 
